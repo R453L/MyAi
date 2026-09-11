@@ -1,0 +1,38 @@
+name: Weekly AI Roundup
+
+on:
+  schedule:
+    - cron: "0 15 * * 0"   # every Sunday at 15:00 UTC — adjust to your preferred day/time
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-roundup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weekly roundup
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python weekly_roundup.py
+
+      - name: Commit updated state file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update posted.json state (weekly roundup)"
+          file_pattern: state/posted.json

@@ -178,5 +178,11 @@
     "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
     "title": "Flights cancelled at UK airports due to ATC issue",
     "ts": 1789132067
+  },
+  {
+    "hash": "23d9dbb2a1f28cf4d5e4195b094b2d8e4d3c30474aee32b47270d2f439ed60a2",
+    "link": "https://clawfight.ai/agents.md",
+    "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+    "ts": 1789136030
   }
 ]

@@ -58,5 +58,125 @@
     "link": "https://arxiv.org/abs/2609.09374",
     "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
     "ts": 1789131723
+  },
+  {
+    "hash": "2ce01404d80fba7f895df99c08b92693674c707bb65a9dcbe123669ef5b3cf8a",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "ts": 1789132067
+  },
+  {
+    "hash": "5b32cdc139a2d9709fe2459735264134ab572051ac599fc561dda7b4aab936b1",
+    "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "title": "AirPods 5",
+    "ts": 1789132067
+  },
+  {
+    "hash": "711af1fbdbef2017112ff7518db111040f69ff072d73f3adb24aa54130dfbb1d",
+    "link": "https://mathstodon.xyz/@tao/117237320796901560",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "ts": 1789132067
+  },
+  {
+    "hash": "fc8b777bd49557418e111cbb8104be3b0b0cb887885af24328afbca585ca574c",
+    "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "title": "Can AI design circuit boards yet?",
+    "ts": 1789132067
+  },
+  {
+    "hash": "79a921d6eacb03253fad623ea610370d11505d36d85b5b41024173590694d279",
+    "link": "https://opentrailpaper.com",
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "ts": 1789132067
+  },
+  {
+    "hash": "3d056644792d44a8940d6a958324eb992c820368bc42cad297e67618a1137964",
+    "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "ts": 1789132067
+  },
+  {
+    "hash": "11cae200297a994092f6b20419dcb821a6cde5e52bb843d5077c387b7b180baa",
+    "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    "title": "We Must Return to the Office to Use AI in Person",
+    "ts": 1789132067
+  },
+  {
+    "hash": "a7a3a65935fc96272f27392f46e5f1e88a296670fc2543989cd106ae6acee8f8",
+    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "title": "Corporate America is getting hooked on open-source AI",
+    "ts": 1789132067
+  },
+  {
+    "hash": "0c6009cf40693d37cd54fea0376c46e2ead9d1058eb50d65bc89b2e41012d2c6",
+    "link": "https://openrouter.ai/openai/gpt-6-astra",
+    "title": "GPT-6 Astra on OpenRouter",
+    "ts": 1789132067
+  },
+  {
+    "hash": "14ec40a9600c87eff794d20ce1a14b78489d7af9feaa48a523d0a828725d2577",
+    "link": "https://news.ycombinator.com/item?id=49577129",
+    "title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "ts": 1789132067
+  },
+  {
+    "hash": "fa323a8be685f2f1485aa33c3aec00635c03f79b6c6868eac2fb3f11243f2cbd",
+    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "title": "Mercury 2.5",
+    "ts": 1789132067
+  },
+  {
+    "hash": "a759fbf9382e045243887e8d25759c9eda32a0368a99f4467aa4333c805e9df2",
+    "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "title": "How An AI math breakthrough ignited a controversy",
+    "ts": 1789132067
+  },
+  {
+    "hash": "491ca37c66589c783869ccbc7672ad7528deb3d5027a1b3dd8f670460d7cbfb0",
+    "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+    "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+    "ts": 1789132067
+  },
+  {
+    "hash": "f8e9d93c60f5ebb6b2457289d8882c0a4160e4a25e797c154368473f165f48fa",
+    "link": "https://beza1e1.tuxen.de/ai_feelings.html",
+    "title": "How I feel about AI",
+    "ts": 1789132067
+  },
+  {
+    "hash": "ebdbf0f6db65b302a9f839049978e069a46a50af6e072ba05d80b520ea268dfa",
+    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "title": "AI, Tools and Transformation",
+    "ts": 1789132067
+  },
+  {
+    "hash": "2ec73a976413b6902b5e9cf1ac61fd1f6ef2a1b49f6950751d27703e488ab080",
+    "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "ts": 1789132067
+  },
+  {
+    "hash": "d957d6c999575906f6dc4142f8a1e2fd96217aa937e7b8492944b6fd86966d3a",
+    "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "ts": 1789132067
+  },
+  {
+    "hash": "b4fa4d7778a6247d96781cfa3e1c581cab0fbd71e0020762b3fa290d8be58f14",
+    "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "title": "Speculative Decoding in vLLM on AMD GPUs",
+    "ts": 1789132067
+  },
+  {
+    "hash": "244ca616b7edfe067efca57fea80cfd86c75115a27fb4837eaefd90f1ac3b4b7",
+    "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "ts": 1789132067
+  },
+  {
+    "hash": "3fa2cd26f191938db0ddf4c83f71f1a4b5f2b216f4baf1de739f6881726ab654",
+    "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+    "title": "Flights cancelled at UK airports due to ATC issue",
+    "ts": 1789132067
   }
 ]

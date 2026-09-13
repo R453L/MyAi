@@ -1,41 +1,5 @@
 [
   {
-    "hash": "1986eab2e2ed84ba8b77a11bb12c45e167c71bf0877e057d954ab53eecb37c23",
-    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "ts": 1789117884
-  },
-  {
-    "hash": "7ba51a4b17fc44c139b323c2e35d34bb1204eca6366f1762b818da64c6efd7e5",
-    "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "title": "DeepSeek v4.1 Flash",
-    "ts": 1789118431
-  },
-  {
-    "hash": "7db995c30f47deac24862c7ba1ef7e06890903c7b9a89be65912d3fe5053b704",
-    "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "title": "Mistral raises €3B",
-    "ts": 1789118431
-  },
-  {
-    "hash": "be5fd2bc9a30a70d517df864163b69eaab8f88fcfbf4d0cc9bbfe1ec3fd01226",
-    "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-    "title": "LibreOffice breaks download records after declaring it has no AI features",
-    "ts": 1789118431
-  },
-  {
-    "hash": "3cc49d056088c2dd43796cdfaba28bcfe66a7030b0b32686a7ef14ddc07ed7ee",
-    "link": "https://ai.meta.com/muse/",
-    "title": "Muse – Meta’s personal AI agent",
-    "ts": 1789118431
-  },
-  {
-    "hash": "a871c7441d09de4dd276d70f3a1de873bdc4229964713cc0c4acd8f41ed55083",
-    "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "title": "A/I shuts down",
-    "ts": 1789118431
-  },
-  {
     "hash": "022e3eb5160edd0aff9491cb4224100c26484f5aac55925765569a08eee259cc",
     "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
     "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
@@ -250,5 +214,41 @@
     "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
     "title": "Learn Vectorized Thinking in Python Through Examples",
     "ts": 1789293534
+  },
+  {
+    "hash": "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
+    "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
+    "title": "3 Ways to Enhance Your AI Model’s Interpretability",
+    "ts": 1789294609
+  },
+  {
+    "hash": "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "ts": 1789294609
+  },
+  {
+    "hash": "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
+    "link": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
+    "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
+    "ts": 1789294609
+  },
+  {
+    "hash": "164caa252a46a8ef213c52dbc1e393d474eb4740a55b46710f59d30c91094f83",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "ts": 1789294609
+  },
+  {
+    "hash": "4d3b17a749f42c957e926aa5ecda3aa5c4eeeaa5ba6fc6a0122239385ec004be",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "ts": 1789294609
+  },
+  {
+    "hash": "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
+    "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+    "title": "AI Agent Memory Design: What Works and What Doesn’t",
+    "ts": 1789294609
   }
 ]

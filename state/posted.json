@@ -1,11 +1,5 @@
 [
   {
-    "hash": "11cae200297a994092f6b20419dcb821a6cde5e52bb843d5077c387b7b180baa",
-    "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-    "title": "We Must Return to the Office to Use AI in Person",
-    "ts": 1789132067
-  },
-  {
     "hash": "a7a3a65935fc96272f27392f46e5f1e88a296670fc2543989cd106ae6acee8f8",
     "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
     "title": "Corporate America is getting hooked on open-source AI",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "title": "Proactive cyber defense for governments and enterprises",
     "ts": 1789324162
+  },
+  {
+    "hash": "39842fa0b34b37cbe3f74a631eb53c7b3f91d6f6e5ad7b93c66d1420605c9599",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "ts": 1789336503
   }
 ]

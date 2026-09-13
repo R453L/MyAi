@@ -1,11 +1,5 @@
 [
   {
-    "hash": "51b37025f16db40e3e7e36b082e7818e93a2f43e74a7fc0befe44c6ec39ae445",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "ts": 1789107837
-  },
-  {
     "hash": "1986eab2e2ed84ba8b77a11bb12c45e167c71bf0877e057d954ab53eecb37c23",
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/dataclasses-for-structured-application-data/",
     "title": "Dataclasses for Structured Application Data",
     "ts": 1789289227
+  },
+  {
+    "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
+    "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
+    "title": "Learn Vectorized Thinking in Python Through Examples",
+    "ts": 1789293534
   }
 ]

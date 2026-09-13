@@ -1,41 +1,5 @@
 [
   {
-    "hash": "022e3eb5160edd0aff9491cb4224100c26484f5aac55925765569a08eee259cc",
-    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-    "ts": 1789129605
-  },
-  {
-    "hash": "3575fa06f201e2c98c75d4cf307b3eb38204d7d73c8ef562fc83b5b04d0aefa8",
-    "link": "https://www.producthunt.com/products/formesign",
-    "title": "Formesign",
-    "ts": 1789130818
-  },
-  {
-    "hash": "f8589638962be2997367611a6d4eca52404f857b441b5ead2965e87c6688359a",
-    "link": "https://arxiv.org/abs/2609.09374",
-    "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-    "ts": 1789131723
-  },
-  {
-    "hash": "2ce01404d80fba7f895df99c08b92693674c707bb65a9dcbe123669ef5b3cf8a",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-    "ts": 1789132067
-  },
-  {
-    "hash": "5b32cdc139a2d9709fe2459735264134ab572051ac599fc561dda7b4aab936b1",
-    "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-    "title": "AirPods 5",
-    "ts": 1789132067
-  },
-  {
-    "hash": "711af1fbdbef2017112ff7518db111040f69ff072d73f3adb24aa54130dfbb1d",
-    "link": "https://mathstodon.xyz/@tao/117237320796901560",
-    "title": "Tao: Open math problems being non-renewably mined by AI",
-    "ts": 1789132067
-  },
-  {
     "hash": "fc8b777bd49557418e111cbb8104be3b0b0cb887885af24328afbca585ca574c",
     "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "title": "Can AI design circuit boards yet?",
@@ -250,5 +214,41 @@
     "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
     "title": "AI Agent Memory Design: What Works and What Doesn’t",
     "ts": 1789294609
+  },
+  {
+    "hash": "17177c100c9150295f9a783a1f42c5ab7f67d636429664b84dc83f06cd3f4a18",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "ts": 1789296476
+  },
+  {
+    "hash": "9b54a38fa1b1a3f1fc1fd60d911784f4064b31ff199e66bfc392aa7f95235b93",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "ts": 1789296476
+  },
+  {
+    "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
+    "link": "https://huggingface.co/blog/gradio-workflow-1111",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "ts": 1789296476
+  },
+  {
+    "hash": "b5500bc6503561c622e234c790899474b8b24e1670dad4cceb0dbc466610f3db",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "ts": 1789296476
+  },
+  {
+    "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "ts": 1789296476
+  },
+  {
+    "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "ts": 1789296476
   }
 ]

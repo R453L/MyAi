@@ -1,11 +1,5 @@
 [
   {
-    "hash": "fc8b777bd49557418e111cbb8104be3b0b0cb887885af24328afbca585ca574c",
-    "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "title": "Can AI design circuit boards yet?",
-    "ts": 1789132067
-  },
-  {
     "hash": "79a921d6eacb03253fad623ea610370d11505d36d85b5b41024173590694d279",
     "link": "https://opentrailpaper.com",
     "title": "Show HN: Open-Source eInk Bike Computer",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/allenai/benchmirt",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "ts": 1789296476
+  },
+  {
+    "hash": "af008a77efc77c91b1c95794aaad1a5592749fcfb250b5a995228a9da637ce30",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5",
+    "title": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors - The Motley Fool",
+    "ts": 1789311789
   }
 ]

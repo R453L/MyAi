@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a7a3a65935fc96272f27392f46e5f1e88a296670fc2543989cd106ae6acee8f8",
-    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "title": "Corporate America is getting hooked on open-source AI",
-    "ts": 1789132067
-  },
-  {
     "hash": "0c6009cf40693d37cd54fea0376c46e2ead9d1058eb50d65bc89b2e41012d2c6",
     "link": "https://openrouter.ai/openai/gpt-6-astra",
     "title": "GPT-6 Astra on OpenRouter",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "ts": 1789336503
+  },
+  {
+    "hash": "827d84d8ea8da4c1097b4b153396caf812ca07fef06d389644704d86cf8e8b57",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG9xVXNJMVBmdHItOTFHT2pQOUl5VXpvNzUwS29MWkprMC1qNTd5N2lWSFA0Q21ub3RrdjlzNGxfUlozWTFBVnd6M0tMamhjb1RldFpqbDFXcS1iN1djRHZoTVFoZEtJbTljOTlnXzMzMlBLcHQ1R0RTVFhOZWdtaE1KSG5XRzMxOUxqUHc2UVMycGt5TElnTW1kbw?oc=5",
+    "title": "Ross Douthat says \"no story looms larger\" than the latest AI developments | 60 Minutes - CBS News",
+    "ts": 1789352124
   }
 ]

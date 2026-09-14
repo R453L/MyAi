@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ebdbf0f6db65b302a9f839049978e069a46a50af6e072ba05d80b520ea268dfa",
-    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-    "title": "AI, Tools and Transformation",
-    "ts": 1789132067
-  },
-  {
     "hash": "2ec73a976413b6902b5e9cf1ac61fd1f6ef2a1b49f6950751d27703e488ab080",
     "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
     "title": "Artificial Analysis Intelligence Index v4.2",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/funes",
     "title": "Give Your Coding Agents a Memory You Own",
     "ts": 1789377778
+  },
+  {
+    "hash": "71c43cf780d371eea28301d085ca133fc01fe57656a6564f114ce6cf1cf31e8e",
+    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "ts": 1789406487
   }
 ]

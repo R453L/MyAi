@@ -1,11 +1,5 @@
 [
   {
-    "hash": "c717d265e03032e997c9010a85f939694eaad5b030638947d325ad039e0c9ba2",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "ts": 1789201036
-  },
-  {
     "hash": "7f452d3805d7ed7a6eed76c226964c41495c6af32f87b8940dadc9fa19e25c75",
     "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.13422",
     "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
     "ts": 1789500428
+  },
+  {
+    "hash": "3eb3e9557eb7038ef8ad3df076aa5e92d0cbd3c59ac0c798d17083acd964491d",
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "ts": 1789511793
   }
 ]

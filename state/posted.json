@@ -1,11 +1,5 @@
 [
   {
-    "hash": "1dcea8b0f8acab144d9449d9a882270327a9c7315cef0dad2195f7c1e05184af",
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "title": "Introducing ChatGPT Images 2.5",
-    "ts": 1789164466
-  },
-  {
     "hash": "2d2c16afe43dcdf8d353fe450d6d2c41930f9fb1a66ab20942ea74bbb91309b0",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDREdTY2clpwOGREcjNaQkIyWVBsUEthLVJiTHhoWjBESURCNmRaeER6aXZXRV9Ya3gzdFRQZTB6bEFTQ1FySzhfQmI4b2lXUnFwVV9oQzhLMFBpSTByQ1Z5U2RDeWk3aGIweDBvQnRrQ21FQ0oxUVN5OGNGMURmeHN4aDVwd3p1QXpVWDdpNVMxUzhkTzdBX3ZoRUdOMHR6VTY3clBIbG1SaHFqQlQ3N2pMZGdlT09JZFphcXl5QndlVFpocHNz?oc=5",
     "title": "Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms - 2 Minute Medicine",
@@ -250,5 +244,11 @@
     "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
     "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
     "ts": 1789481696
+  },
+  {
+    "hash": "e33bad75df32cb02be8fb03ba4ac718fb9bf8ae9425ce40211c6e5972838b273",
+    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "ts": 1789487913
   }
 ]

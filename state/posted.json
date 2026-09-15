@@ -1,11 +1,5 @@
 [
   {
-    "hash": "614d79e4a866af7d0adf46312cd71f220e440bbd63a539d08213daef1eddd0a9",
-    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "ts": 1789152992
-  },
-  {
     "hash": "1dcea8b0f8acab144d9449d9a882270327a9c7315cef0dad2195f7c1e05184af",
     "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
     "title": "Introducing ChatGPT Images 2.5",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/webgpu-kernels",
     "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
     "ts": 1789463131
+  },
+  {
+    "hash": "485943039dc33e3b89d57106dc7011fca497263eaf7c413279e77cafeabcca76",
+    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "ts": 1789481696
   }
 ]

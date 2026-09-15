@@ -1,11 +1,5 @@
 [
   {
-    "hash": "2d2c16afe43dcdf8d353fe450d6d2c41930f9fb1a66ab20942ea74bbb91309b0",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDREdTY2clpwOGREcjNaQkIyWVBsUEthLVJiTHhoWjBESURCNmRaeER6aXZXRV9Ya3gzdFRQZTB6bEFTQ1FySzhfQmI4b2lXUnFwVV9oQzhLMFBpSTByQ1Z5U2RDeWk3aGIweDBvQnRrQ21FQ0oxUVN5OGNGMURmeHN4aDVwd3p1QXpVWDdpNVMxUzhkTzdBX3ZoRUdOMHR6VTY3clBIbG1SaHFqQlQ3N2pMZGdlT09JZFphcXl5QndlVFpocHNz?oc=5",
-    "title": "Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms - 2 Minute Medicine",
-    "ts": 1789179126
-  },
-  {
     "hash": "c717d265e03032e997c9010a85f939694eaad5b030638947d325ad039e0c9ba2",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
@@ -250,5 +244,11 @@
     "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
     "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
     "ts": 1789487913
+  },
+  {
+    "hash": "2cb5af392fbc65a7ab54a2652f433a2775c292aa219c7113755e50a99e65c786",
+    "link": "https://arxiv.org/abs/2609.13422",
+    "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+    "ts": 1789500428
   }
 ]

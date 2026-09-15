@@ -1,41 +1,5 @@
 [
   {
-    "hash": "b4fa4d7778a6247d96781cfa3e1c581cab0fbd71e0020762b3fa290d8be58f14",
-    "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "title": "Speculative Decoding in vLLM on AMD GPUs",
-    "ts": 1789132067
-  },
-  {
-    "hash": "244ca616b7edfe067efca57fea80cfd86c75115a27fb4837eaefd90f1ac3b4b7",
-    "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-    "title": "The Waymo effect: how AI is quietly making research less collaborative",
-    "ts": 1789132067
-  },
-  {
-    "hash": "3fa2cd26f191938db0ddf4c83f71f1a4b5f2b216f4baf1de739f6881726ab654",
-    "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-    "title": "Flights cancelled at UK airports due to ATC issue",
-    "ts": 1789132067
-  },
-  {
-    "hash": "23d9dbb2a1f28cf4d5e4195b094b2d8e4d3c30474aee32b47270d2f439ed60a2",
-    "link": "https://clawfight.ai/agents.md",
-    "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-    "ts": 1789136030
-  },
-  {
-    "hash": "2b0379511ea0511400ff6f8480f093b7e89048fa43741253f88f912d5b472fb1",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "ts": 1789149952
-  },
-  {
-    "hash": "74b1125af8681de125d4851c4b06afe2f4e3b196b669d8e009a690a51a3e6855",
-    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "ts": 1789150633
-  },
-  {
     "hash": "614d79e4a866af7d0adf46312cd71f220e440bbd63a539d08213daef1eddd0a9",
     "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
     "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -250,5 +214,41 @@
     "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "title": "Powering AI is an architecture problem",
     "ts": 1789439407
+  },
+  {
+    "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
+    "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
+    "title": "How to Build a Robust RAG System with Minimal Resources",
+    "ts": 1789463131
+  },
+  {
+    "hash": "74a46efb9efe82c27d6da22f1becc758699cc1a453fb672f84175464696f862d",
+    "link": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
+    "title": "Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline",
+    "ts": 1789463131
+  },
+  {
+    "hash": "30055d0ceb88d06c899140cd08573a403f7a1589a8f2c00c947200e265edca5f",
+    "link": "https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/",
+    "title": "Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It",
+    "ts": 1789463131
+  },
+  {
+    "hash": "46660cb2ea4362f69cbd737e0a8565a577f057222260acb4673428a053564622",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "ts": 1789463131
+  },
+  {
+    "hash": "a8367e00fb9a58bf10304f8a78a526528283ba98d5591ac9c3f00610f2e8d2ae",
+    "link": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
+    "title": "Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral",
+    "ts": 1789463131
+  },
+  {
+    "hash": "91dad0068ec24e5bcea7adc0e407700bb8999e1b3de1e0bfc9b0e6a4ed61b3fe",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "ts": 1789463131
   }
 ]

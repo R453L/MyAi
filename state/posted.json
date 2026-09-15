@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d957d6c999575906f6dc4142f8a1e2fd96217aa937e7b8492944b6fd86966d3a",
-    "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "title": "Detecting and countering misuse of AI: September 2026",
-    "ts": 1789132067
-  },
-  {
     "hash": "b4fa4d7778a6247d96781cfa3e1c581cab0fbd71e0020762b3fa290d8be58f14",
     "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
     "title": "Speculative Decoding in vLLM on AMD GPUs",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/introducing-chatgpt-financial-services",
     "title": "Introducing ChatGPT for Financial Services",
     "ts": 1789426559
+  },
+  {
+    "hash": "321672b4ff708a9daeb94012648c02cd58297793adf8e72da7464aa869c38e92",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "title": "Powering AI is an architecture problem",
+    "ts": 1789439407
   }
 ]

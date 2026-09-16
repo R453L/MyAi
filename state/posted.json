@@ -1,11 +1,5 @@
 [
   {
-    "hash": "7f452d3805d7ed7a6eed76c226964c41495c6af32f87b8940dadc9fa19e25c75",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "ts": 1789223875
-  },
-  {
     "hash": "f3c1e6c4e4564cd730b6bdec46ada277c7f6e1a4fceaeb46851cf3c3b3707614",
     "link": "https://arxiv.org/abs/2609.11018",
     "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
     "title": "Paul Christiano joins OpenAI Foundation Board",
     "ts": 1789511793
+  },
+  {
+    "hash": "bbd5c8ed9218efd395212791301a491f8a1e5ffb7e565b5e6d2664648dcc702b",
+    "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "ts": 1789525180
   }
 ]

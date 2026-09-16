@@ -1,11 +1,5 @@
 [
   {
-    "hash": "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
-    "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
-    "title": "AI Agent Memory Design: What Works and What Doesn’t",
-    "ts": 1789294609
-  },
-  {
     "hash": "17177c100c9150295f9a783a1f42c5ab7f67d636429664b84dc83f06cd3f4a18",
     "link": "https://huggingface.co/blog/train-multi-vector-encoder",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.13519",
     "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
     "ts": 1789586101
+  },
+  {
+    "hash": "b0366f9850a9d166d4a5ba39bed68a6273ef6289577e4ca4c3d1ff2dc628de25",
+    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "title": "Helping older adults use AI in everyday life",
+    "ts": 1789598811
   }
 ]

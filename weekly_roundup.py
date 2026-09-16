@@ -117,6 +117,9 @@ Items:
 {items_block}
 
 Write an original roundup thread:
+- NEVER use em dashes (—) or double hyphens (--) anywhere — a well-known AI-writing tell. Use a
+  period, comma, or a new sentence instead. A single \n line break inside a post is fine when it
+  helps readability.
 - Only include items that are genuinely interesting enough to write a real post about. Drop anything
   too vague, low-signal, or redundant with another item — do not pad the thread just to use every
   item given. There is NO fixed target count: if only 3 items are genuinely worth it, write 3; if 15
@@ -153,6 +156,9 @@ Write an original roundup thread:
   quotes) to render, matching this week's title/hook — never leave the wording to the image
   generator, or it will invent an unrelated caption. Name the actual tools/items covered in a short
   supporting line if it fits, not a generic placeholder.
+- IMAGE FONT: name a specific bold display-style font treatment, not a plain default sans-serif — e.g.
+  "bold condensed uppercase like Anton or Bebas Neue", "chunky rounded sans like Poppins Bold", or a
+  "punchy marker/brush-stroke accent for the key word". A plain thin font reads flat and generic.
 - IMAGE VARIETY — IMPORTANT: do NOT default to the same dark-navy-blue tech-dashboard look every week.
   Vary the color palette and layout each week — a roundup that always looks visually identical reads
   as obviously automated, which hurts the account.

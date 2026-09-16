@@ -1,41 +1,5 @@
 [
   {
-    "hash": "f3c1e6c4e4564cd730b6bdec46ada277c7f6e1a4fceaeb46851cf3c3b3707614",
-    "link": "https://arxiv.org/abs/2609.11018",
-    "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
-    "ts": 1789236042
-  },
-  {
-    "hash": "3802aa15c4b6ae22021ae0ee38d1b326bfae76ce787892fb81ed73e6ffa883e6",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "ts": 1789249821
-  },
-  {
-    "hash": "da646b9e9ab3ce085a7907097fbf9ecaa1ee6334d0743e6e9b3925e3ba749f81",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDM1NVFEZGk5SGdfWGQtaXdsNWtSX0prU21xTkxCX05KN3BnWmh3a2hMcmxKNnRSa1pVT1BLLVBGMmhqTDFscy05M3ptQWxQbm9zRkhlcENJMjFRNXpuYjlMT1BaUTVjNk1jbzRoUHgwdWtoLXdGdG1WWG5NcE5GTWZCdWFiNXc3dXdWM1MtMjRYZ2cwYXN3?oc=5",
-    "title": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy - The Motley Fool",
-    "ts": 1789264681
-  },
-  {
-    "hash": "1381db727f912eab6040be24ace542d4550605392a3fa2a111ca20fe88320bb1",
-    "link": "https://machinelearningmastery.com/dataclasses-for-structured-application-data/",
-    "title": "Dataclasses for Structured Application Data",
-    "ts": 1789289227
-  },
-  {
-    "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
-    "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
-    "title": "Learn Vectorized Thinking in Python Through Examples",
-    "ts": 1789293534
-  },
-  {
-    "hash": "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
-    "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
-    "title": "3 Ways to Enhance Your AI Model’s Interpretability",
-    "ts": 1789294609
-  },
-  {
     "hash": "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "title": "Granite 4.2 LLMs: How They're Built",
@@ -250,5 +214,41 @@
     "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
     "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
     "ts": 1789525180
+  },
+  {
+    "hash": "bb7e0509e1588ccd511caf0322b017bfa46ef63ccd86962221f73a779b4422df",
+    "link": "https://www.producthunt.com/products/flat-social",
+    "title": "flat.social",
+    "ts": 1789544050
+  },
+  {
+    "hash": "4a0eeb70de9d1ff32ce20724147bdf2c7fa2b9d36d4b21fe553c06fd12b4823c",
+    "link": "https://www.producthunt.com/products/convo-7",
+    "title": "Convo",
+    "ts": 1789544050
+  },
+  {
+    "hash": "a3d2bbf55eb25de446373fadf6a61f90799cdbd921ca85ee502d2ea79d169d87",
+    "link": "https://www.producthunt.com/products/jottoo",
+    "title": "Jottoo",
+    "ts": 1789544050
+  },
+  {
+    "hash": "478f01b39dc8430bd4ef55d67d9426312841ef7d1e3f08c220d26319b1ccf739",
+    "link": "https://www.producthunt.com/products/toki-ai",
+    "title": "Toki Coordination",
+    "ts": 1789544050
+  },
+  {
+    "hash": "9d2b09cffee656c3f2f11d3969bd4a86c5e96a7ab239f61dc88c6cd95a192010",
+    "link": "https://www.producthunt.com/products/twigg",
+    "title": "Twigg",
+    "ts": 1789544050
+  },
+  {
+    "hash": "a8b4ed5ef82fef865924e90b1ce205da74b632c60632bbbdcc52d99753f9d0eb",
+    "link": "https://www.producthunt.com/products/thread-ai-journal-memory",
+    "title": "Thread",
+    "ts": 1789544050
   }
 ]

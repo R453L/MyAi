@@ -1,23 +1,5 @@
 [
   {
-    "hash": "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "ts": 1789294609
-  },
-  {
-    "hash": "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
-    "link": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
-    "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
-    "ts": 1789294609
-  },
-  {
-    "hash": "164caa252a46a8ef213c52dbc1e393d474eb4740a55b46710f59d30c91094f83",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "ts": 1789294609
-  },
-  {
     "hash": "4d3b17a749f42c957e926aa5ecda3aa5c4eeeaa5ba6fc6a0122239385ec004be",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "title": "The Open ASR Leaderboard Adds Its First Global South Language",
@@ -250,5 +232,23 @@
     "link": "https://www.producthunt.com/products/thread-ai-journal-memory",
     "title": "Thread",
     "ts": 1789544050
+  },
+  {
+    "hash": "85052f9befba2c4e17fa41a5b103c0c0ae8459b0b1c3561b24bc565188ff9e10",
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "ts": 1789548949
+  },
+  {
+    "hash": "c717d265e03032e997c9010a85f939694eaad5b030638947d325ad039e0c9ba2",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "ts": 1789548949
+  },
+  {
+    "hash": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "ts": 1789548949
   }
 ]

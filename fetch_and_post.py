@@ -183,19 +183,30 @@ STYLE BY CATEGORY:
 - news / innovation: lead with the single most surprising or consequential fact.
 
 HARD RULES:
-- Post 1 (or the single post) must have a hook in the first 10 words that makes someone stop scrolling.
-  Use a specific number, surprising fact, or bold claim from the source — not a vague generic opener.
+- NEVER use em dashes (—) or double hyphens (--) anywhere in any post. This is one of the most
+  obvious AI-writing tells and readers notice it immediately. Use a period, a comma, or simply split
+  into two sentences instead.
+- You may use a single line break (\n) inside a post's text when it genuinely improves readability
+  (e.g. separating a hook line from the supporting detail, or setting a punchline apart) — this is
+  normal, human formatting on X. Don't force it into every post, but don't avoid it either; a wall of
+  unbroken text across every single post is itself a tell.
+- Post 1 (or the single post) must have a hook in the first 8-10 words that makes someone stop
+  scrolling. Use a specific number, surprising fact, or bold claim from the source — not a vague
+  generic opener. NEVER open with throat-clearing like "Lately I've been...", "I've been digging
+  into...", "So I found...", "Here's something interesting" — get straight to the fact/number/claim.
 - If it's a thread, EVERY post must add NEW information or a NEW angle. Never restate or rephrase a
-  point already made in an earlier post. If you can't come up with a genuinely new angle, cut the thread
-  short instead of padding it.
+  point already made in an earlier post. Each item's post should include a one-line reaction or
+  "why this matters" angle — not just a reworded restatement of the source title/summary.
+- If you can't come up with a genuinely new angle, cut the thread short instead of padding it.
 - Do NOT end with filler like "stay tuned", "more insights soon", "what a time to be alive". End with
   either: a sharp question to the audience, a contrarian/hot take, or one concrete practical takeaway.
 - Each post must be under 270 characters (X limit is 280, leave buffer).
 - Use 1-2 relevant emojis per post where they add punch (not every sentence, not decorative spam,
   not the same emoji every time — pick ones that fit the specific content).
-- Include 1-3 relevant hashtags (e.g. #AI, #AITools, #ChatGPT) in the LAST post of the single post or
-  thread. Hashtags render as clickable blue links on X and help visibility even though they don't
-  drive the algorithm much — so include them even though they're not essential to reach.
+- Include 1-3 relevant hashtags in the LAST post — prefer broad, high-traffic tags people actually
+  follow/search (#AI, #AITools, #MachineLearning, #TechNews, #ChatGPT) over narrow or redundant
+  combinations (avoid pairing near-duplicates like "#AIML #ML" together). Hashtags render as
+  clickable blue links on X and help visibility even though they don't drive the algorithm much.
 - Plain, direct, confident tone. No corporate hedging language ("it is fascinating to see", "highlights").
 - IMAGE DECISION: Set needs_image true whenever a visual would plausibly boost engagement — this
   includes most tool/product posts (show the tool's interface/concept), most tutorial posts (show the
@@ -212,6 +223,19 @@ HARD RULES:
   the topic suits humor. AVOID multi-panel numbered "how it works" instructional diagrams with small
   step-by-step boxes — those read as documentation/tutorial slides, not a hook-driven post image. The
   headline text must be BIG, bold, and high-contrast — not a small label buried among icons.
+- IMAGE TEXT IS MANDATORY AND SPECIFIC: the image_prompt MUST spell out the EXACT headline text (in
+  quotes) that should render on the image, and that text must be specific to THIS story/post — never
+  leave it to the image generator to invent its own caption. A vague instruction like "bold readable
+  text" is NOT enough and will produce an off-topic image. Example of the right level of detail:
+  image_prompt includes something like: The headline text reading exactly "4 AI TUTORIALS NOBODY'S
+  COVERING" in bold white and cyan letters, plus a small supporting line "embeddings · Gradio ·
+  fine-tuning · benchmarks" — derive the exact wording from THIS post's actual hook/topic, not a
+  generic placeholder.
+- IMAGE FONT: always name a specific bold display-style font treatment in the prompt, not a plain
+  default sans-serif — e.g. "bold condensed uppercase display font like Anton or Bebas Neue", "thick
+  rounded sans like Poppins Bold", "a punchy marker/brush-stroke style for the key word", or "chunky
+   3D-effect lettering with a drop shadow". A plain thin generic font is a common reason these images
+  look flat — call out the exact typographic feel you want.
 - IMAGE VARIETY — IMPORTANT: do NOT default to the same dark-navy-blue tech-dashboard look every time.
   Vary the color palette and hero visual each time (different background colors, different hero
   scene/character, different accent colors) — a bot that always posts a visually identical template
@@ -248,10 +272,18 @@ Items:
 {items_block}
 
 Write original content:
+- NEVER use em dashes (—) or double hyphens (--) anywhere — a well-known AI-writing tell. Use a
+  period, comma, or a new sentence instead. A single \n line break inside a post is fine when it
+  helps readability (e.g. separating the hook from the detail).
+- Post 1 must open with a hook in the first 8-10 words — a number, surprising fact, or bold claim.
+  NEVER open with throat-clearing like "Lately I've been...", "I've been digging into...", "So I
+  found..." — get straight to the point.
 - If covering multiple items: come up with a bold, catchy TITLE for this post/thread (its own field,
-  not inside the posts). Post 1 is a hook intro. Then one post per item you kept — say what it is and
-  why it matters, based ONLY on the title/context given, don't invent specifics. Final post ends with
-  a question or hot take + 1-3 hashtags.
+  not inside the posts) that matches the actual hook used in post 1 — they should feel connected, not
+  like two different taglines. Then one post per item you kept — say what it is and give a one-line
+  reaction/why-it-matters, based ONLY on the title/context given, don't invent specifics, don't just
+  reword the source title. Final post ends with a question or hot take + 1-3 broad, high-traffic
+  hashtags (#AI, #AITools, #MachineLearning — avoid redundant pairs like "#AIML #ML" together).
 - If only 1 item is genuinely worth it: leave title empty, write normal single/thread content with the
   same hook standards as usual.
 - Never copy titles verbatim — rewrite naturally. No clichéd AI phrases ("game-changer", "unlock the
@@ -264,6 +296,13 @@ Write original content:
   clean grid/list layout naming each item with an icon. Avoid multi-panel numbered "how it works"
   instructional diagrams — those read as tutorial slides, not a hook-driven post. Headline text should
   be big, bold, high-contrast — not a small label. Vary the color palette and layout each time.
+- IMAGE TEXT IS MANDATORY AND SPECIFIC: image_prompt MUST spell out the EXACT headline text (in
+  quotes) to render, matching the title/hook of THIS post — never leave the wording to the image
+  generator, or it will invent an unrelated caption. Include the specific items/theme in a short
+  supporting line if it fits (e.g. names of the tools covered), not a generic placeholder.
+- IMAGE FONT: name a specific bold display-style font treatment, not a plain default sans-serif — e.g.
+  "bold condensed uppercase like Anton or Bebas Neue", "chunky rounded sans like Poppins Bold", or
+  "punchy marker/brush-stroke accent for the key word". A plain thin font reads flat and generic.
 
 Return STRICT JSON only, no markdown fences:
 {{
@@ -436,14 +475,31 @@ def send_to_telegram(item, thread_data):
     _tg_send(footer, disable_preview=False)
 
 
-def send_multi_item_to_telegram(items, data):
+def filter_kept_items(items, dropped_titles):
+    """
+    The multi-item prompt may drop weak items from the actual posts while we
+    still passed it the full candidate list. Match on normalized title text so
+    the Telegram source list only shows items actually covered, and so dropped
+    items stay unposted (available to be reconsidered another day) instead of
+    being silently burned from the pool.
+    """
+    dropped_norm = {str(t).strip().lower() for t in (dropped_titles or [])}
+    kept = [it for it in items if it["title"].strip().lower() not in dropped_norm]
+    dropped = [it for it in items if it["title"].strip().lower() in dropped_norm]
+    return kept, dropped
+
+
+def send_multi_item_to_telegram(items, data, category="tool"):
     posts = data["posts"]
     is_thread = data.get("format") == "thread" and len(posts) > 1
     title = data.get("title", "").strip()
 
     kind_label = "Thread" if is_thread else "Single Post"
     title_part = f" · {_escape_html(title)}" if title else ""
-    header = f"🧵 <b>New AI {kind_label} Draft</b>{title_part} ({len(posts)} post{'s' if len(posts) > 1 else ''})"
+    header = (
+        f"🧵 <b>New AI {kind_label} Draft</b> · #{category.upper()}{title_part} "
+        f"({len(posts)} post{'s' if len(posts) > 1 else ''})"
+    )
     _tg_send(header)
 
     for i, post in enumerate(posts, start=1):
@@ -454,9 +510,146 @@ def send_multi_item_to_telegram(items, data):
         img_msg = f"🎨 <b>Image Prompt (use with ChatGPT/Gemini/Nano Banana):</b>\n<pre>{_escape_html(data['image_prompt'])}</pre>"
         _tg_send(img_msg)
 
+    # Only list items actually covered in the posts — dropped candidates are
+    # excluded here so the link list matches what the thread actually discusses.
+    kept, _ = filter_kept_items(items, data.get("dropped_titles"))
     lines = ["🔗 <b>Sources (verify before posting):</b>"]
-    for it in items:
+    for it in kept:
         lines.append(f"• {_escape_html(it['title'])}: {it['link']}")
+    _tg_send("\n".join(lines), disable_preview=True)
+
+
+# ---------------------------------------------------------------------------
+# AI TOOLS DIRECTORY POST — pre-vetted official links, category-grouped, image-led
+# ---------------------------------------------------------------------------
+# These are stable, well-known products with stable official URLs — hard-coded
+# here (not LLM-generated) so links are never hallucinated. Update this list
+# occasionally as tools rise/fall in relevance; the LLM only picks phrasing,
+# never invents a tool name or URL.
+TOOL_DIRECTORY = {
+    "Chatbots & Assistants": [
+        ("ChatGPT", "https://chatgpt.com"),
+        ("Claude", "https://claude.ai"),
+        ("Gemini", "https://gemini.google.com"),
+        ("Grok", "https://grok.com"),
+        ("Perplexity", "https://www.perplexity.ai"),
+    ],
+    "Writing": [
+        ("Jasper", "https://www.jasper.ai"),
+        ("Copy.ai", "https://www.copy.ai"),
+        ("Writesonic", "https://writesonic.com"),
+        ("Grammarly", "https://www.grammarly.com"),
+        ("Notion AI", "https://www.notion.so/product/ai"),
+    ],
+    "Image Generation": [
+        ("Midjourney", "https://www.midjourney.com"),
+        ("DALL-E", "https://openai.com/dall-e-3"),
+        ("Stable Diffusion", "https://stability.ai"),
+        ("Ideogram", "https://ideogram.ai"),
+        ("Leonardo AI", "https://leonardo.ai"),
+    ],
+    "Video Generation": [
+        ("Sora", "https://sora.chatgpt.com"),
+        ("Runway", "https://runwayml.com"),
+        ("Pika", "https://pika.art"),
+        ("Synthesia", "https://www.synthesia.io"),
+        ("HeyGen", "https://www.heygen.com"),
+        ("Kling", "https://klingai.com"),
+    ],
+    "Music & Audio": [
+        ("Suno", "https://suno.com"),
+        ("Udio", "https://www.udio.com"),
+        ("ElevenLabs", "https://elevenlabs.io"),
+    ],
+    "Design": [
+        ("Canva", "https://www.canva.com"),
+        ("Figma", "https://www.figma.com"),
+        ("Adobe Firefly", "https://firefly.adobe.com"),
+    ],
+    "Coding": [
+        ("GitHub Copilot", "https://github.com/features/copilot"),
+        ("Cursor", "https://www.cursor.com"),
+        ("Replit", "https://replit.com"),
+        ("Claude Code", "https://claude.com/claude-code"),
+    ],
+    "Automation": [
+        ("Zapier", "https://zapier.com"),
+        ("Make", "https://www.make.com"),
+        ("n8n", "https://n8n.io"),
+    ],
+    "Websites": [
+        ("Webflow", "https://webflow.com"),
+        ("Wix Studio", "https://www.wix.com/studio"),
+        ("Framer", "https://www.framer.com"),
+    ],
+    "Marketing": [
+        ("HubSpot AI", "https://www.hubspot.com/products/marketing/ai"),
+        ("AdCreative.ai", "https://www.adcreative.ai"),
+        ("Predis.ai", "https://predis.ai"),
+    ],
+}
+
+DIRECTORY_PROMPT = """You are creating an "AI tools directory" post for an X (Twitter) account in the AI niche.
+
+This is a well-known content format: a short, punchy CAPTION tweet paired with an eye-catching
+GRID/CARD graphic image that lists curated tools grouped by category — the kind of image people
+screenshot and save. The value lives in the image, not a long thread. The tools below are real and
+pre-vetted — use them exactly as given, never invent a tool name.
+
+Categories and tools for this post:
+{items_block}
+
+Write:
+- NEVER use em dashes (—) or double hyphens (--) anywhere — a well-known AI-writing tell.
+- ONE short caption post, under 270 characters: a strong hook in the first 8-10 words (no throat-
+  clearing like "Here's a list of..."), plus 1-3 broad hashtags at the end (#AI, #AITools). The
+  caption earns the click/save; it does not need to name every tool.
+- An image_prompt for a clean GRID/CARD graphic: a bold headline at the top matching the caption's
+  hook (spell out the EXACT headline text in quotes), then the tools organized by the categories
+  given, one short icon or bullet per tool name (use the exact names given, do not invent more).
+  Presentation/poster style, high contrast, a specific bold display font named explicitly (e.g. "bold
+  condensed uppercase like Anton or Bebas Neue"). Pure text+icon grid is exactly right here, no hero
+  photo needed.
+- No clichéd AI phrases. Have a point of view, not generic filler like "you don't want to miss these".
+
+Return STRICT JSON only, no markdown fences:
+{{
+  "post": "the short caption text",
+  "image_prompt": "detailed grid/card image prompt with the exact headline text spelled out in quotes"
+}}
+"""
+
+
+def build_tool_directory_selection(num_categories=6, tools_per_category=3):
+    categories = random.sample(list(TOOL_DIRECTORY.keys()), k=min(num_categories, len(TOOL_DIRECTORY)))
+    selection = {}
+    for cat in categories:
+        pool = TOOL_DIRECTORY[cat]
+        selection[cat] = random.sample(pool, k=min(tools_per_category, len(pool)))
+    return selection
+
+
+def generate_directory_post(selection):
+    items_block = "\n".join(
+        f"{cat}: " + ", ".join(name for name, _ in tools) for cat, tools in selection.items()
+    )
+    prompt = DIRECTORY_PROMPT.format(items_block=items_block)
+    return call_llm(prompt, temperature=0.8)
+
+
+def send_directory_post_to_telegram(selection, data):
+    header = "🧵 <b>New AI Tools Directory Post</b> (image-led)"
+    _tg_send(header)
+    _tg_send(f"Tap to copy:\n<pre>{_escape_html(data['post'])}</pre>")
+
+    if data.get("image_prompt"):
+        _tg_send(f"🎨 <b>Image Prompt (use with ChatGPT/Gemini/Nano Banana):</b>\n<pre>{_escape_html(data['image_prompt'])}</pre>")
+
+    lines = ["🔗 <b>Official links (for your reference / optional reply thread):</b>"]
+    for cat, tools in selection.items():
+        lines.append(f"<b>{_escape_html(cat)}</b>")
+        for name, url in tools:
+            lines.append(f"• {_escape_html(name)}: {url}")
     _tg_send("\n".join(lines), disable_preview=True)
 
 
@@ -471,7 +664,7 @@ CATEGORY_SCHEDULE_BY_HOUR = {
     0: "news",
     4: "tool",
     8: "tutorial",
-    12: "news",
+    12: "directory",
     16: "innovation",
     20: "offer",
 }
@@ -511,8 +704,22 @@ def main():
     posted_hashes = {entry["hash"] for entry in state}
 
     target_category = get_target_category()
+    print(f"[info] target category this run: {target_category}")
+
+    # Directory posts are self-contained (pre-vetted tool list, no RSS needed).
+    if target_category == "directory":
+        try:
+            selection = build_tool_directory_selection()
+            data = generate_directory_post(selection)
+            send_directory_post_to_telegram(selection, data)
+            print(f"[ok] posted AI tools directory post covering {sum(len(v) for v in selection.values())} tools")
+            return
+        except Exception as e:
+            print(f"[warn] directory flow failed, falling back to news single-item flow: {e}")
+            target_category = "news"
+
     all_candidates = collect_all_items()
-    print(f"[info] fetched {len(all_candidates)} candidate items; target category this run: {target_category}")
+    print(f"[info] fetched {len(all_candidates)} candidate items")
 
     preferred = [c for c in all_candidates if c.get("category_hint") == target_category]
     other = [c for c in all_candidates if c.get("category_hint") != target_category]
@@ -540,13 +747,16 @@ def main():
         if fresh_preferred:
             try:
                 data = generate_multi_item_post(fresh_preferred, target_category)
-                send_multi_item_to_telegram(fresh_preferred, data)
-                for it in fresh_preferred:
+                send_multi_item_to_telegram(fresh_preferred, data, category=target_category)
+                kept, dropped = filter_kept_items(fresh_preferred, data.get("dropped_titles"))
+                for it in kept:
                     state.append(
                         {"hash": it["_hash"], "link": it["link"], "title": it["title"], "ts": int(time.time())}
                     )
                 save_state(state)
-                print(f"[ok] posted multi-item {target_category} post covering {len(fresh_preferred)} candidates")
+                if dropped:
+                    print(f"[info] {len(dropped)} candidate(s) dropped this run, left available for later")
+                print(f"[ok] posted multi-item {target_category} post covering {len(kept)} kept item(s)")
                 return
             except Exception as e:
                 print(f"[warn] multi-item flow failed, falling back to single-item flow: {e}")

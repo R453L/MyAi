@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4d3b17a749f42c957e926aa5ecda3aa5c4eeeaa5ba6fc6a0122239385ec004be",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "ts": 1789294609
-  },
-  {
     "hash": "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
     "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
     "title": "AI Agent Memory Design: What Works and What Doesn’t",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "ts": 1789548949
+  },
+  {
+    "hash": "c093e4848e397731b43bb2960a25025f3ff77a8a71ce9985b266c8b0db88585e",
+    "link": "https://arxiv.org/abs/2609.13519",
+    "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
+    "ts": 1789586101
   }
 ]

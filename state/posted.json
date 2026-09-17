@@ -1,11 +1,5 @@
 [
   {
-    "hash": "17177c100c9150295f9a783a1f42c5ab7f67d636429664b84dc83f06cd3f4a18",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "ts": 1789296476
-  },
-  {
     "hash": "9b54a38fa1b1a3f1fc1fd60d911784f4064b31ff199e66bfc392aa7f95235b93",
     "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "title": "Helping older adults use AI in everyday life",
     "ts": 1789598811
+  },
+  {
+    "hash": "0a753cc534763dc53de4cdf48ed9fd5ecd969a709b643ce6ec6654c7f95a34d1",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktLUHh1U1puUTdjLXVDNXVUcGYwX21sUXIxNDl2UDE4VlhMa3o3dWhBZktUM1JORDNXbWg1UkRTaFlXNWZwakdnU2dYZDQ2VTNoQUJwWFpNbTN3NTBvSmVoMVZsWHNVQlNUblZPZTVQelBHUk9UWThyenBVbXE3d0cwa1dMSVHSAYwBQVVfeXFMT2xIWXpjSWwyZS1UUHdWS21HcmJWb2V1c2wxLWZGMmNpZ01QVV9CNENJY2JnN3BJbXowcFUyZXc3VGI0OFIzLVIxTzZLd1lIdllrT0NYNmJMbWJja3ZPMEx6VEVDMGJHdjVQOWE1OGtITGNrUURiX2RyY1ZCYy1FeUI3MklaSUdIeUkyLVY?oc=5",
+    "title": "UW professor says AI takeover unlikely, but concerns remain - fox13seattle.com",
+    "ts": 1789611469
   }
 ]

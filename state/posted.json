@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "ts": 1789296476
-  },
-  {
     "hash": "af008a77efc77c91b1c95794aaad1a5592749fcfb250b5a995228a9da637ce30",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5",
     "title": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors - The Motley Fool",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "title": "Introducing agentic video understanding with Gemini",
     "ts": 1789673345
+  },
+  {
+    "hash": "7f82d995c515e5ba429e7e06d184bac39c4f16f7fff73a80b082fdc2812fc58f",
+    "link": "https://openai.com/index/fyxer",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "ts": 1789684512
   }
 ]

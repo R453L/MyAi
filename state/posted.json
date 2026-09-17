@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "ts": 1789296476
-  },
-  {
     "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
     "link": "https://huggingface.co/blog/allenai/benchmirt",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
     "ts": 1789635920
+  },
+  {
+    "hash": "20b040f8e58f31e96773151263522b95c4817d13d59b4149991c6f6009767408",
+    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "title": "Introducing agentic video understanding with Gemini",
+    "ts": 1789673345
   }
 ]

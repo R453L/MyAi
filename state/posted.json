@@ -1,23 +1,5 @@
 [
   {
-    "hash": "9b54a38fa1b1a3f1fc1fd60d911784f4064b31ff199e66bfc392aa7f95235b93",
-    "link": "https://huggingface.co/blog/gradio-workflow-guide",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "ts": 1789296476
-  },
-  {
-    "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "ts": 1789296476
-  },
-  {
-    "hash": "b5500bc6503561c622e234c790899474b8b24e1670dad4cceb0dbc466610f3db",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "ts": 1789296476
-  },
-  {
     "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
     "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktLUHh1U1puUTdjLXVDNXVUcGYwX21sUXIxNDl2UDE4VlhMa3o3dWhBZktUM1JORDNXbWg1UkRTaFlXNWZwakdnU2dYZDQ2VTNoQUJwWFpNbTN3NTBvSmVoMVZsWHNVQlNUblZPZTVQelBHUk9UWThyenBVbXE3d0cwa1dMSVHSAYwBQVVfeXFMT2xIWXpjSWwyZS1UUHdWS21HcmJWb2V1c2wxLWZGMmNpZ01QVV9CNENJY2JnN3BJbXowcFUyZXc3VGI0OFIzLVIxTzZLd1lIdllrT0NYNmJMbWJja3ZPMEx6VEVDMGJHdjVQOWE1OGtITGNrUURiX2RyY1ZCYy1FeUI3MklaSUdIeUkyLVY?oc=5",
     "title": "UW professor says AI takeover unlikely, but concerns remain - fox13seattle.com",
     "ts": 1789611469
+  },
+  {
+    "hash": "17177c100c9150295f9a783a1f42c5ab7f67d636429664b84dc83f06cd3f4a18",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "ts": 1789635920
+  },
+  {
+    "hash": "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
+    "link": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
+    "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
+    "ts": 1789635920
+  },
+  {
+    "hash": "164caa252a46a8ef213c52dbc1e393d474eb4740a55b46710f59d30c91094f83",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "ts": 1789635920
   }
 ]

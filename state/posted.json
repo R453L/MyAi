@@ -1,29 +1,5 @@
 [
   {
-    "hash": "0d53af6ac7fabcb64c1fcba077d2487fe7b4bf81e9f0e3698f071ec7e3d498bd",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU5nNTZCelg4VHpDOEQ4NkttTTBBbHVoNXUyV3Y2QlRnZlZ4anlsM1FmRzVPUGZValpRbWF6R0tHX2hTem5XSnpKRlJINVktOWU3V3RRS0tuTERaZ25oc1NuSVI5ZDF6UE1zbk9mQnJLLV85V2xHRE04VXpkcHJFRXlHRE1BbVVPZjZUbWhNZERsSXR0dTE1Y0ZRY2paaE9LMWlF0gGoAUFVX3lxTE5CZ1IzaW40RFZsdE5ONm96SjNLbnd1OGxHanlvelVIc3U2SmlkazFTRWZxZlVIWEVUOGFxaTNmdmNmNFRCRExiMFE1MkdHYWdrZUJaZWxnTWlsY21MWVJ0c2otVzRqQlRYQmpPclB5SE4wNmh5WXlPVjU0RXJJS0p4QkhyRG1odmhmeFdpdi0xQVJxNlN5eDgxaERtUHRVeGx3SW5Sb0Rlcg?oc=5",
-    "title": "Obama voices caution on AI, urges Democrats to tackle it, NYT says - CNBC",
-    "ts": 1789312663
-  },
-  {
-    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "ts": 1789324162
-  },
-  {
-    "hash": "39842fa0b34b37cbe3f74a631eb53c7b3f91d6f6e5ad7b93c66d1420605c9599",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "ts": 1789336503
-  },
-  {
-    "hash": "827d84d8ea8da4c1097b4b153396caf812ca07fef06d389644704d86cf8e8b57",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG9xVXNJMVBmdHItOTFHT2pQOUl5VXpvNzUwS29MWkprMC1qNTd5N2lWSFA0Q21ub3RrdjlzNGxfUlozWTFBVnd6M0tMamhjb1RldFpqbDFXcS1iN1djRHZoTVFoZEtJbTljOTlnXzMzMlBLcHQ1R0RTVFhOZWdtaE1KSG5XRzMxOUxqUHc2UVMycGt5TElnTW1kbw?oc=5",
-    "title": "Ross Douthat says \"no story looms larger\" than the latest AI developments | 60 Minutes - CBS News",
-    "ts": 1789352124
-  },
-  {
     "hash": "09b649feee2f290b8b1e21ec6254d5d42fc6c02c2860c95af7f285faf780e8ca",
     "link": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
     "title": "Retrieval vs. Memory in Agentic AI Systems",
@@ -250,5 +226,29 @@
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTnBHa2Y3V0NGSTZZMmx0Tm1sMXpjT2hxR1NqRGF3bk5MTWZGNmdWSWt2OUs4d2lTeVJvNWt3TXFCSTJVcm5jMm0wTWNEeHVQaTY5SEc5TG5NLTlqU0tRS25DYkJwRVltQkdwQXhVOUV1R1pmNzU0SElXbmxXeFE?oc=5",
     "title": "Nebraskans wary of risks surrounding artificial intelligence - Phys.org",
     "ts": 1789697018
+  },
+  {
+    "hash": "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
+    "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
+    "title": "3 Ways to Enhance Your AI Model’s Interpretability",
+    "ts": 1789720880
+  },
+  {
+    "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
+    "link": "https://huggingface.co/blog/gradio-workflow-1111",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "ts": 1789720880
+  },
+  {
+    "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "ts": 1789720880
+  },
+  {
+    "hash": "9b54a38fa1b1a3f1fc1fd60d911784f4064b31ff199e66bfc392aa7f95235b93",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "ts": 1789720880
   }
 ]

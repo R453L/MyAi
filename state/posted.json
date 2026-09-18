@@ -1,11 +1,5 @@
 [
   {
-    "hash": "09b649feee2f290b8b1e21ec6254d5d42fc6c02c2860c95af7f285faf780e8ca",
-    "link": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
-    "title": "Retrieval vs. Memory in Agentic AI Systems",
-    "ts": 1789377778
-  },
-  {
     "hash": "3058a103a22f922fd633de65acf6f89370eb7b4a963c6c989230b58dcbd8acbd",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
     "ts": 1789720880
+  },
+  {
+    "hash": "6acbd812180ddea973e427520d76db9b63f38336ec46427bc355332ca12a778a",
+    "link": "https://arxiv.org/abs/2609.19180",
+    "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+    "ts": 1789757201
   }
 ]

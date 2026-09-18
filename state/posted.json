@@ -1,11 +1,5 @@
 [
   {
-    "hash": "3058a103a22f922fd633de65acf6f89370eb7b4a963c6c989230b58dcbd8acbd",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "ts": 1789377778
-  },
-  {
     "hash": "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938",
     "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
     "title": "7 Async Patterns for Running Agents Concurrently in Python",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.19180",
     "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
     "ts": 1789757201
+  },
+  {
+    "hash": "968c32634dc2a1cb83f007064d0bd309276c504696b107928b2bc3d51ba9601b",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "ts": 1789769011
   }
 ]

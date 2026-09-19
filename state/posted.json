@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938",
-    "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
-    "title": "7 Async Patterns for Running Agents Concurrently in Python",
-    "ts": 1789377778
-  },
-  {
     "hash": "1c29e08dbc636fd315fd92543a53b6e903581b8c4deeae7c7393eb75ea43a7aa",
     "link": "https://machinelearningmastery.com/managing-small-context-windows-in-language-models/",
     "title": "Managing Small Context Windows in Language Models",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "ts": 1789769011
+  },
+  {
+    "hash": "891b0674775700c0c0b19f801325f34ea2b0206ebf734c515556358f10da072a",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "ts": 1789783836
   }
 ]

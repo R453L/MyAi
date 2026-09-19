@@ -1,11 +1,5 @@
 [
   {
-    "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
-    "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
-    "title": "How to Build a Robust RAG System with Minimal Resources",
-    "ts": 1789463131
-  },
-  {
     "hash": "74a46efb9efe82c27d6da22f1becc758699cc1a453fb672f84175464696f862d",
     "link": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
     "title": "Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
     "title": "7 Async Patterns for Running Agents Concurrently in Python",
     "ts": 1789806331
+  },
+  {
+    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "ts": 1789842099
   }
 ]

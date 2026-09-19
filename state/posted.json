@@ -1,41 +1,5 @@
 [
   {
-    "hash": "1c29e08dbc636fd315fd92543a53b6e903581b8c4deeae7c7393eb75ea43a7aa",
-    "link": "https://machinelearningmastery.com/managing-small-context-windows-in-language-models/",
-    "title": "Managing Small Context Windows in Language Models",
-    "ts": 1789377778
-  },
-  {
-    "hash": "5940209cb4ff6dc4975163230d0c143bce37d2b8b9e4f0923efafdf10d05631c",
-    "link": "https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/",
-    "title": "7 Regression Tests Every AI Agent Should Pass Before Deploy",
-    "ts": 1789377778
-  },
-  {
-    "hash": "cdd1118267ee925c63286ac83c83df800f6195e85e821a17d4745982cb7ef8b5",
-    "link": "https://huggingface.co/blog/funes",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "ts": 1789377778
-  },
-  {
-    "hash": "71c43cf780d371eea28301d085ca133fc01fe57656a6564f114ce6cf1cf31e8e",
-    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "ts": 1789406487
-  },
-  {
-    "hash": "0bb946f0c421538942e425649beb92ebcc573674a0f10cbfe699bb79671506eb",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "title": "Introducing ChatGPT for Financial Services",
-    "ts": 1789426559
-  },
-  {
-    "hash": "321672b4ff708a9daeb94012648c02cd58297793adf8e72da7464aa869c38e92",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "title": "Powering AI is an architecture problem",
-    "ts": 1789439407
-  },
-  {
     "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
     "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
     "title": "How to Build a Robust RAG System with Minimal Resources",
@@ -250,5 +214,41 @@
     "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
     "title": "Anthropic is operating a lab that conducts biology experiments",
     "ts": 1789783836
+  },
+  {
+    "hash": "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "ts": 1789806331
+  },
+  {
+    "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
+    "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
+    "title": "Learn Vectorized Thinking in Python Through Examples",
+    "ts": 1789806331
+  },
+  {
+    "hash": "09b649feee2f290b8b1e21ec6254d5d42fc6c02c2860c95af7f285faf780e8ca",
+    "link": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
+    "title": "Retrieval vs. Memory in Agentic AI Systems",
+    "ts": 1789806331
+  },
+  {
+    "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "ts": 1789806331
+  },
+  {
+    "hash": "b5500bc6503561c622e234c790899474b8b24e1670dad4cceb0dbc466610f3db",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "ts": 1789806331
+  },
+  {
+    "hash": "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938",
+    "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
+    "title": "7 Async Patterns for Running Agents Concurrently in Python",
+    "ts": 1789806331
   }
 ]

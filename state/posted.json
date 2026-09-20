@@ -1,23 +1,5 @@
 [
   {
-    "hash": "46660cb2ea4362f69cbd737e0a8565a577f057222260acb4673428a053564622",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "ts": 1789463131
-  },
-  {
-    "hash": "a8367e00fb9a58bf10304f8a78a526528283ba98d5591ac9c3f00610f2e8d2ae",
-    "link": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
-    "title": "Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral",
-    "ts": 1789463131
-  },
-  {
-    "hash": "91dad0068ec24e5bcea7adc0e407700bb8999e1b3de1e0bfc9b0e6a4ed61b3fe",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "ts": 1789463131
-  },
-  {
     "hash": "485943039dc33e3b89d57106dc7011fca497263eaf7c413279e77cafeabcca76",
     "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
     "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWNwazRVam5JRHRJcnJUek9teWxhQWUxM2Zhelk3djRmSHh6dmcxYlE3RDhVRlNyZHVMTGFsY2ptLWhITnczWmFhSVNFVkdRZ1dsTVpidUNFa0VQaEhtOU5xcGJhRTNfTXhYN1Qya2pyOHRmM2dVLXZmOE9IX0lQYlg4dVc4RFNidUJPTXJrSGJBbzFoVEhDS1NqbXRkWFpkbXJpXw?oc=5",
     "title": "Artificial intelligence concerns | The Point Full Episode 9.19.26 - CBS News",
     "ts": 1789870612
+  },
+  {
+    "hash": "cdd1118267ee925c63286ac83c83df800f6195e85e821a17d4745982cb7ef8b5",
+    "link": "https://huggingface.co/blog/funes",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "ts": 1789895067
+  },
+  {
+    "hash": "1c29e08dbc636fd315fd92543a53b6e903581b8c4deeae7c7393eb75ea43a7aa",
+    "link": "https://machinelearningmastery.com/managing-small-context-windows-in-language-models/",
+    "title": "Managing Small Context Windows in Language Models",
+    "ts": 1789895067
+  },
+  {
+    "hash": "5940209cb4ff6dc4975163230d0c143bce37d2b8b9e4f0923efafdf10d05631c",
+    "link": "https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/",
+    "title": "7 Regression Tests Every AI Agent Should Pass Before Deploy",
+    "ts": 1789895067
   }
 ]

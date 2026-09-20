@@ -1,71 +1,5 @@
 [
   {
-    "hash": "485943039dc33e3b89d57106dc7011fca497263eaf7c413279e77cafeabcca76",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "ts": 1789481696
-  },
-  {
-    "hash": "e33bad75df32cb02be8fb03ba4ac718fb9bf8ae9425ce40211c6e5972838b273",
-    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "ts": 1789487913
-  },
-  {
-    "hash": "2cb5af392fbc65a7ab54a2652f433a2775c292aa219c7113755e50a99e65c786",
-    "link": "https://arxiv.org/abs/2609.13422",
-    "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-    "ts": 1789500428
-  },
-  {
-    "hash": "3eb3e9557eb7038ef8ad3df076aa5e92d0cbd3c59ac0c798d17083acd964491d",
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "ts": 1789511793
-  },
-  {
-    "hash": "bbd5c8ed9218efd395212791301a491f8a1e5ffb7e565b5e6d2664648dcc702b",
-    "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-    "ts": 1789525180
-  },
-  {
-    "hash": "bb7e0509e1588ccd511caf0322b017bfa46ef63ccd86962221f73a779b4422df",
-    "link": "https://www.producthunt.com/products/flat-social",
-    "title": "flat.social",
-    "ts": 1789544050
-  },
-  {
-    "hash": "4a0eeb70de9d1ff32ce20724147bdf2c7fa2b9d36d4b21fe553c06fd12b4823c",
-    "link": "https://www.producthunt.com/products/convo-7",
-    "title": "Convo",
-    "ts": 1789544050
-  },
-  {
-    "hash": "a3d2bbf55eb25de446373fadf6a61f90799cdbd921ca85ee502d2ea79d169d87",
-    "link": "https://www.producthunt.com/products/jottoo",
-    "title": "Jottoo",
-    "ts": 1789544050
-  },
-  {
-    "hash": "478f01b39dc8430bd4ef55d67d9426312841ef7d1e3f08c220d26319b1ccf739",
-    "link": "https://www.producthunt.com/products/toki-ai",
-    "title": "Toki Coordination",
-    "ts": 1789544050
-  },
-  {
-    "hash": "9d2b09cffee656c3f2f11d3969bd4a86c5e96a7ab239f61dc88c6cd95a192010",
-    "link": "https://www.producthunt.com/products/twigg",
-    "title": "Twigg",
-    "ts": 1789544050
-  },
-  {
-    "hash": "a8b4ed5ef82fef865924e90b1ce205da74b632c60632bbbdcc52d99753f9d0eb",
-    "link": "https://www.producthunt.com/products/thread-ai-journal-memory",
-    "title": "Thread",
-    "ts": 1789544050
-  },
-  {
     "hash": "85052f9befba2c4e17fa41a5b103c0c0ae8459b0b1c3561b24bc565188ff9e10",
     "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
@@ -250,5 +184,71 @@
     "link": "https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/",
     "title": "7 Regression Tests Every AI Agent Should Pass Before Deploy",
     "ts": 1789895067
+  },
+  {
+    "hash": "b9c21ef0e3f58c4a574995353e33b7961d212fa1ce3c5d526e4f8859339b211a",
+    "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "title": "AI-generated posters don’t have to be horrible",
+    "ts": 1789927576
+  },
+  {
+    "hash": "2ada79cc919c0a2cbb955935ffb03860da5f5f60ddb39355246316d746da6513",
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "ts": 1789927576
+  },
+  {
+    "hash": "2529c4416d7268f8c69f64e423a9e4c52c93507080aee283a9e9b90eb8043f4f",
+    "link": "https://bend-lang.com/",
+    "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+    "ts": 1789927576
+  },
+  {
+    "hash": "467dc9d436589458d553999ae49b4f99c542ff3d046c0f6ae401cc3a2f4a8723",
+    "link": "https://mistral.ai/news/mistral-x-mozilla/",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "ts": 1789927576
+  },
+  {
+    "hash": "e23fae26ca174658c119cd467cd5f5834b5098661c753feadab4a8292cdbeccf",
+    "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+    "title": "US Military had close call after using AI for hallucinated intelligence report",
+    "ts": 1789927576
+  },
+  {
+    "hash": "b3615add02cfa21d129feb2c27b526ccf0cfc3c2a48d488fded6d60a5470698a",
+    "link": "https://www.hacktron.ai/blog/hacking-openai",
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "ts": 1789927576
+  },
+  {
+    "hash": "3efbd9eb24461e518f19a08dbf025c5e3e80ec678a661f6dad964b6bdefa6a2e",
+    "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "title": "How GLM built its own inference infrastructure",
+    "ts": 1789927576
+  },
+  {
+    "hash": "0157005b9d1f296a502364c93fb5782ff5512404597bbc61689a29129dc93814",
+    "link": "https://withcapsule.app/",
+    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "ts": 1789927576
+  },
+  {
+    "hash": "45e988c726e7178ce3c2283c3d2b9cda10fcfa58b5eb3f5fa35d1f811a2531c5",
+    "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "title": "We got admin access to Baseten's production GitHub",
+    "ts": 1789927576
+  },
+  {
+    "hash": "58292849ad5172bdb3e1feddc96c54db2926eb4203879546274d625a889300c5",
+    "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+    "ts": 1789927576
+  },
+  {
+    "hash": "69fc18ebf5136059ca2058146c07ef66ccf48a5e863eca8ea357edf29bc8e20a",
+    "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "ts": 1789927576
   }
 ]

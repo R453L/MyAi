@@ -1,11 +1,5 @@
 [
   {
-    "hash": "c717d265e03032e997c9010a85f939694eaad5b030638947d325ad039e0c9ba2",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "ts": 1789548949
-  },
-  {
     "hash": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "ts": 1789929080
+  },
+  {
+    "hash": "d22acfa5d0cc1d093c4a65f65bd5a5e37fe40593680fa261c56e48d108a9e1af",
+    "link": "https://openai.com/index/cooley-gopublic",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "ts": 1789942350
   }
 ]

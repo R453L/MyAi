@@ -1,11 +1,5 @@
 [
   {
-    "hash": "17177c100c9150295f9a783a1f42c5ab7f67d636429664b84dc83f06cd3f4a18",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "ts": 1789635920
-  },
-  {
     "hash": "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
     "link": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
     "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.21221",
     "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
     "ts": 1790012071
+  },
+  {
+    "hash": "4410122683c569258d5a0a362f1b6f8fd8c0f990511414b3cd22c476b31d6130",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "title": "How to connect AI usage to business value",
+    "ts": 1790031430
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "ts": 1789548949
-  },
-  {
     "hash": "c093e4848e397731b43bb2960a25025f3ff77a8a71ce9985b266c8b0db88585e",
     "link": "https://arxiv.org/abs/2609.13519",
     "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/cooley-gopublic",
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "ts": 1789942350
+  },
+  {
+    "hash": "21021adfef8aa0490caa6bab98f97cc9c8d2bc9a8321b0ac77ff948265dda1db",
+    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "ts": 1789957444
   }
 ]

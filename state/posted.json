@@ -1,17 +1,5 @@
 [
   {
-    "hash": "c093e4848e397731b43bb2960a25025f3ff77a8a71ce9985b266c8b0db88585e",
-    "link": "https://arxiv.org/abs/2609.13519",
-    "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
-    "ts": 1789586101
-  },
-  {
-    "hash": "b0366f9850a9d166d4a5ba39bed68a6273ef6289577e4ca4c3d1ff2dc628de25",
-    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "title": "Helping older adults use AI in everyday life",
-    "ts": 1789598811
-  },
-  {
     "hash": "0a753cc534763dc53de4cdf48ed9fd5ecd969a709b643ce6ec6654c7f95a34d1",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktLUHh1U1puUTdjLXVDNXVUcGYwX21sUXIxNDl2UDE4VlhMa3o3dWhBZktUM1JORDNXbWg1UkRTaFlXNWZwakdnU2dYZDQ2VTNoQUJwWFpNbTN3NTBvSmVoMVZsWHNVQlNUblZPZTVQelBHUk9UWThyenBVbXE3d0cwa1dMSVHSAYwBQVVfeXFMT2xIWXpjSWwyZS1UUHdWS21HcmJWb2V1c2wxLWZGMmNpZ01QVV9CNENJY2JnN3BJbXowcFUyZXc3VGI0OFIzLVIxTzZLd1lIdllrT0NYNmJMbWJja3ZPMEx6VEVDMGJHdjVQOWE1OGtITGNrUURiX2RyY1ZCYy1FeUI3MklaSUdIeUkyLVY?oc=5",
     "title": "UW professor says AI takeover unlikely, but concerns remain - fox13seattle.com",
@@ -250,5 +238,17 @@
     "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
     "title": "Vocci’s ring adds a new form factor to meeting note-taking",
     "ts": 1789957444
+  },
+  {
+    "hash": "a8367e00fb9a58bf10304f8a78a526528283ba98d5591ac9c3f00610f2e8d2ae",
+    "link": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
+    "title": "Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral",
+    "ts": 1789983349
+  },
+  {
+    "hash": "91dad0068ec24e5bcea7adc0e407700bb8999e1b3de1e0bfc9b0e6a4ed61b3fe",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "ts": 1789983349
   }
 ]

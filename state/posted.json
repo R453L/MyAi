@@ -1,11 +1,5 @@
 [
   {
-    "hash": "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
-    "link": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
-    "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
-    "ts": 1789635920
-  },
-  {
     "hash": "164caa252a46a8ef213c52dbc1e393d474eb4740a55b46710f59d30c91094f83",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "title": "How to connect AI usage to business value",
     "ts": 1790031430
+  },
+  {
+    "hash": "a8482f18a45413c783dcd18c773e0258e7c22f43191c7ade71d5a7f7d5d0b150",
+    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+    "ts": 1790043654
   }
 ]

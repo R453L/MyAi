@@ -1,11 +1,5 @@
 [
   {
-    "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "ts": 1789720880
-  },
-  {
     "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
     "link": "https://huggingface.co/blog/allenai/benchmirt",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.21165",
     "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
     "ts": 1790105525
+  },
+  {
+    "hash": "3fcefd9c665fb2c2484965cf43548bc94be5c40db4dc345287024e6c77f2703e",
+    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "ts": 1790116847
   }
 ]

@@ -1,29 +1,5 @@
 [
   {
-    "hash": "164caa252a46a8ef213c52dbc1e393d474eb4740a55b46710f59d30c91094f83",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "ts": 1789635920
-  },
-  {
-    "hash": "20b040f8e58f31e96773151263522b95c4817d13d59b4149991c6f6009767408",
-    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "title": "Introducing agentic video understanding with Gemini",
-    "ts": 1789673345
-  },
-  {
-    "hash": "7f82d995c515e5ba429e7e06d184bac39c4f16f7fff73a80b082fdc2812fc58f",
-    "link": "https://openai.com/index/fyxer",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "ts": 1789684512
-  },
-  {
-    "hash": "06468f882eaaf85b8810f4b14f4c4b05d68c5d82cb27252b089af17398cb7336",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTnBHa2Y3V0NGSTZZMmx0Tm1sMXpjT2hxR1NqRGF3bk5MTWZGNmdWSWt2OUs4d2lTeVJvNWt3TXFCSTJVcm5jMm0wTWNEeHVQaTY5SEc5TG5NLTlqU0tRS25DYkJwRVltQkdwQXhVOUV1R1pmNzU0SElXbmxXeFE?oc=5",
-    "title": "Nebraskans wary of risks surrounding artificial intelligence - Phys.org",
-    "ts": 1789697018
-  },
-  {
     "hash": "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
     "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
     "title": "3 Ways to Enhance Your AI Model’s Interpretability",
@@ -250,5 +226,29 @@
     "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
     "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
     "ts": 1790043654
+  },
+  {
+    "hash": "693b3130e25cc8808f585a694f7201006d36e37cb71c7b8ae2099287d6befd80",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "ts": 1790067905
+  },
+  {
+    "hash": "62e28416b2ef27d254c16a5242a04b7fbba1475f93a4f102fe98a9b949fccb03",
+    "link": "https://machinelearningmastery.com/designing-ai-agents-that-can-self-correct/",
+    "title": "Designing AI Agents That Can Self-Correct",
+    "ts": 1790067905
+  },
+  {
+    "hash": "cd4e18903cae21f0fb6e9e6561b6306a54bc7dee245c0d99ffd106d72dbf0f55",
+    "link": "https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/",
+    "title": "Prompt Caching vs. Fine-Tuning: A Cost and Latency Decision Framework",
+    "ts": 1790067905
+  },
+  {
+    "hash": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "ts": 1790067905
   }
 ]

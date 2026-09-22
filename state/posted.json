@@ -1,11 +1,5 @@
 [
   {
-    "hash": "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
-    "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
-    "title": "3 Ways to Enhance Your AI Model’s Interpretability",
-    "ts": 1789720880
-  },
-  {
     "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
     "link": "https://huggingface.co/blog/gradio-workflow-1111",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "ts": 1790067905
+  },
+  {
+    "hash": "b18e08e68fb5b4a990b9e7599918918703e1eacf29af341ef6cf0b7346107b51",
+    "link": "https://arxiv.org/abs/2609.21165",
+    "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+    "ts": 1790105525
   }
 ]

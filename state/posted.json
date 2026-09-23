@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "ts": 1789720880
-  },
-  {
     "hash": "9b54a38fa1b1a3f1fc1fd60d911784f4064b31ff199e66bfc392aa7f95235b93",
     "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
     "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
     "ts": 1790116847
+  },
+  {
+    "hash": "8ea6cbfd1c9012c5f73deb9a60ed17819fc4fbcb5f223b27054a69775f189dec",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "ts": 1790130138
   }
 ]

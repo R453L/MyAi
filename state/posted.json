@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "ts": 1789806331
-  },
-  {
     "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
     "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
     "title": "Learn Vectorized Thinking in Python Through Examples",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.25286",
     "title": "Learned Enterprise Data Comprehension: Compression and Routing for Data Agents",
     "ts": 1790191571
+  },
+  {
+    "hash": "52e46e8371e1f69996c0f8fdcd7f1aabc16e63bd6bcc1139e79b18fa15fc40d2",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "title": "Two years of OpenAI Academy",
+    "ts": 1790202936
   }
 ]

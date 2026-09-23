@@ -1,11 +1,5 @@
 [
   {
-    "hash": "891b0674775700c0c0b19f801325f34ea2b0206ebf734c515556358f10da072a",
-    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "ts": 1789783836
-  },
-  {
     "hash": "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "title": "Granite 4.2 LLMs: How They're Built",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
     "title": "How to Build a Robust RAG System with Minimal Resources",
     "ts": 1790154162
+  },
+  {
+    "hash": "0cf38753f361503e83590e3ed9c220cd280125ebb01db3282686300f86e3addc",
+    "link": "https://arxiv.org/abs/2609.25286",
+    "title": "Learned Enterprise Data Comprehension: Compression and Routing for Data Agents",
+    "ts": 1790191571
   }
 ]

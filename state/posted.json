@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938",
-    "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
-    "title": "7 Async Patterns for Running Agents Concurrently in Python",
-    "ts": 1789806331
-  },
-  {
     "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "title": "Proactive cyber defense for governments and enterprises",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
     "ts": 1790240377
+  },
+  {
+    "hash": "f0e27f432f48fb866973d706dc1defd4932a0fe39de8b10057213a59b007aaf3",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "ts": 1790266136
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "ts": 1789842099
-  },
-  {
     "hash": "a00923bf4ddda715364788a2da3f2ff96c940524eada89a0c5609e53d1b669fd",
     "link": "https://openai.com/index/australian-youth-safety-blueprint",
     "title": "Introducing the Australian Youth Safety Blueprint",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
     "ts": 1790266136
+  },
+  {
+    "hash": "73461b3e97af0d93277a11c940eddd760e1483f50dc51139e0bbfefde7d9b54f",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "ts": 1790290530
   }
 ]

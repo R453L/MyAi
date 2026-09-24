@@ -1,23 +1,5 @@
 [
   {
-    "hash": "09b649feee2f290b8b1e21ec6254d5d42fc6c02c2860c95af7f285faf780e8ca",
-    "link": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
-    "title": "Retrieval vs. Memory in Agentic AI Systems",
-    "ts": 1789806331
-  },
-  {
-    "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "ts": 1789806331
-  },
-  {
-    "hash": "b5500bc6503561c622e234c790899474b8b24e1670dad4cceb0dbc466610f3db",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "ts": 1789806331
-  },
-  {
     "hash": "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938",
     "link": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
     "title": "7 Async Patterns for Running Agents Concurrently in Python",
@@ -250,5 +232,23 @@
     "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
     "title": "Meta introduces camera-free AI glasses",
     "ts": 1790215707
+  },
+  {
+    "hash": "30aa7c0acfe7f3809f1c0c2e3d8197e23f507daa6c3cae8fb2a05da2a018d4df",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "ts": 1790240377
+  },
+  {
+    "hash": "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
+    "link": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
+    "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
+    "ts": 1790240377
+  },
+  {
+    "hash": "85052f9befba2c4e17fa41a5b103c0c0ae8459b0b1c3561b24bc565188ff9e10",
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "ts": 1790240377
   }
 ]

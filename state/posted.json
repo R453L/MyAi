@@ -1,41 +1,5 @@
 [
   {
-    "hash": "a5d46389ccdc87a9ec3b0f75cd059cbcb6ee1df63a29c45daf0f637db98ce813",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWNwazRVam5JRHRJcnJUek9teWxhQWUxM2Zhelk3djRmSHh6dmcxYlE3RDhVRlNyZHVMTGFsY2ptLWhITnczWmFhSVNFVkdRZ1dsTVpidUNFa0VQaEhtOU5xcGJhRTNfTXhYN1Qya2pyOHRmM2dVLXZmOE9IX0lQYlg4dVc4RFNidUJPTXJrSGJBbzFoVEhDS1NqbXRkWFpkbXJpXw?oc=5",
-    "title": "Artificial intelligence concerns | The Point Full Episode 9.19.26 - CBS News",
-    "ts": 1789870612
-  },
-  {
-    "hash": "cdd1118267ee925c63286ac83c83df800f6195e85e821a17d4745982cb7ef8b5",
-    "link": "https://huggingface.co/blog/funes",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "ts": 1789895067
-  },
-  {
-    "hash": "1c29e08dbc636fd315fd92543a53b6e903581b8c4deeae7c7393eb75ea43a7aa",
-    "link": "https://machinelearningmastery.com/managing-small-context-windows-in-language-models/",
-    "title": "Managing Small Context Windows in Language Models",
-    "ts": 1789895067
-  },
-  {
-    "hash": "5940209cb4ff6dc4975163230d0c143bce37d2b8b9e4f0923efafdf10d05631c",
-    "link": "https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/",
-    "title": "7 Regression Tests Every AI Agent Should Pass Before Deploy",
-    "ts": 1789895067
-  },
-  {
-    "hash": "b9c21ef0e3f58c4a574995353e33b7961d212fa1ce3c5d526e4f8859339b211a",
-    "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "title": "AI-generated posters don’t have to be horrible",
-    "ts": 1789927576
-  },
-  {
-    "hash": "2ada79cc919c0a2cbb955935ffb03860da5f5f60ddb39355246316d746da6513",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "ts": 1789927576
-  },
-  {
     "hash": "2529c4416d7268f8c69f64e423a9e4c52c93507080aee283a9e9b90eb8043f4f",
     "link": "https://bend-lang.com/",
     "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
@@ -250,5 +214,41 @@
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakNpSWY4VDVyWDQ1QWlZR2lZWkExY3dlMGJMNTdQWEFJOVFWYXAzSDVlQWdaZmp0a0tOcjEzcW9YZDEzNXFVam93UWFkZWV5bFBxcXh0MkNyZTVNMkUyTkpLWDMtNGl3OUdZWVNKNjh2bkx5ajFCMjVUMkI5N3dELUZhT21oSFpaM1ZxbTIzQ2FaaW9IcGM3QW1MUFcySXRtZXlfelhUYk00Q0U1ZUExem1lS1FMRE0zdDZ3TUlibnhPX2V5RGZ0LUNTTnFCVzc2b1ZhSGMtdVpTRGxTY0HSAeYBQVVfeXFMTzlKbi1DbVE5TGkyU1E2VnJ4TjBBLWdxelRnR2FNNFExbWllUy0wQWhfUUlNMjhWM0xzRnB3bHdacFlNOGcyaS1xYnlwUUsxcnF1bXhReXA5cnpnLWM0cU1Bc25DZkoxY05XbzdtZkN4ZzJ2ZzFib3NjSFFseFFUQXJCeS10RWN0VlZ4LTB5bkpqclRDWHNNUzNibWFHZDg1blBWMHFEanhlaHpGOS1VRXpiN3Exa1Ezb2NjOEdBNGxNZ3QwZlBYcjlrOUVzdzQ1XzJfREg0NlhqUjFsQnBXZzZOT1NxMnc?oc=5",
     "title": "Rice University to offer Master of Artificial Intelligence degree program in 2027 - Houston Public Media",
     "ts": 1790303031
+  },
+  {
+    "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
+    "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
+    "title": "Learn Vectorized Thinking in Python Through Examples",
+    "ts": 1790328122
+  },
+  {
+    "hash": "30055d0ceb88d06c899140cd08573a403f7a1589a8f2c00c947200e265edca5f",
+    "link": "https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/",
+    "title": "Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It",
+    "ts": 1790328122
+  },
+  {
+    "hash": "f8778be9a2934073671be3cf58187d81e7e0f1c5d285d59a6bf01dbfcf0e34f2",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "ts": 1790328122
+  },
+  {
+    "hash": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
+    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "title": "Transformers now runs llama.cpp quants",
+    "ts": 1790328122
+  },
+  {
+    "hash": "246c2b69927b7a2bf6089c52f2647b37e0e494665888d85237da8ce2cf64df09",
+    "link": "https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/",
+    "title": "Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces",
+    "ts": 1790328122
+  },
+  {
+    "hash": "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
+    "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+    "title": "AI Agent Memory Design: What Works and What Doesn’t",
+    "ts": 1790328122
   }
 ]

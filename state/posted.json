@@ -1,11 +1,5 @@
 [
   {
-    "hash": "2529c4416d7268f8c69f64e423a9e4c52c93507080aee283a9e9b90eb8043f4f",
-    "link": "https://bend-lang.com/",
-    "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-    "ts": 1789927576
-  },
-  {
     "hash": "467dc9d436589458d553999ae49b4f99c542ff3d046c0f6ae401cc3a2f4a8723",
     "link": "https://mistral.ai/news/mistral-x-mozilla/",
     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
     "title": "AI Agent Memory Design: What Works and What Doesn’t",
     "ts": 1790328122
+  },
+  {
+    "hash": "1357a9ae7911e1d557ac7ffa71b9c9e7ae12a960458a027aff8f7f846d93a6f9",
+    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "title": "Putting sign language AI into users’ hands",
+    "ts": 1790352724
   }
 ]

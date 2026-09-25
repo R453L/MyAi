@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a00923bf4ddda715364788a2da3f2ff96c940524eada89a0c5609e53d1b669fd",
-    "link": "https://openai.com/index/australian-youth-safety-blueprint",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "ts": 1789854911
-  },
-  {
     "hash": "a5d46389ccdc87a9ec3b0f75cd059cbcb6ee1df63a29c45daf0f637db98ce813",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWNwazRVam5JRHRJcnJUek9teWxhQWUxM2Zhelk3djRmSHh6dmcxYlE3RDhVRlNyZHVMTGFsY2ptLWhITnczWmFhSVNFVkdRZ1dsTVpidUNFa0VQaEhtOU5xcGJhRTNfTXhYN1Qya2pyOHRmM2dVLXZmOE9IX0lQYlg4dVc4RFNidUJPTXJrSGJBbzFoVEhDS1NqbXRkWFpkbXJpXw?oc=5",
     "title": "Artificial intelligence concerns | The Point Full Episode 9.19.26 - CBS News",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "title": "Introducing GPT-6 Sol and Luna",
     "ts": 1790290530
+  },
+  {
+    "hash": "7636a0e3c3486e2cd452c6c28e05a02a997bb047b57be7bebb9bcf6cb5b47576",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakNpSWY4VDVyWDQ1QWlZR2lZWkExY3dlMGJMNTdQWEFJOVFWYXAzSDVlQWdaZmp0a0tOcjEzcW9YZDEzNXFVam93UWFkZWV5bFBxcXh0MkNyZTVNMkUyTkpLWDMtNGl3OUdZWVNKNjh2bkx5ajFCMjVUMkI5N3dELUZhT21oSFpaM1ZxbTIzQ2FaaW9IcGM3QW1MUFcySXRtZXlfelhUYk00Q0U1ZUExem1lS1FMRE0zdDZ3TUlibnhPX2V5RGZ0LUNTTnFCVzc2b1ZhSGMtdVpTRGxTY0HSAeYBQVVfeXFMTzlKbi1DbVE5TGkyU1E2VnJ4TjBBLWdxelRnR2FNNFExbWllUy0wQWhfUUlNMjhWM0xzRnB3bHdacFlNOGcyaS1xYnlwUUsxcnF1bXhReXA5cnpnLWM0cU1Bc25DZkoxY05XbzdtZkN4ZzJ2ZzFib3NjSFFseFFUQXJCeS10RWN0VlZ4LTB5bkpqclRDWHNNUzNibWFHZDg1blBWMHFEanhlaHpGOS1VRXpiN3Exa1Ezb2NjOEdBNGxNZ3QwZlBYcjlrOUVzdzQ1XzJfREg0NlhqUjFsQnBXZzZOT1NxMnc?oc=5",
+    "title": "Rice University to offer Master of Artificial Intelligence degree program in 2027 - Houston Public Media",
+    "ts": 1790303031
   }
 ]

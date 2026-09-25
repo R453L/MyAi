@@ -1,11 +1,5 @@
 [
   {
-    "hash": "467dc9d436589458d553999ae49b4f99c542ff3d046c0f6ae401cc3a2f4a8723",
-    "link": "https://mistral.ai/news/mistral-x-mozilla/",
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "ts": 1789927576
-  },
-  {
     "hash": "e23fae26ca174658c119cd467cd5f5834b5098661c753feadab4a8292cdbeccf",
     "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
     "title": "US Military had close call after using AI for hallucinated intelligence report",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "title": "Putting sign language AI into users’ hands",
     "ts": 1790352724
+  },
+  {
+    "hash": "60efaf744a4d6c2c20e9e8f1dc0a4ae280a89a1d1a7f55c198827b62cda36b8e",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "title": "Priorities and principles for effective third party assessments",
+    "ts": 1790378022
   }
 ]

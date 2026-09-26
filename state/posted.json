@@ -1,11 +1,5 @@
 [
   {
-    "hash": "e23fae26ca174658c119cd467cd5f5834b5098661c753feadab4a8292cdbeccf",
-    "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-    "title": "US Military had close call after using AI for hallucinated intelligence report",
-    "ts": 1789927576
-  },
-  {
     "hash": "b3615add02cfa21d129feb2c27b526ccf0cfc3c2a48d488fded6d60a5470698a",
     "link": "https://www.hacktron.ai/blog/hacking-openai",
     "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/priorities-principles-third-party-assessments",
     "title": "Priorities and principles for effective third party assessments",
     "ts": 1790378022
+  },
+  {
+    "hash": "3f04347922eefb3c11c4d132375bf9d440c074306e56c9e0c40a86d63012b2e6",
+    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "ts": 1790390093
   }
 ]

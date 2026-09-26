@@ -1,11 +1,5 @@
 [
   {
-    "hash": "69fc18ebf5136059ca2058146c07ef66ccf48a5e863eca8ea357edf29bc8e20a",
-    "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-    "ts": 1789927576
-  },
-  {
     "hash": "1986eab2e2ed84ba8b77a11bb12c45e167c71bf0877e057d954ab53eecb37c23",
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
     "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
     "ts": 1790449169
+  },
+  {
+    "hash": "52b80abd4e046c041ffbe2a48399ded2b227e51686189386944c8dd9b0045fd6",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "ts": 1790461499
   }
 ]

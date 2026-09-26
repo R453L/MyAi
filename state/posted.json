@@ -1,29 +1,5 @@
 [
   {
-    "hash": "b3615add02cfa21d129feb2c27b526ccf0cfc3c2a48d488fded6d60a5470698a",
-    "link": "https://www.hacktron.ai/blog/hacking-openai",
-    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-    "ts": 1789927576
-  },
-  {
-    "hash": "3efbd9eb24461e518f19a08dbf025c5e3e80ec678a661f6dad964b6bdefa6a2e",
-    "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "title": "How GLM built its own inference infrastructure",
-    "ts": 1789927576
-  },
-  {
-    "hash": "0157005b9d1f296a502364c93fb5782ff5512404597bbc61689a29129dc93814",
-    "link": "https://withcapsule.app/",
-    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-    "ts": 1789927576
-  },
-  {
-    "hash": "45e988c726e7178ce3c2283c3d2b9cda10fcfa58b5eb3f5fa35d1f811a2531c5",
-    "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "title": "We got admin access to Baseten's production GitHub",
-    "ts": 1789927576
-  },
-  {
     "hash": "58292849ad5172bdb3e1feddc96c54db2926eb4203879546274d625a889300c5",
     "link": "https://qwen.ai/blog?id=qwen-image-2.1",
     "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
@@ -250,5 +226,29 @@
     "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
     "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
     "ts": 1790390093
+  },
+  {
+    "hash": "cdd1118267ee925c63286ac83c83df800f6195e85e821a17d4745982cb7ef8b5",
+    "link": "https://huggingface.co/blog/funes",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "ts": 1790413565
+  },
+  {
+    "hash": "74a46efb9efe82c27d6da22f1becc758699cc1a453fb672f84175464696f862d",
+    "link": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
+    "title": "Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline",
+    "ts": 1790413565
+  },
+  {
+    "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "ts": 1790413565
+  },
+  {
+    "hash": "e9f63aa1f7aaa02f4024a14154a47668586b26d73f72e5b77e702319146aa96f",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "ts": 1790413565
   }
 ]

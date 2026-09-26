@@ -1,11 +1,5 @@
 [
   {
-    "hash": "58292849ad5172bdb3e1feddc96c54db2926eb4203879546274d625a889300c5",
-    "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-    "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-    "ts": 1789927576
-  },
-  {
     "hash": "69fc18ebf5136059ca2058146c07ef66ccf48a5e863eca8ea357edf29bc8e20a",
     "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
     "title": "ZCode, the GLM coding agent, silently uploads your Git history",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/evaleval-aisi",
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "ts": 1790413565
+  },
+  {
+    "hash": "63b19b50b4021cb509d5c4a675b6f4583edca7a589c287051e4f84fcde02cdbf",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "ts": 1790449169
   }
 ]

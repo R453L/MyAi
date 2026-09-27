@@ -1,29 +1,5 @@
 [
   {
-    "hash": "d22acfa5d0cc1d093c4a65f65bd5a5e37fe40593680fa261c56e48d108a9e1af",
-    "link": "https://openai.com/index/cooley-gopublic",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "ts": 1789942350
-  },
-  {
-    "hash": "21021adfef8aa0490caa6bab98f97cc9c8d2bc9a8321b0ac77ff948265dda1db",
-    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "ts": 1789957444
-  },
-  {
-    "hash": "a8367e00fb9a58bf10304f8a78a526528283ba98d5591ac9c3f00610f2e8d2ae",
-    "link": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
-    "title": "Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral",
-    "ts": 1789983349
-  },
-  {
-    "hash": "91dad0068ec24e5bcea7adc0e407700bb8999e1b3de1e0bfc9b0e6a4ed61b3fe",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "ts": 1789983349
-  },
-  {
     "hash": "2094eeb60e498e8ba13202ba5c36df603a97702b7b1c891f09ce9b07617fd10c",
     "link": "https://arxiv.org/abs/2609.21221",
     "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
@@ -250,5 +226,29 @@
     "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
     "title": "AI is dominating the conversation at Climate Week",
     "ts": 1790476160
+  },
+  {
+    "hash": "b5500bc6503561c622e234c790899474b8b24e1670dad4cceb0dbc466610f3db",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "ts": 1790502276
+  },
+  {
+    "hash": "5657d3f80f53f87e33db5f01e18d298929c942cb4fdda7b32c142de0620d813b",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "ts": 1790502276
+  },
+  {
+    "hash": "c717d265e03032e997c9010a85f939694eaad5b030638947d325ad039e0c9ba2",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "ts": 1790502276
+  },
+  {
+    "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "ts": 1790502276
   }
 ]

@@ -1,71 +1,5 @@
 [
   {
-    "hash": "2094eeb60e498e8ba13202ba5c36df603a97702b7b1c891f09ce9b07617fd10c",
-    "link": "https://arxiv.org/abs/2609.21221",
-    "title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
-    "ts": 1790012071
-  },
-  {
-    "hash": "4410122683c569258d5a0a362f1b6f8fd8c0f990511414b3cd22c476b31d6130",
-    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "title": "How to connect AI usage to business value",
-    "ts": 1790031430
-  },
-  {
-    "hash": "a8482f18a45413c783dcd18c773e0258e7c22f43191c7ade71d5a7f7d5d0b150",
-    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "ts": 1790043654
-  },
-  {
-    "hash": "693b3130e25cc8808f585a694f7201006d36e37cb71c7b8ae2099287d6befd80",
-    "link": "https://huggingface.co/blog/tokenizers-v1",
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "ts": 1790067905
-  },
-  {
-    "hash": "62e28416b2ef27d254c16a5242a04b7fbba1475f93a4f102fe98a9b949fccb03",
-    "link": "https://machinelearningmastery.com/designing-ai-agents-that-can-self-correct/",
-    "title": "Designing AI Agents That Can Self-Correct",
-    "ts": 1790067905
-  },
-  {
-    "hash": "cd4e18903cae21f0fb6e9e6561b6306a54bc7dee245c0d99ffd106d72dbf0f55",
-    "link": "https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/",
-    "title": "Prompt Caching vs. Fine-Tuning: A Cost and Latency Decision Framework",
-    "ts": 1790067905
-  },
-  {
-    "hash": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "ts": 1790067905
-  },
-  {
-    "hash": "b18e08e68fb5b4a990b9e7599918918703e1eacf29af341ef6cf0b7346107b51",
-    "link": "https://arxiv.org/abs/2609.21165",
-    "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-    "ts": 1790105525
-  },
-  {
-    "hash": "3fcefd9c665fb2c2484965cf43548bc94be5c40db4dc345287024e6c77f2703e",
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "ts": 1790116847
-  },
-  {
-    "hash": "8ea6cbfd1c9012c5f73deb9a60ed17819fc4fbcb5f223b27054a69775f189dec",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "ts": 1790130138
-  },
-  {
-    "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "ts": 1790154162
-  },
-  {
     "hash": "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
     "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
     "title": "3 Ways to Enhance Your AI Model’s Interpretability",
@@ -250,5 +184,71 @@
     "link": "https://huggingface.co/blog/allenai/benchmirt",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "ts": 1790502276
+  },
+  {
+    "hash": "a5b36cacee49813fb9bb038a897ad61c8a89eb28ff9830442e1602a318b0a948",
+    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "ts": 1790535900
+  },
+  {
+    "hash": "d62537dec8a363bf28a1a1c570c28cddf5c57ab2ddd4a464290ae750d0897900",
+    "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "ts": 1790535900
+  },
+  {
+    "hash": "4bfa8e77beb059840ac2a84b95c69e6c17f35d1d49a38d3534721e1a680edee1",
+    "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "ts": 1790535900
+  },
+  {
+    "hash": "70359c27b4e5e0d8185411a12d50032e8781d4a89e6d38dde0171252a348cdf6",
+    "link": "https://github.com/devdotfast/whiteboard",
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "ts": 1790535900
+  },
+  {
+    "hash": "a124b92a0e6487f661f601c52e87a7517d191f8021df7176295f66e00ee28c13",
+    "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+    "title": "Feds Target AI Critics as \"Foreign Agents\"",
+    "ts": 1790535900
+  },
+  {
+    "hash": "55e7dda0a1d000ce4f6e183c175e6f0cb9e89d372b3a9a7aa62d3eb7f8742b4e",
+    "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
+    "ts": 1790535900
+  },
+  {
+    "hash": "e5a8f0f458eaba583740ce10c1d2f79aeb23a63b9633f12fb0df9a86f08811ae",
+    "link": "https://transluce.org/agent-activity",
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "ts": 1790535900
+  },
+  {
+    "hash": "5e4e2324e77ceb852b04998fb2ec95cb742104ddb13ae9feb3e78bdfd788a38e",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+    "ts": 1790535900
+  },
+  {
+    "hash": "ec2d94d3f37d66b7895b32b326b1c55595f3c7b1c6aebd18ca9d5383493d2c60",
+    "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+    "ts": 1790535900
+  },
+  {
+    "hash": "01ccbfab63254a3c3188286ea4e3569a7b0ffd759c7c2b577959caf85b0725f3",
+    "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+    "ts": 1790535900
+  },
+  {
+    "hash": "69839069a6e7ae5407272ecf5890a3b183ec11d56da81c97af0d512f0c87f033",
+    "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+    "title": "Stripe's Knowledge AI Platform",
+    "ts": 1790535900
   }
 ]

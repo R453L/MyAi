@@ -1,11 +1,5 @@
 [
   {
-    "hash": "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
-    "link": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
-    "title": "3 Ways to Enhance Your AI Model’s Interpretability",
-    "ts": 1790154162
-  },
-  {
     "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
     "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
     "title": "How to Build a Robust RAG System with Minimal Resources",
@@ -250,5 +244,11 @@
     "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
     "title": "Stripe's Knowledge AI Platform",
     "ts": 1790535900
+  },
+  {
+    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "ts": 1790537606
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
-    "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
-    "title": "How to Build a Robust RAG System with Minimal Resources",
-    "ts": 1790154162
-  },
-  {
     "hash": "0cf38753f361503e83590e3ed9c220cd280125ebb01db3282686300f86e3addc",
     "link": "https://arxiv.org/abs/2609.25286",
     "title": "Learned Enterprise Data Comprehension: Compression and Routing for Data Agents",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "title": "Proactive cyber defense for governments and enterprises",
     "ts": 1790537606
+  },
+  {
+    "hash": "9de028fbe46cac8b155a7c08a35dfcf47f00596edbfe763bda6c0737c9cb02fb",
+    "link": "https://openai.com/index/proaction",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "ts": 1790549295
   }
 ]

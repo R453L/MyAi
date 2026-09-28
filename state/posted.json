@@ -1,11 +1,5 @@
 [
   {
-    "hash": "73461b3e97af0d93277a11c940eddd760e1483f50dc51139e0bbfefde7d9b54f",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "ts": 1790290530
-  },
-  {
     "hash": "7636a0e3c3486e2cd452c6c28e05a02a997bb047b57be7bebb9bcf6cb5b47576",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakNpSWY4VDVyWDQ1QWlZR2lZWkExY3dlMGJMNTdQWEFJOVFWYXAzSDVlQWdaZmp0a0tOcjEzcW9YZDEzNXFVam93UWFkZWV5bFBxcXh0MkNyZTVNMkUyTkpLWDMtNGl3OUdZWVNKNjh2bkx5ajFCMjVUMkI5N3dELUZhT21oSFpaM1ZxbTIzQ2FaaW9IcGM3QW1MUFcySXRtZXlfelhUYk00Q0U1ZUExem1lS1FMRE0zdDZ3TUlibnhPX2V5RGZ0LUNTTnFCVzc2b1ZhSGMtdVpTRGxTY0HSAeYBQVVfeXFMTzlKbi1DbVE5TGkyU1E2VnJ4TjBBLWdxelRnR2FNNFExbWllUy0wQWhfUUlNMjhWM0xzRnB3bHdacFlNOGcyaS1xYnlwUUsxcnF1bXhReXA5cnpnLWM0cU1Bc25DZkoxY05XbzdtZkN4ZzJ2ZzFib3NjSFFseFFUQXJCeS10RWN0VlZ4LTB5bkpqclRDWHNNUzNibWFHZDg1blBWMHFEanhlaHpGOS1VRXpiN3Exa1Ezb2NjOEdBNGxNZ3QwZlBYcjlrOUVzdzQ1XzJfREg0NlhqUjFsQnBXZzZOT1NxMnc?oc=5",
     "title": "Rice University to offer Master of Artificial Intelligence degree program in 2027 - Houston Public Media",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-voice-agents/",
     "title": "The Roadmap to Mastering Voice Agents",
     "ts": 1790591090
+  },
+  {
+    "hash": "8357ebae008184bb9f8e19e99d54923b5e49bb5a8bb6aa47e21f3e0cce5a3e71",
+    "link": "https://arxiv.org/abs/2609.30446",
+    "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+    "ts": 1790622027
   }
 ]

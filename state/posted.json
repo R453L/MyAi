@@ -1,11 +1,5 @@
 [
   {
-    "hash": "0cf38753f361503e83590e3ed9c220cd280125ebb01db3282686300f86e3addc",
-    "link": "https://arxiv.org/abs/2609.25286",
-    "title": "Learned Enterprise Data Comprehension: Compression and Routing for Data Agents",
-    "ts": 1790191571
-  },
-  {
     "hash": "52e46e8371e1f69996c0f8fdcd7f1aabc16e63bd6bcc1139e79b18fa15fc40d2",
     "link": "https://openai.com/index/two-years-of-openai-academy",
     "title": "Two years of OpenAI Academy",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/proaction",
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "ts": 1790549295
+  },
+  {
+    "hash": "0411e27744838b14a44daf108b26981d2342d64551dead54a915ad78ec48fdfb",
+    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "ts": 1790562792
   }
 ]

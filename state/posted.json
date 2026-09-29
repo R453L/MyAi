@@ -1,23 +1,5 @@
 [
   {
-    "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
-    "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
-    "title": "Learn Vectorized Thinking in Python Through Examples",
-    "ts": 1790328122
-  },
-  {
-    "hash": "30055d0ceb88d06c899140cd08573a403f7a1589a8f2c00c947200e265edca5f",
-    "link": "https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/",
-    "title": "Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It",
-    "ts": 1790328122
-  },
-  {
-    "hash": "f8778be9a2934073671be3cf58187d81e7e0f1c5d285d59a6bf01dbfcf0e34f2",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "ts": 1790328122
-  },
-  {
     "hash": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
     "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "title": "Transformers now runs llama.cpp quants",
@@ -250,5 +232,23 @@
     "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
     "ts": 1790640433
+  },
+  {
+    "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
+    "link": "https://huggingface.co/blog/gradio-workflow-1111",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "ts": 1790676936
+  },
+  {
+    "hash": "6e2f20bff5d74e16b57c3dbbceca7572f31228389eec6f48fa3672e01b051ece",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "title": "Holo4: powering generalist computer-use agents",
+    "ts": 1790676936
+  },
+  {
+    "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
+    "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
+    "title": "How to Build a Robust RAG System with Minimal Resources",
+    "ts": 1790676936
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "7636a0e3c3486e2cd452c6c28e05a02a997bb047b57be7bebb9bcf6cb5b47576",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakNpSWY4VDVyWDQ1QWlZR2lZWkExY3dlMGJMNTdQWEFJOVFWYXAzSDVlQWdaZmp0a0tOcjEzcW9YZDEzNXFVam93UWFkZWV5bFBxcXh0MkNyZTVNMkUyTkpLWDMtNGl3OUdZWVNKNjh2bkx5ajFCMjVUMkI5N3dELUZhT21oSFpaM1ZxbTIzQ2FaaW9IcGM3QW1MUFcySXRtZXlfelhUYk00Q0U1ZUExem1lS1FMRE0zdDZ3TUlibnhPX2V5RGZ0LUNTTnFCVzc2b1ZhSGMtdVpTRGxTY0HSAeYBQVVfeXFMTzlKbi1DbVE5TGkyU1E2VnJ4TjBBLWdxelRnR2FNNFExbWllUy0wQWhfUUlNMjhWM0xzRnB3bHdacFlNOGcyaS1xYnlwUUsxcnF1bXhReXA5cnpnLWM0cU1Bc25DZkoxY05XbzdtZkN4ZzJ2ZzFib3NjSFFseFFUQXJCeS10RWN0VlZ4LTB5bkpqclRDWHNNUzNibWFHZDg1blBWMHFEanhlaHpGOS1VRXpiN3Exa1Ezb2NjOEdBNGxNZ3QwZlBYcjlrOUVzdzQ1XzJfREg0NlhqUjFsQnBXZzZOT1NxMnc?oc=5",
-    "title": "Rice University to offer Master of Artificial Intelligence degree program in 2027 - Houston Public Media",
-    "ts": 1790303031
-  },
-  {
     "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
     "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
     "title": "Learn Vectorized Thinking in Python Through Examples",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.30446",
     "title": "Predicting Transmembrane Protein Topology from 3D Structure",
     "ts": 1790622027
+  },
+  {
+    "hash": "60e195b06c19c87bef00b8441d7399c66723e10d56b4cc73d11320b8c69f0758",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "ts": 1790640433
   }
 ]

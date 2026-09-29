@@ -1,11 +1,5 @@
 [
   {
-    "hash": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "title": "Transformers now runs llama.cpp quants",
-    "ts": 1790328122
-  },
-  {
     "hash": "246c2b69927b7a2bf6089c52f2647b37e0e494665888d85237da8ce2cf64df09",
     "link": "https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/",
     "title": "Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
     "title": "How to Build a Robust RAG System with Minimal Resources",
     "ts": 1790676936
+  },
+  {
+    "hash": "ca2026c1f266b1b3dd463df73251e3eb7800dc4e8d23e29a6a5190d1fc5ced72",
+    "link": "https://arxiv.org/abs/2609.31792",
+    "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
+    "ts": 1790702641
   }
 ]

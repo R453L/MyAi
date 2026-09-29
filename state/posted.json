@@ -1,11 +1,5 @@
 [
   {
-    "hash": "246c2b69927b7a2bf6089c52f2647b37e0e494665888d85237da8ce2cf64df09",
-    "link": "https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/",
-    "title": "Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces",
-    "ts": 1790328122
-  },
-  {
     "hash": "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
     "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
     "title": "AI Agent Memory Design: What Works and What Doesn’t",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.31792",
     "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
     "ts": 1790702641
+  },
+  {
+    "hash": "9328fa400dd37e6b9e773781e78a2a50934d49d24282a5ac7e2d36068da55aca",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "ts": 1790723996
   }
 ]

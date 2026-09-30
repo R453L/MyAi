@@ -1,11 +1,5 @@
 [
   {
-    "hash": "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
-    "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
-    "title": "AI Agent Memory Design: What Works and What Doesn’t",
-    "ts": 1790328122
-  },
-  {
     "hash": "1357a9ae7911e1d557ac7ffa71b9c9e7ae12a960458a027aff8f7f846d93a6f9",
     "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "title": "Putting sign language AI into users’ hands",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "title": "OpenAI extends cyber access to Ukraine for civilian defense",
     "ts": 1790723996
+  },
+  {
+    "hash": "51aa60cba6874be5fae3ebfe8bd7a13f7d0d0e9a9f20a0f322be376b92389296",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4Nno4OXJDZXRDc2Q0SEpzd3lKTUNXb3BPbkh2QXB4YkZGczdZZTdYc01aUGFrY1lmMy1hN2F2TVU5NFltazN0b3dHODgtRzRkZzJaSzRZWXI3M2Y0YkUtNXhCQW1XVkt2TC1za2VwTFdqRXZD?oc=5",
+    "title": "RANGE Artificial Intelligence (AI) policy - RANGE Media",
+    "ts": 1790737040
   }
 ]

@@ -1,29 +1,5 @@
 [
   {
-    "hash": "1357a9ae7911e1d557ac7ffa71b9c9e7ae12a960458a027aff8f7f846d93a6f9",
-    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "title": "Putting sign language AI into users’ hands",
-    "ts": 1790352724
-  },
-  {
-    "hash": "60efaf744a4d6c2c20e9e8f1dc0a4ae280a89a1d1a7f55c198827b62cda36b8e",
-    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "title": "Priorities and principles for effective third party assessments",
-    "ts": 1790378022
-  },
-  {
-    "hash": "3f04347922eefb3c11c4d132375bf9d440c074306e56c9e0c40a86d63012b2e6",
-    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "ts": 1790390093
-  },
-  {
-    "hash": "cdd1118267ee925c63286ac83c83df800f6195e85e821a17d4745982cb7ef8b5",
-    "link": "https://huggingface.co/blog/funes",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "ts": 1790413565
-  },
-  {
     "hash": "74a46efb9efe82c27d6da22f1becc758699cc1a453fb672f84175464696f862d",
     "link": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
     "title": "Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline",
@@ -250,5 +226,29 @@
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4Nno4OXJDZXRDc2Q0SEpzd3lKTUNXb3BPbkh2QXB4YkZGczdZZTdYc01aUGFrY1lmMy1hN2F2TVU5NFltazN0b3dHODgtRzRkZzJaSzRZWXI3M2Y0YkUtNXhCQW1XVkt2TC1za2VwTFdqRXZD?oc=5",
     "title": "RANGE Artificial Intelligence (AI) policy - RANGE Media",
     "ts": 1790737040
+  },
+  {
+    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
+    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
+    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
+    "ts": 1790762996
+  },
+  {
+    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
+    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
+    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
+    "ts": 1790762996
+  },
+  {
+    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
+    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
+    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
+    "ts": 1790762996
+  },
+  {
+    "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
+    "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
+    "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
+    "ts": 1790762996
   }
 ]

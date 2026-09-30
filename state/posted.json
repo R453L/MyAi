@@ -1,11 +1,5 @@
 [
   {
-    "hash": "74a46efb9efe82c27d6da22f1becc758699cc1a453fb672f84175464696f862d",
-    "link": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
-    "title": "Combining LLM Embeddings with Tabular Features in a Unified Scikit-learn Pipeline",
-    "ts": 1790413565
-  },
-  {
     "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
     "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
     "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
     "ts": 1790762996
+  },
+  {
+    "hash": "6d5f33e5d17799ac4bce8cfbc1965fd2952a22543b0a321e407c51a37986b5c9",
+    "link": "https://arxiv.org/abs/2609.35897",
+    "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+    "ts": 1790788794
   }
 ]

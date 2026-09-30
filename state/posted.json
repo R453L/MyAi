@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a139f80b159295ada71d0ef039c73160eae68aeaf5d134012254faf54b7cc66b",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "ts": 1790413565
-  },
-  {
     "hash": "e9f63aa1f7aaa02f4024a14154a47668586b26d73f72e5b77e702319146aa96f",
     "link": "https://huggingface.co/blog/evaleval-aisi",
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2609.35897",
     "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
     "ts": 1790788794
+  },
+  {
+    "hash": "4e56c7312349a760a0edf744bd151f1352583693dfaa6156b9b09ca8e15ad634",
+    "link": "https://openai.com/index/ringg",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "ts": 1790810837
   }
 ]

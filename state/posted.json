@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b5500bc6503561c622e234c790899474b8b24e1670dad4cceb0dbc466610f3db",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "ts": 1790502276
-  },
-  {
     "hash": "5657d3f80f53f87e33db5f01e18d298929c942cb4fdda7b32c142de0620d813b",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
     "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
     "ts": 1790851374
+  },
+  {
+    "hash": "81481aa316e38773fdfe4ad811ac70acba975a0782f6864539cabab4e543f92d",
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "ts": 1790877102
   }
 ]

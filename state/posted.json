@@ -1,11 +1,5 @@
 [
   {
-    "hash": "5657d3f80f53f87e33db5f01e18d298929c942cb4fdda7b32c142de0620d813b",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "ts": 1790502276
-  },
-  {
     "hash": "c717d265e03032e997c9010a85f939694eaad5b030638947d325ad039e0c9ba2",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
     "title": "Gemini 3.8 text-to-speech says hello",
     "ts": 1790877102
+  },
+  {
+    "hash": "833e9419a34f8836dc9d75020b228e7e76dd99c1c482fbba6af088c9a08dec28",
+    "link": "https://openai.com/form/codex-originals",
+    "title": "Are you a Codex Original?",
+    "ts": 1790897812
   }
 ]

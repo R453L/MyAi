@@ -1,23 +1,5 @@
 [
   {
-    "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "ts": 1790502276
-  },
-  {
-    "hash": "a5b36cacee49813fb9bb038a897ad61c8a89eb28ff9830442e1602a318b0a948",
-    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "ts": 1790535900
-  },
-  {
-    "hash": "d62537dec8a363bf28a1a1c570c28cddf5c57ab2ddd4a464290ae750d0897900",
-    "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-    "ts": 1790535900
-  },
-  {
     "hash": "4bfa8e77beb059840ac2a84b95c69e6c17f35d1d49a38d3534721e1a680edee1",
     "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
     "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
@@ -250,5 +232,23 @@
     "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
     "ts": 1790910465
+  },
+  {
+    "hash": "5657d3f80f53f87e33db5f01e18d298929c942cb4fdda7b32c142de0620d813b",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "ts": 1790935945
+  },
+  {
+    "hash": "f928531f963725197f57d3d7a6b9eda31eac73aae3207919a7217bf822b2451c",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "ts": 1790935945
+  },
+  {
+    "hash": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "ts": 1790935945
   }
 ]

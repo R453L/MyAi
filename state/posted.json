@@ -1,11 +1,5 @@
 [
   {
-    "hash": "c717d265e03032e997c9010a85f939694eaad5b030638947d325ad039e0c9ba2",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "ts": 1790502276
-  },
-  {
     "hash": "ad90e6779ea3045b3b9ff330e4c9d1c6cd82a44459fb7cba10b171e8ac596ec8",
     "link": "https://huggingface.co/blog/allenai/benchmirt",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/form/codex-originals",
     "title": "Are you a Codex Original?",
     "ts": 1790897812
+  },
+  {
+    "hash": "3cc286caf68eb69ad4bdfbc7bca14dad29d732de14f05577e4ecefc58cf9828a",
+    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "ts": 1790910465
   }
 ]

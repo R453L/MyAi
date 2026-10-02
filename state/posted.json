@@ -1,11 +1,5 @@
 [
   {
-    "hash": "70359c27b4e5e0d8185411a12d50032e8781d4a89e6d38dde0171252a348cdf6",
-    "link": "https://github.com/devdotfast/whiteboard",
-    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-    "ts": 1790535900
-  },
-  {
     "hash": "a124b92a0e6487f661f601c52e87a7517d191f8021df7176295f66e00ee28c13",
     "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
     "title": "Feds Target AI Critics as \"Foreign Agents\"",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "title": "Introducing agentic video understanding with Gemini",
     "ts": 1790960858
+  },
+  {
+    "hash": "6071f63e21f6425413eb63722b1604896ffdb702f04f5beb8c9ad701e7ae765e",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "title": "DevDay 2026 Recap",
+    "ts": 1790983518
   }
 ]

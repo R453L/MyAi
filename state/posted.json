@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a124b92a0e6487f661f601c52e87a7517d191f8021df7176295f66e00ee28c13",
-    "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-    "title": "Feds Target AI Critics as \"Foreign Agents\"",
-    "ts": 1790535900
-  },
-  {
     "hash": "55e7dda0a1d000ce4f6e183c175e6f0cb9e89d372b3a9a7aa62d3eb7f8742b4e",
     "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
     "title": "How I changed teaching after AI managed to do all my homework assignments",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/devday-2026-recap",
     "title": "DevDay 2026 Recap",
     "ts": 1790983518
+  },
+  {
+    "hash": "500010cbf2de8bc2865d133524fb404f19665daae6bba51b9134cc9c44e15bee",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVjZ1R3RUx5eVNhcnN3cTJpUnRDVmhNWXRlZWhTUlZXMEtEdnlCMEZxMU5KVWdiaWc3Q3JWOFpNa1doRkFqU1VaZ2ZtdVZza3RtNU1lUFdNVFkwM1drU0xnVUxMVGhuSkg0a0ZveEViYlFzSkNnTWxIUHVabDltbWQya3QxbldiNUlqbmJVWGc4Z3BtdW11SzljQVNSVWdXRmRFLVZ3?oc=5",
+    "title": "Oklahoma gubernatorial candidates debate education, healthcare and artificial intelligence - KOCO",
+    "ts": 1790995810
   }
 ]

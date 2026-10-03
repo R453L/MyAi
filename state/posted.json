@@ -1,23 +1,5 @@
 [
   {
-    "hash": "55e7dda0a1d000ce4f6e183c175e6f0cb9e89d372b3a9a7aa62d3eb7f8742b4e",
-    "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "ts": 1790535900
-  },
-  {
-    "hash": "e5a8f0f458eaba583740ce10c1d2f79aeb23a63b9633f12fb0df9a86f08811ae",
-    "link": "https://transluce.org/agent-activity",
-    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-    "ts": 1790535900
-  },
-  {
-    "hash": "5e4e2324e77ceb852b04998fb2ec95cb742104ddb13ae9feb3e78bdfd788a38e",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-    "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-    "ts": 1790535900
-  },
-  {
     "hash": "ec2d94d3f37d66b7895b32b326b1c55595f3c7b1c6aebd18ca9d5383493d2c60",
     "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
     "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVjZ1R3RUx5eVNhcnN3cTJpUnRDVmhNWXRlZWhTUlZXMEtEdnlCMEZxMU5KVWdiaWc3Q3JWOFpNa1doRkFqU1VaZ2ZtdVZza3RtNU1lUFdNVFkwM1drU0xnVUxMVGhuSkg0a0ZveEViYlFzSkNnTWxIUHVabDltbWQya3QxbldiNUlqbmJVWGc4Z3BtdW11SzljQVNSVWdXRmRFLVZ3?oc=5",
     "title": "Oklahoma gubernatorial candidates debate education, healthcare and artificial intelligence - KOCO",
     "ts": 1790995810
+  },
+  {
+    "hash": "e81b1dea7ce0fb42c97855621c52f6a49d0893d2f06b0ac1c6c329bdc3da8830",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "ts": 1791020500
+  },
+  {
+    "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
+    "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
+    "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
+    "ts": 1791020500
+  },
+  {
+    "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
+    "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
+    "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
+    "ts": 1791020500
   }
 ]

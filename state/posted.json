@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ec2d94d3f37d66b7895b32b326b1c55595f3c7b1c6aebd18ca9d5383493d2c60",
-    "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-    "ts": 1790535900
-  },
-  {
     "hash": "01ccbfab63254a3c3188286ea4e3569a7b0ffd759c7c2b577959caf85b0725f3",
     "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
     "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
     "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
     "ts": 1791020500
+  },
+  {
+    "hash": "947e89eaa83a27aef331dc76eb62cb37cf0e8350cdf50a4308472585c036fe7e",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "ts": 1791054188
   }
 ]

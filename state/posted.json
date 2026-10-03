@@ -1,11 +1,5 @@
 [
   {
-    "hash": "01ccbfab63254a3c3188286ea4e3569a7b0ffd759c7c2b577959caf85b0725f3",
-    "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-    "ts": 1790535900
-  },
-  {
     "hash": "69839069a6e7ae5407272ecf5890a3b183ec11d56da81c97af0d512f0c87f033",
     "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
     "title": "Stripe's Knowledge AI Platform",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
     "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
     "ts": 1791054188
+  },
+  {
+    "hash": "90249c2a3882c6d31b88e7cea8a85045e4eeb6a0a24ec30e6774300a2c2f9921",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "ts": 1791066748
   }
 ]

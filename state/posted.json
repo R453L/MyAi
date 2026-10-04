@@ -1,11 +1,5 @@
 [
   {
-    "hash": "6d5f33e5d17799ac4bce8cfbc1965fd2952a22543b0a321e407c51a37986b5c9",
-    "link": "https://arxiv.org/abs/2609.35897",
-    "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
-    "ts": 1790788794
-  },
-  {
     "hash": "4e56c7312349a760a0edf744bd151f1352583693dfaa6156b9b09ca8e15ad634",
     "link": "https://openai.com/index/ringg",
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -250,5 +244,11 @@
     "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
     "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
     "ts": 1791139113
+  },
+  {
+    "hash": "637d3dfa247fa816a4c4160f323cf7816f7979e28cc1acd637f643ec28fcb5fc",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "ts": 1791153733
   }
 ]

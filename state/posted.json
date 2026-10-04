@@ -1,11 +1,5 @@
 [
   {
-    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
-    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
-    "title": "The Roadmap to Mastering LLM Inference Optimization",
-    "ts": 1790591090
-  },
-  {
     "hash": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
     "title": "Learn Vectorized Thinking in Python Through Examples",
     "ts": 1791109280
+  },
+  {
+    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "ts": 1791130433
   }
 ]

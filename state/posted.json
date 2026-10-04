@@ -1,101 +1,5 @@
 [
   {
-    "hash": "a1d018f16fad79f97456f75bff3df416e35d9a73410b1735dcbcc9bb4c30fb83",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "ts": 1790591090
-  },
-  {
-    "hash": "debde72214d3e8c78ab29475865d4e22fb7e69db0e393c25adab03e80fc9a698",
-    "link": "https://machinelearningmastery.com/a-gentle-introduction-to-model-distillation/",
-    "title": "A Gentle Introduction to Model Distillation",
-    "ts": 1790591090
-  },
-  {
-    "hash": "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
-    "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
-    "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
-    "ts": 1790591090
-  },
-  {
-    "hash": "5db94f12ecfbeef5564b8379065de3a4fc204d0ef1e6cee52b36afdfdb841c6d",
-    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-voice-agents/",
-    "title": "The Roadmap to Mastering Voice Agents",
-    "ts": 1790591090
-  },
-  {
-    "hash": "8357ebae008184bb9f8e19e99d54923b5e49bb5a8bb6aa47e21f3e0cce5a3e71",
-    "link": "https://arxiv.org/abs/2609.30446",
-    "title": "Predicting Transmembrane Protein Topology from 3D Structure",
-    "ts": 1790622027
-  },
-  {
-    "hash": "60e195b06c19c87bef00b8441d7399c66723e10d56b4cc73d11320b8c69f0758",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "ts": 1790640433
-  },
-  {
-    "hash": "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "ts": 1790676936
-  },
-  {
-    "hash": "6e2f20bff5d74e16b57c3dbbceca7572f31228389eec6f48fa3672e01b051ece",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "title": "Holo4: powering generalist computer-use agents",
-    "ts": 1790676936
-  },
-  {
-    "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
-    "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
-    "title": "How to Build a Robust RAG System with Minimal Resources",
-    "ts": 1790676936
-  },
-  {
-    "hash": "ca2026c1f266b1b3dd463df73251e3eb7800dc4e8d23e29a6a5190d1fc5ced72",
-    "link": "https://arxiv.org/abs/2609.31792",
-    "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
-    "ts": 1790702641
-  },
-  {
-    "hash": "9328fa400dd37e6b9e773781e78a2a50934d49d24282a5ac7e2d36068da55aca",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "ts": 1790723996
-  },
-  {
-    "hash": "51aa60cba6874be5fae3ebfe8bd7a13f7d0d0e9a9f20a0f322be376b92389296",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4Nno4OXJDZXRDc2Q0SEpzd3lKTUNXb3BPbkh2QXB4YkZGczdZZTdYc01aUGFrY1lmMy1hN2F2TVU5NFltazN0b3dHODgtRzRkZzJaSzRZWXI3M2Y0YkUtNXhCQW1XVkt2TC1za2VwTFdqRXZD?oc=5",
-    "title": "RANGE Artificial Intelligence (AI) policy - RANGE Media",
-    "ts": 1790737040
-  },
-  {
-    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
-    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
-    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
-    "ts": 1790762996
-  },
-  {
-    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
-    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
-    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
-    "ts": 1790762996
-  },
-  {
-    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
-    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
-    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
-    "ts": 1790762996
-  },
-  {
-    "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
-    "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
-    "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
-    "ts": 1790762996
-  },
-  {
     "hash": "6d5f33e5d17799ac4bce8cfbc1965fd2952a22543b0a321e407c51a37986b5c9",
     "link": "https://arxiv.org/abs/2609.35897",
     "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
@@ -250,5 +154,101 @@
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "title": "Proactive cyber defense for governments and enterprises",
     "ts": 1791130433
+  },
+  {
+    "hash": "6381db252deeabb6b54b042165200c6090690d3edabf9b3f0e76692916fddd84",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "title": "Gemini 4 Argon",
+    "ts": 1791139113
+  },
+  {
+    "hash": "e5b559e57b0491a0e624cf57d172620359fba610c79361bbb22ed5856b71fd68",
+    "link": "https://www.frogandtoad.ai/",
+    "title": "Frog and Toad and the Increasingly Capable Machines",
+    "ts": 1791139113
+  },
+  {
+    "hash": "f44c9c06a50a6fe6cc69495d8db62bd08269e82e7d53a0bf4f6386df9690d0b8",
+    "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+    "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+    "ts": 1791139113
+  },
+  {
+    "hash": "37948658fc64306e709ba3fb5fb8667c51f9bed27c74aa74ec92059c09a6683b",
+    "link": "https://bfl.ai/models/flux-3-image",
+    "title": "FLUX 3 Image",
+    "ts": 1791139113
+  },
+  {
+    "hash": "f0a31df20886644e7c271f310840ccb4dcc6e2458c55f5758a8e9292b116879f",
+    "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+    "ts": 1791139113
+  },
+  {
+    "hash": "b9e2e533a8b5d35eb3181aaff8c0faef839c10a21c367bd2e22ddc1396c06de8",
+    "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+    "title": "The AI Race Just Got Awkward",
+    "ts": 1791139113
+  },
+  {
+    "hash": "9b84b462d1fa1c1e9822ce5acf609b4b9a9d8ec31e1595cb436b7bef33aeb539",
+    "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "ts": 1791139113
+  },
+  {
+    "hash": "f0287c92448162787e962af74458489fa145f6ecd0cdfbb5260b88526b8ee314",
+    "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "ts": 1791139113
+  },
+  {
+    "hash": "c05735ac6fea208f936e476637fd51b61a28139454fd2338c55986f47dbbb8dc",
+    "link": "https://www.worldlabs.ai/blog/amd-announcement",
+    "title": "World Labs is Joining AMD",
+    "ts": 1791139113
+  },
+  {
+    "hash": "4954f1a6cbc0fc4422dc9d61ccaf272636e3ac29c14eb74369007d57be8b1018",
+    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "ts": 1791139113
+  },
+  {
+    "hash": "902a8fe9863c843c0c2009d21e8a71f5e8109d355be351f0a21eb78bc757a11c",
+    "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "ts": 1791139113
+  },
+  {
+    "hash": "8141d04860ee86361a00db446b509b77a729ff385f8823fe35eccd2270caead0",
+    "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+    "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+    "ts": 1791139113
+  },
+  {
+    "hash": "ffffd05d6d8f68b0e13920df63da7e2c860558d01535836c37771ee682d0d78b",
+    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "ts": 1791139113
+  },
+  {
+    "hash": "7bd1471e0ccae534203055c604901fcb8cf11596a0ef053fc1b1a4e9bb3c3e9d",
+    "link": "https://hn.watch/",
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "ts": 1791139113
+  },
+  {
+    "hash": "d4f9f7ea2f928763dec9ad0672742a69f368fc0a5ec40decbd6a97a5e5986531",
+    "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+    "title": "AI needs $6T in annual revenue to justify data centre boom",
+    "ts": 1791139113
+  },
+  {
+    "hash": "4785a23659edd919b9bb63d5501ea25a699f95a94af8d23acd7934273a3e9775",
+    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "ts": 1791139113
   }
 ]

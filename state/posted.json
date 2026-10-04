@@ -1,29 +1,5 @@
 [
   {
-    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "ts": 1790537606
-  },
-  {
-    "hash": "9de028fbe46cac8b155a7c08a35dfcf47f00596edbfe763bda6c0737c9cb02fb",
-    "link": "https://openai.com/index/proaction",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "ts": 1790549295
-  },
-  {
-    "hash": "0411e27744838b14a44daf108b26981d2342d64551dead54a915ad78ec48fdfb",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "ts": 1790562792
-  },
-  {
-    "hash": "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
-    "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
-    "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
-    "ts": 1790591090
-  },
-  {
     "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
     "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
     "title": "The Roadmap to Mastering LLM Inference Optimization",
@@ -250,5 +226,29 @@
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGhTb0lFUE85dmRvOUg3WEsxTVg4VU52SFdRaU5sczJwWWZuRlA0SWN4NmViaHBMZmJfTThwNDU5QmRlRFUyTFZtZG5iRFlYTGxFZjB5ZE1KVUk0YjI2RzV4c2RDSEdyQmhGMjhNYXNDV205NXAtekNCUkFkTFZfX1p1OTQ3Y1BXaklhOUNtekhoSzRQYmw1b2VGSU5xZw?oc=5",
     "title": "Column: Keeping students safe from unregulated tech and AI - The Virginian-Pilot",
     "ts": 1791084278
+  },
+  {
+    "hash": "5997c61056cef089750937bdf14912df332f9fc17c22a686d8bb31ab755c1276",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "ts": 1791109280
+  },
+  {
+    "hash": "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
+    "link": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
+    "title": "Integrating Agentic AI with Existing Machine Learning Pipelines",
+    "ts": 1791109280
+  },
+  {
+    "hash": "30055d0ceb88d06c899140cd08573a403f7a1589a8f2c00c947200e265edca5f",
+    "link": "https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/",
+    "title": "Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It",
+    "ts": 1791109280
+  },
+  {
+    "hash": "33a6f5743c86e3d0fb784876e2bf437cbb2dd553565e444b2614a5570729e427",
+    "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
+    "title": "Learn Vectorized Thinking in Python Through Examples",
+    "ts": 1791109280
   }
 ]

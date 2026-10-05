@@ -1,29 +1,5 @@
 [
   {
-    "hash": "a8df71d21089130f6fc37088766e786c7735a98f36bd657f7076a4be91a3f1fb",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJVFZWOEhhTFoyeFhkR2d0QTgzQXFNdHlGM1F3VHcyS0hiUFNqcnFzZjRWczVoNlZoZGhZS1JDU1pWQzgwTmZwTjFsNXRtSko2RE5NQTBUR1NvWjdhSHRvU0V1eGlucVNSdjZEVURJdVc5ZDc2MGtudk0ySEhKZw?oc=5",
-    "title": "Applying Common Heritage of Humanity Principles to Artificial Intelligence - The Fletcher Forum of World Affairs",
-    "ts": 1790824575
-  },
-  {
-    "hash": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "title": "Transformers now runs llama.cpp quants",
-    "ts": 1790851374
-  },
-  {
-    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
-    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
-    "title": "Local Agentic AI Workflows with Hermes + Ollama",
-    "ts": 1790851374
-  },
-  {
-    "hash": "dc53fce90c6f36f5c727235e1a467f2d849dcd49be3c83b393c97ef4331e392f",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "ts": 1790851374
-  },
-  {
     "hash": "81481aa316e38773fdfe4ad811ac70acba975a0782f6864539cabab4e543f92d",
     "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
     "title": "Gemini 3.8 text-to-speech says hello",
@@ -250,5 +226,29 @@
     "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
     "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
     "ts": 1791169082
+  },
+  {
+    "hash": "85052f9befba2c4e17fa41a5b103c0c0ae8459b0b1c3561b24bc565188ff9e10",
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "ts": 1791198327
+  },
+  {
+    "hash": "a8367e00fb9a58bf10304f8a78a526528283ba98d5591ac9c3f00610f2e8d2ae",
+    "link": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
+    "title": "Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral",
+    "ts": 1791198327
+  },
+  {
+    "hash": "246c2b69927b7a2bf6089c52f2647b37e0e494665888d85237da8ce2cf64df09",
+    "link": "https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/",
+    "title": "Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces",
+    "ts": 1791198327
+  },
+  {
+    "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
+    "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
+    "title": "How to Build a Robust RAG System with Minimal Resources",
+    "ts": 1791198327
   }
 ]

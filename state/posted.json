@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4e56c7312349a760a0edf744bd151f1352583693dfaa6156b9b09ca8e15ad634",
-    "link": "https://openai.com/index/ringg",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "ts": 1790810837
-  },
-  {
     "hash": "a8df71d21089130f6fc37088766e786c7735a98f36bd657f7076a4be91a3f1fb",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJVFZWOEhhTFoyeFhkR2d0QTgzQXFNdHlGM1F3VHcyS0hiUFNqcnFzZjRWczVoNlZoZGhZS1JDU1pWQzgwTmZwTjFsNXRtSko2RE5NQTBUR1NvWjdhSHRvU0V1eGlucVNSdjZEVURJdVc5ZDc2MGtudk0ySEhKZw?oc=5",
     "title": "Applying Common Heritage of Humanity Principles to Artificial Intelligence - The Fletcher Forum of World Affairs",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/albertsons-reimagining-retail",
     "title": "How Albertsons Companies is reimagining retail from the inside out",
     "ts": 1791153733
+  },
+  {
+    "hash": "5eabcfd97d22a1c16aafb81502dbbbcbb3a2f4ab3362f2edc8d9aec3f76f0715",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "ts": 1791169082
   }
 ]

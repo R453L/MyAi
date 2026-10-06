@@ -1,11 +1,5 @@
 [
   {
-    "hash": "81481aa316e38773fdfe4ad811ac70acba975a0782f6864539cabab4e543f92d",
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "ts": 1790877102
-  },
-  {
     "hash": "833e9419a34f8836dc9d75020b228e7e76dd99c1c482fbba6af088c9a08dec28",
     "link": "https://openai.com/form/codex-originals",
     "title": "Are you a Codex Original?",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
     "title": "How to Build a Robust RAG System with Minimal Resources",
     "ts": 1791198327
+  },
+  {
+    "hash": "a0ec29c39f5f2711a72b1f505d5605568ae53d15429cd43f864766cc219d73c3",
+    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "ts": 1791248851
   }
 ]

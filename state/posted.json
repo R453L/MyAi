@@ -1,11 +1,5 @@
 [
   {
-    "hash": "20b040f8e58f31e96773151263522b95c4817d13d59b4149991c6f6009767408",
-    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "title": "Introducing agentic video understanding with Gemini",
-    "ts": 1790960858
-  },
-  {
     "hash": "6071f63e21f6425413eb63722b1604896ffdb702f04f5beb8c9ad701e7ae765e",
     "link": "https://openai.com/index/devday-2026-recap",
     "title": "DevDay 2026 Recap",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.03934",
     "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
     "ts": 1791308333
+  },
+  {
+    "hash": "2896758265cec81d95898858cf3558ac9cdd51e4e22038c8fc6ca0aa5193f521",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "ts": 1791329372
   }
 ]

@@ -1,29 +1,5 @@
 [
   {
-    "hash": "833e9419a34f8836dc9d75020b228e7e76dd99c1c482fbba6af088c9a08dec28",
-    "link": "https://openai.com/form/codex-originals",
-    "title": "Are you a Codex Original?",
-    "ts": 1790897812
-  },
-  {
-    "hash": "3cc286caf68eb69ad4bdfbc7bca14dad29d732de14f05577e4ecefc58cf9828a",
-    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-    "ts": 1790910465
-  },
-  {
-    "hash": "5657d3f80f53f87e33db5f01e18d298929c942cb4fdda7b32c142de0620d813b",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "ts": 1790935945
-  },
-  {
-    "hash": "f928531f963725197f57d3d7a6b9eda31eac73aae3207919a7217bf822b2451c",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "ts": 1790935945
-  },
-  {
     "hash": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
     "link": "https://huggingface.co/blog/open-tts-leaderboard",
     "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
@@ -250,5 +226,29 @@
     "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
     "title": "OpenAI launches visual ads that appear alongside image generation results",
     "ts": 1791248851
+  },
+  {
+    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
+    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
+    "title": "Local Agentic AI Workflows with Hermes + Ollama",
+    "ts": 1791284388
+  },
+  {
+    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
+    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
+    "title": "The Roadmap to Mastering LLM Inference Optimization",
+    "ts": 1791284388
+  },
+  {
+    "hash": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
+    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "title": "Transformers now runs llama.cpp quants",
+    "ts": 1791284388
+  },
+  {
+    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
+    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
+    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
+    "ts": 1791284388
   }
 ]

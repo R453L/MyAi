@@ -1,11 +1,5 @@
 [
   {
-    "hash": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "ts": 1790935945
-  },
-  {
     "hash": "20b040f8e58f31e96773151263522b95c4817d13d59b4149991c6f6009767408",
     "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "title": "Introducing agentic video understanding with Gemini",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
     "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
     "ts": 1791284388
+  },
+  {
+    "hash": "c2e638c54f0a6268f6b1daab927c76451d15c07dc6e489b8043882c2d2fc0af0",
+    "link": "https://arxiv.org/abs/2610.03934",
+    "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
+    "ts": 1791308333
   }
 ]

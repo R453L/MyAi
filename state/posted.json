@@ -1,11 +1,5 @@
 [
   {
-    "hash": "947e89eaa83a27aef331dc76eb62cb37cf0e8350cdf50a4308472585c036fe7e",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "ts": 1791054188
-  },
-  {
     "hash": "90249c2a3882c6d31b88e7cea8a85045e4eeb6a0a24ec30e6774300a2c2f9921",
     "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "title": "Disrupting a coordinated model-distillation campaign",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
     "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
     "ts": 1791369980
+  },
+  {
+    "hash": "c11a83f73b42d75639443284618af1576a5293ebbd1f2119958661a090262494",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "ts": 1791397008
   }
 ]

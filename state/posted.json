@@ -1,11 +1,5 @@
 [
   {
-    "hash": "90249c2a3882c6d31b88e7cea8a85045e4eeb6a0a24ec30e6774300a2c2f9921",
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "ts": 1791066748
-  },
-  {
     "hash": "2c7e0b3271bf8da8dfdc7a1cae585d57e371036b359d07ac5a63796c9baa9abc",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGhTb0lFUE85dmRvOUg3WEsxTVg4VU52SFdRaU5sczJwWWZuRlA0SWN4NmViaHBMZmJfTThwNDU5QmRlRFUyTFZtZG5iRFlYTGxFZjB5ZE1KVUk0YjI2RzV4c2RDSEdyQmhGMjhNYXNDV205NXAtekNCUkFkTFZfX1p1OTQ3Y1BXaklhOUNtekhoSzRQYmw1b2VGSU5xZw?oc=5",
     "title": "Column: Keeping students safe from unregulated tech and AI - The Virginian-Pilot",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "ts": 1791397008
+  },
+  {
+    "hash": "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134",
+    "link": "https://openai.com/index/radisson",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "ts": 1791417351
   }
 ]

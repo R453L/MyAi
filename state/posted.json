@@ -1,11 +1,5 @@
 [
   {
-    "hash": "6071f63e21f6425413eb63722b1604896ffdb702f04f5beb8c9ad701e7ae765e",
-    "link": "https://openai.com/index/devday-2026-recap",
-    "title": "DevDay 2026 Recap",
-    "ts": 1790983518
-  },
-  {
     "hash": "500010cbf2de8bc2865d133524fb404f19665daae6bba51b9134cc9c44e15bee",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVjZ1R3RUx5eVNhcnN3cTJpUnRDVmhNWXRlZWhTUlZXMEtEdnlCMEZxMU5KVWdiaWc3Q3JWOFpNa1doRkFqU1VaZ2ZtdVZza3RtNU1lUFdNVFkwM1drU0xnVUxMVGhuSkg0a0ZveEViYlFzSkNnTWxIUHVabDltbWQya3QxbldiNUlqbmJVWGc4Z3BtdW11SzljQVNSVWdXRmRFLVZ3?oc=5",
     "title": "Oklahoma gubernatorial candidates debate education, healthcare and artificial intelligence - KOCO",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/atlassian-partnership",
     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "ts": 1791329372
+  },
+  {
+    "hash": "14c81bbca3cb238d87b6dec545fdf71091826b390ddf15994fe8cbb6483be65c",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNExfM25OMFJjWE9BNGd3Y0pZWGxHczNYUlhjYTZ2RTBkYTlQUkY3ZklHVGJuTXBjMXlnOWt6NW1XeGZod0NYbUw5TjRkdm1xcEYxVWt3aGpSSkRtS1lPUUE3Sjh5QkdvVmpoMXpwempQTmRjZ20yNnQ0bDRGSENZaFhyRjlsXzhUX3Fja2RiRXMyOE1UUVV4OTBtc3ZpZTVzeWlodWEwX0dtT3V5SUFlRkVDcjlMdGg5QjUxZWNaN0ZfNVVUZGNvUTFLZDBTSTU4LWNoNXhXaVBZWEhk?oc=5",
+    "title": "Artificial Intelligence and Healthcare: What Premeds Should Know | Medical School Admissions Doctor | U.S. News - U.S. News & World Report",
+    "ts": 1791343166
   }
 ]

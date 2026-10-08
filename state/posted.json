@@ -1,11 +1,5 @@
 [
   {
-    "hash": "2c7e0b3271bf8da8dfdc7a1cae585d57e371036b359d07ac5a63796c9baa9abc",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGhTb0lFUE85dmRvOUg3WEsxTVg4VU52SFdRaU5sczJwWWZuRlA0SWN4NmViaHBMZmJfTThwNDU5QmRlRFUyTFZtZG5iRFlYTGxFZjB5ZE1KVUk0YjI2RzV4c2RDSEdyQmhGMjhNYXNDV205NXAtekNCUkFkTFZfX1p1OTQ3Y1BXaklhOUNtekhoSzRQYmw1b2VGSU5xZw?oc=5",
-    "title": "Column: Keeping students safe from unregulated tech and AI - The Virginian-Pilot",
-    "ts": 1791084278
-  },
-  {
     "hash": "5997c61056cef089750937bdf14912df332f9fc17c22a686d8bb31ab755c1276",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
     "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/radisson",
     "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
     "ts": 1791417351
+  },
+  {
+    "hash": "63b9b4e612710b9124b22573f1f9907b2cbf3c0439ad360ae6a144fe5e20eff2",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGVnV3BQUElWUXVrTEhLOUhJWU1mazVrTGhWZ05hSXlna3F2QlUwS3VaVDZYV0w4UVFNR3dHRkR6N1huSXJnZkFKNjFqUk1HZUNFNnRZdEY2cW5PeHRBcDItLWVHM0U2cTljRndmbVlNU0N0ZDJmek5mVTNoLUc3NTlJUW54Q2VNUG15eG03eFhrZkhVbXd6ZmFR?oc=5",
+    "title": "How Much Should We Worry? Recent Developments in Artificial Intelligence - Electronic Frontier Foundation",
+    "ts": 1791430694
   }
 ]

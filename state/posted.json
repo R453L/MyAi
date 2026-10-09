@@ -1,29 +1,5 @@
 [
   {
-    "hash": "6381db252deeabb6b54b042165200c6090690d3edabf9b3f0e76692916fddd84",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "title": "Gemini 4 Argon",
-    "ts": 1791139113
-  },
-  {
-    "hash": "e5b559e57b0491a0e624cf57d172620359fba610c79361bbb22ed5856b71fd68",
-    "link": "https://www.frogandtoad.ai/",
-    "title": "Frog and Toad and the Increasingly Capable Machines",
-    "ts": 1791139113
-  },
-  {
-    "hash": "f44c9c06a50a6fe6cc69495d8db62bd08269e82e7d53a0bf4f6386df9690d0b8",
-    "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-    "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-    "ts": 1791139113
-  },
-  {
-    "hash": "37948658fc64306e709ba3fb5fb8667c51f9bed27c74aa74ec92059c09a6683b",
-    "link": "https://bfl.ai/models/flux-3-image",
-    "title": "FLUX 3 Image",
-    "ts": 1791139113
-  },
-  {
     "hash": "f0a31df20886644e7c271f310840ccb4dcc6e2458c55f5758a8e9292b116879f",
     "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
     "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
@@ -250,5 +226,29 @@
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXY4RGVrMzNqNWY2YzVESWVMSEw1WU0xcXZ5NWtTQlJ1MDJuaG9wREp4c0xDVm1xS2wtMEd3eVotRjdEN01vcVFFZUs4bUtiX3k2WERObzYzTFFjdVoxekhLa05oRm1CNldfVHl1QlE2bnllVEtJR1NaV2htV2pnOGRXdHk?oc=5",
     "title": "New state honor recognizes intentional use of artificial intelligence in higher ed - Colorado Public Radio",
     "ts": 1791504684
+  },
+  {
+    "hash": "16b7810afb00bdc03cf91abd83f9b804b576e5ff42133c9ae8d1a12944f61774",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "title": "Introducing Falcon ASR",
+    "ts": 1791544045
+  },
+  {
+    "hash": "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
+    "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
+    "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
+    "ts": 1791544045
+  },
+  {
+    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
+    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
+    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
+    "ts": 1791544045
+  },
+  {
+    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
+    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
+    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
+    "ts": 1791544045
   }
 ]

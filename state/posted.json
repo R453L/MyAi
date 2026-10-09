@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b9e2e533a8b5d35eb3181aaff8c0faef839c10a21c367bd2e22ddc1396c06de8",
-    "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-    "title": "The AI Race Just Got Awkward",
-    "ts": 1791139113
-  },
-  {
     "hash": "9b84b462d1fa1c1e9822ce5acf609b4b9a9d8ec31e1595cb436b7bef33aeb539",
     "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
     "title": "The problem is not AI code, but not knowing about system architecture or intent",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.10549",
     "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
     "ts": 1791568189
+  },
+  {
+    "hash": "9bf93d58cc35db9987f8bca45379eba94bc31d29b6afb6124531fcd7a11cbc41",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "ts": 1791589640
   }
 ]

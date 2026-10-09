@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f0a31df20886644e7c271f310840ccb4dcc6e2458c55f5758a8e9292b116879f",
-    "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-    "ts": 1791139113
-  },
-  {
     "hash": "b9e2e533a8b5d35eb3181aaff8c0faef839c10a21c367bd2e22ddc1396c06de8",
     "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
     "title": "The AI Race Just Got Awkward",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
     "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
     "ts": 1791544045
+  },
+  {
+    "hash": "30c38a4f4bf9960ad2b06834daf017ef449f26a71d878fe80173cbd524a3712d",
+    "link": "https://arxiv.org/abs/2610.10549",
+    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+    "ts": 1791568189
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "ts": 1791130433
-  },
-  {
     "hash": "6381db252deeabb6b54b042165200c6090690d3edabf9b3f0e76692916fddd84",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "title": "Gemini 4 Argon",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.08793",
     "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
     "ts": 1791483083
+  },
+  {
+    "hash": "9f90c1f118f3ba063e1c81d9146d1df7b842f1b2f3419709bbf70d7109c8d91c",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXY4RGVrMzNqNWY2YzVESWVMSEw1WU0xcXZ5NWtTQlJ1MDJuaG9wREp4c0xDVm1xS2wtMEd3eVotRjdEN01vcVFFZUs4bUtiX3k2WERObzYzTFFjdVoxekhLa05oRm1CNldfVHl1QlE2bnllVEtJR1NaV2htV2pnOGRXdHk?oc=5",
+    "title": "New state honor recognizes intentional use of artificial intelligence in higher ed - Colorado Public Radio",
+    "ts": 1791504684
   }
 ]

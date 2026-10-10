@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8141d04860ee86361a00db446b509b77a729ff385f8823fe35eccd2270caead0",
-    "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-    "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-    "ts": 1791139113
-  },
-  {
     "hash": "ffffd05d6d8f68b0e13920df63da7e2c860558d01535836c37771ee682d0d78b",
     "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
     "title": "Nvidia wants to put a watchdog chip next to every AI agent",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
     "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
     "ts": 1791627450
+  },
+  {
+    "hash": "58375e71a9edc0b3d1f1b9e710414807f12fa242540ce43b6ac4207adf0d7db7",
+    "link": "https://arxiv.org/abs/2610.10906",
+    "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+    "ts": 1791650498
   }
 ]

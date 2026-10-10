@@ -1,29 +1,5 @@
 [
   {
-    "hash": "f0287c92448162787e962af74458489fa145f6ecd0cdfbb5260b88526b8ee314",
-    "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "ts": 1791139113
-  },
-  {
-    "hash": "c05735ac6fea208f936e476637fd51b61a28139454fd2338c55986f47dbbb8dc",
-    "link": "https://www.worldlabs.ai/blog/amd-announcement",
-    "title": "World Labs is Joining AMD",
-    "ts": 1791139113
-  },
-  {
-    "hash": "4954f1a6cbc0fc4422dc9d61ccaf272636e3ac29c14eb74369007d57be8b1018",
-    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "ts": 1791139113
-  },
-  {
-    "hash": "902a8fe9863c843c0c2009d21e8a71f5e8109d355be351f0a21eb78bc757a11c",
-    "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-    "ts": 1791139113
-  },
-  {
     "hash": "8141d04860ee86361a00db446b509b77a729ff385f8823fe35eccd2270caead0",
     "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
     "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
@@ -250,5 +226,29 @@
     "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
     "title": "Why we’re watching these climate tech companies",
     "ts": 1791602227
+  },
+  {
+    "hash": "67f5f61696a2949df2730f40424ad824b9d13bbf8b547c153b8cdb7135436103",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "ts": 1791627450
+  },
+  {
+    "hash": "6f7a1fa01f17acfa36ea01e6e22330066965b25fa0af3decc0ead2771969b593",
+    "link": "https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/",
+    "title": "Treating Prompt Templates as Hyperparameters in Scikit-LLM GridSearchCV",
+    "ts": 1791627450
+  },
+  {
+    "hash": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "ts": 1791627450
+  },
+  {
+    "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
+    "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
+    "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
+    "ts": 1791627450
   }
 ]

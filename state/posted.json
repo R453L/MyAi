@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ffffd05d6d8f68b0e13920df63da7e2c860558d01535836c37771ee682d0d78b",
-    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "ts": 1791139113
-  },
-  {
     "hash": "7bd1471e0ccae534203055c604901fcb8cf11596a0ef053fc1b1a4e9bb3c3e9d",
     "link": "https://hn.watch/",
     "title": "Show HN: HN.watch – Videos of all Hacker News posts",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.10906",
     "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
     "ts": 1791650498
+  },
+  {
+    "hash": "d2b5b29b4c815525619915dcf133df4d932068a91ccef332cbfb8777febef4ef",
+    "link": "https://openai.com/index/eu-text-provenance",
+    "title": "Our approach to EU text provenance rules",
+    "ts": 1791673532
   }
 ]

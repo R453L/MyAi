@@ -1,11 +1,5 @@
 [
   {
-    "hash": "9b84b462d1fa1c1e9822ce5acf609b4b9a9d8ec31e1595cb436b7bef33aeb539",
-    "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-    "title": "The problem is not AI code, but not knowing about system architecture or intent",
-    "ts": 1791139113
-  },
-  {
     "hash": "f0287c92448162787e962af74458489fa145f6ecd0cdfbb5260b88526b8ee314",
     "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
     "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/asana-browser-agent",
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "ts": 1791589640
+  },
+  {
+    "hash": "b0bbe83c7af630df814a84eab0a9f5e9ea19e086197cdf968dcfbd655b61d080",
+    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+    "title": "Why we’re watching these climate tech companies",
+    "ts": 1791602227
   }
 ]

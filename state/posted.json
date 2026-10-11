@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
-    "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
-    "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
-    "ts": 1791457627
-  },
-  {
     "hash": "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
     "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
     "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
@@ -250,5 +244,11 @@
     "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
     "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
     "ts": 1791746604
+  },
+  {
+    "hash": "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134",
+    "link": "https://openai.com/index/radisson",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "ts": 1791760719
   }
 ]

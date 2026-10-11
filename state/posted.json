@@ -1,125 +1,5 @@
 [
   {
-    "hash": "85052f9befba2c4e17fa41a5b103c0c0ae8459b0b1c3561b24bc565188ff9e10",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "ts": 1791198327
-  },
-  {
-    "hash": "a8367e00fb9a58bf10304f8a78a526528283ba98d5591ac9c3f00610f2e8d2ae",
-    "link": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
-    "title": "Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral",
-    "ts": 1791198327
-  },
-  {
-    "hash": "246c2b69927b7a2bf6089c52f2647b37e0e494665888d85237da8ce2cf64df09",
-    "link": "https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/",
-    "title": "Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces",
-    "ts": 1791198327
-  },
-  {
-    "hash": "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
-    "link": "https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/",
-    "title": "How to Build a Robust RAG System with Minimal Resources",
-    "ts": 1791198327
-  },
-  {
-    "hash": "a0ec29c39f5f2711a72b1f505d5605568ae53d15429cd43f864766cc219d73c3",
-    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "ts": 1791248851
-  },
-  {
-    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
-    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
-    "title": "Local Agentic AI Workflows with Hermes + Ollama",
-    "ts": 1791284388
-  },
-  {
-    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
-    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
-    "title": "The Roadmap to Mastering LLM Inference Optimization",
-    "ts": 1791284388
-  },
-  {
-    "hash": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "title": "Transformers now runs llama.cpp quants",
-    "ts": 1791284388
-  },
-  {
-    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
-    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
-    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
-    "ts": 1791284388
-  },
-  {
-    "hash": "c2e638c54f0a6268f6b1daab927c76451d15c07dc6e489b8043882c2d2fc0af0",
-    "link": "https://arxiv.org/abs/2610.03934",
-    "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
-    "ts": 1791308333
-  },
-  {
-    "hash": "2896758265cec81d95898858cf3558ac9cdd51e4e22038c8fc6ca0aa5193f521",
-    "link": "https://openai.com/index/atlassian-partnership",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "ts": 1791329372
-  },
-  {
-    "hash": "14c81bbca3cb238d87b6dec545fdf71091826b390ddf15994fe8cbb6483be65c",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNExfM25OMFJjWE9BNGd3Y0pZWGxHczNYUlhjYTZ2RTBkYTlQUkY3ZklHVGJuTXBjMXlnOWt6NW1XeGZod0NYbUw5TjRkdm1xcEYxVWt3aGpSSkRtS1lPUUE3Sjh5QkdvVmpoMXpwempQTmRjZ20yNnQ0bDRGSENZaFhyRjlsXzhUX3Fja2RiRXMyOE1UUVV4OTBtc3ZpZTVzeWlodWEwX0dtT3V5SUFlRkVDcjlMdGg5QjUxZWNaN0ZfNVVUZGNvUTFLZDBTSTU4LWNoNXhXaVBZWEhk?oc=5",
-    "title": "Artificial Intelligence and Healthcare: What Premeds Should Know | Medical School Admissions Doctor | U.S. News - U.S. News & World Report",
-    "ts": 1791343166
-  },
-  {
-    "hash": "dc53fce90c6f36f5c727235e1a467f2d849dcd49be3c83b393c97ef4331e392f",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "ts": 1791369980
-  },
-  {
-    "hash": "bd1136d0fcfd6f1357de280adaee84cea07cc88c30626783f53af728070f9fc3",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "ts": 1791369980
-  },
-  {
-    "hash": "a8fdad88b973d4c5aee81feddd9cccd3ee5c4d1e2889ab20c159e3d6af2ec0f1",
-    "link": "https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/",
-    "title": "AI Agent Observability: Logging, Tracing, and Debugging Explained",
-    "ts": 1791369980
-  },
-  {
-    "hash": "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
-    "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
-    "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
-    "ts": 1791369980
-  },
-  {
-    "hash": "c11a83f73b42d75639443284618af1576a5293ebbd1f2119958661a090262494",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "ts": 1791397008
-  },
-  {
-    "hash": "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134",
-    "link": "https://openai.com/index/radisson",
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "ts": 1791417351
-  },
-  {
-    "hash": "63b9b4e612710b9124b22573f1f9907b2cbf3c0439ad360ae6a144fe5e20eff2",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGVnV3BQUElWUXVrTEhLOUhJWU1mazVrTGhWZ05hSXlna3F2QlUwS3VaVDZYV0w4UVFNR3dHRkR6N1huSXJnZkFKNjFqUk1HZUNFNnRZdEY2cW5PeHRBcDItLWVHM0U2cTljRndmbVlNU0N0ZDJmek5mVTNoLUc3NTlJUW54Q2VNUG15eG03eFhrZkhVbXd6ZmFR?oc=5",
-    "title": "How Much Should We Worry? Recent Developments in Artificial Intelligence - Electronic Frontier Foundation",
-    "ts": 1791430694
-  },
-  {
-    "hash": "693b3130e25cc8808f585a694f7201006d36e37cb71c7b8ae2099287d6befd80",
-    "link": "https://huggingface.co/blog/tokenizers-v1",
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "ts": 1791457627
-  },
-  {
     "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
     "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
     "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
@@ -250,5 +130,125 @@
     "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
     "ts": 1791738068
+  },
+  {
+    "hash": "734121fbebcb0ae1b10d0dbf8a90dd925834ada4d65ed8dfeccd0020a1ede2d3",
+    "link": "https://mistral.ai/news/mistral-large-4/\\",
+    "title": "Mistral Large 4",
+    "ts": 1791746604
+  },
+  {
+    "hash": "270d2009beef3a33ff16c11630a56d9df4068ff4db88be18f9cbe9e1229361b2",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "title": "Sharing AI progress in mathematics",
+    "ts": 1791746604
+  },
+  {
+    "hash": "bb80d48523c945ff288e3164e8a06afc1a265f4c84f921477d082f86a6532291",
+    "link": "https://news.ycombinator.com/item?id=49982498",
+    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+    "ts": 1791746604
+  },
+  {
+    "hash": "917ba46d3f15f0c5b9b71443d754a728f1090204be0a113eec5e6bd6f3edf869",
+    "link": "https://reflection.ai/blog/introducing-beam",
+    "title": "Beam: Reflection's 501B open-weight model",
+    "ts": 1791746604
+  },
+  {
+    "hash": "1ef243007176e85cc8c61f991c732cb67f59da2c4bf9bd4e693a0d6d5af2a173",
+    "link": "https://mistral.ai/news/mistral-large-4/",
+    "title": "Mistral Large 4: \"Le Chonk\"",
+    "ts": 1791746604
+  },
+  {
+    "hash": "dbf6a51fde3f190f1405f6559444f4c41e55bf52a234e53a4e1a3545cdc68829",
+    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "ts": 1791746604
+  },
+  {
+    "hash": "917825c0315309567de60f7fe954da62a99d9eb6209eae549a3a5b445320c69e",
+    "link": "https://typesafe.ai/blog/series-ai",
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "ts": 1791746604
+  },
+  {
+    "hash": "e6e1d2a9f0a4e91a5d1f21293d000a332328749f1021874c1f91d3dd98cf960b",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "ts": 1791746604
+  },
+  {
+    "hash": "53388dee81af3ceae1701d0608341d7002ba510ed1b669cf40189b84814dedfc",
+    "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+    "title": "OpenAI annualised revenues $20B less than previously signalled",
+    "ts": 1791746604
+  },
+  {
+    "hash": "bf2149b8045ec7a8d0e94d4d7d36648c8774f6d52b31e9aed273185bb5e418e5",
+    "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+    "ts": 1791746604
+  },
+  {
+    "hash": "8c06e2dca115ff6a48283bad0b1471a9585817fddacdaf0a791900b029a29276",
+    "link": "https://news.ycombinator.com/item?id=49985548",
+    "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+    "ts": 1791746604
+  },
+  {
+    "hash": "f912fde3e281653a57834799a923ed6a1e135367ed5e6e770a5e5a2f645dacd4",
+    "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "ts": 1791746604
+  },
+  {
+    "hash": "0d8c74eec04dc0baad67974a38e9d7e01fea672383ac18bd5e7828dc360726d0",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "ts": 1791746604
+  },
+  {
+    "hash": "2010382b7e67221b211756dabd4e1cbc9f53657dae1bbb0d238ddca211aaf194",
+    "link": "https://github.com/FeSens/openTPU",
+    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+    "ts": 1791746604
+  },
+  {
+    "hash": "5c1db9239c15fa63153fb9af93c75fe74782fb4a6b7c7adc6152b7c684041ca2",
+    "link": "https://github.com/rociiu/talorys",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "ts": 1791746604
+  },
+  {
+    "hash": "1e6d0aa6065c4bd57fec32ed29780435711d077456dcd1ae18361455c1307efd",
+    "link": "https://penguin-mail.com/",
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "ts": 1791746604
+  },
+  {
+    "hash": "71b96d78bf43b81c21bc402a427e275ec655e8895d13ba5e4f13e7f1744444ea",
+    "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "ts": 1791746604
+  },
+  {
+    "hash": "0aa37f61cf8a1945049cc8a22b6e68a99c21fe313c5342680faa69f89c2ec8ca",
+    "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+    "ts": 1791746604
+  },
+  {
+    "hash": "4793d66f3e1b5c2e902007143a048e2e28eddf9d04fc8ccf51cde41f9bb9c5fa",
+    "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "ts": 1791746604
+  },
+  {
+    "hash": "3ad2fc4c6ef267bc24cabf4b21c94da552ea005f9926a52fcdc4f844ea8cecae",
+    "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+    "ts": 1791746604
   }
 ]

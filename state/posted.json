@@ -1,23 +1,5 @@
 [
   {
-    "hash": "d4f9f7ea2f928763dec9ad0672742a69f368fc0a5ec40decbd6a97a5e5986531",
-    "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-    "title": "AI needs $6T in annual revenue to justify data centre boom",
-    "ts": 1791139113
-  },
-  {
-    "hash": "4785a23659edd919b9bb63d5501ea25a699f95a94af8d23acd7934273a3e9775",
-    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-    "ts": 1791139113
-  },
-  {
-    "hash": "637d3dfa247fa816a4c4160f323cf7816f7979e28cc1acd637f643ec28fcb5fc",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "ts": 1791153733
-  },
-  {
     "hash": "5eabcfd97d22a1c16aafb81502dbbbcbb3a2f4ab3362f2edc8d9aec3f76f0715",
     "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
     "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
@@ -250,5 +232,23 @@
     "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
     "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
     "ts": 1791686814
+  },
+  {
+    "hash": "4c4b51a7c8d97b9466743869dc7ee6fd287a1914047f2e2a87171ab2e68cd767",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "title": "Multimodal open d1 decision models for the edge",
+    "ts": 1791714669
+  },
+  {
+    "hash": "6e2f20bff5d74e16b57c3dbbceca7572f31228389eec6f48fa3672e01b051ece",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "title": "Holo4: powering generalist computer-use agents",
+    "ts": 1791714669
+  },
+  {
+    "hash": "debde72214d3e8c78ab29475865d4e22fb7e69db0e393c25adab03e80fc9a698",
+    "link": "https://machinelearningmastery.com/a-gentle-introduction-to-model-distillation/",
+    "title": "A Gentle Introduction to Model Distillation",
+    "ts": 1791714669
   }
 ]

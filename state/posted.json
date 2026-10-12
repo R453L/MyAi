@@ -1,11 +1,5 @@
 [
   {
-    "hash": "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
-    "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
-    "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
-    "ts": 1791457627
-  },
-  {
     "hash": "e019b35d051a208659494b795b07ad79627b5ae067fbfee16859a9d171cb4353",
     "link": "https://arxiv.org/abs/2610.08793",
     "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/radisson",
     "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
     "ts": 1791760719
+  },
+  {
+    "hash": "feab0ad4868e3e2ec005e5a61422d345f34eaf3bf567c3b1760ab5bf90e91480",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "ts": 1791774700
   }
 ]

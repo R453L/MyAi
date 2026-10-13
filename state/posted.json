@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b0bbe83c7af630df814a84eab0a9f5e9ea19e086197cdf968dcfbd655b61d080",
-    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-    "title": "Why we’re watching these climate tech companies",
-    "ts": 1791602227
-  },
-  {
     "hash": "67f5f61696a2949df2730f40424ad824b9d13bbf8b547c153b8cdb7135436103",
     "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/manifold-mcp",
     "title": "Manifold MCP",
     "ts": 1791865589
+  },
+  {
+    "hash": "45d6a2b79938283a07ca47b39fd2409f4bc34d8465757047a15ff56c4f0b15f8",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "ts": 1791924927
   }
 ]

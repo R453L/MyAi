@@ -1,23 +1,5 @@
 [
   {
-    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
-    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
-    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
-    "ts": 1791544045
-  },
-  {
-    "hash": "30c38a4f4bf9960ad2b06834daf017ef449f26a71d878fe80173cbd524a3712d",
-    "link": "https://arxiv.org/abs/2610.10549",
-    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-    "ts": 1791568189
-  },
-  {
-    "hash": "9bf93d58cc35db9987f8bca45379eba94bc31d29b6afb6124531fcd7a11cbc41",
-    "link": "https://openai.com/index/asana-browser-agent",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "ts": 1791589640
-  },
-  {
     "hash": "b0bbe83c7af630df814a84eab0a9f5e9ea19e086197cdf968dcfbd655b61d080",
     "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
     "title": "Why we’re watching these climate tech companies",
@@ -250,5 +232,23 @@
     "link": "https://openai.com/index/atlassian-partnership",
     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "ts": 1791837425
+  },
+  {
+    "hash": "e7d7e8fc00f350e9071b3d366a4f0f46e592093e4f1b69f58bca12d6dfef94fe",
+    "link": "https://www.producthunt.com/products/embeddinggemma-2",
+    "title": "Google EmbeddingGemma 2",
+    "ts": 1791865589
+  },
+  {
+    "hash": "aeec7a15e81750556e62946ad0f5ace823548a65959451fa959192d1a27a6310",
+    "link": "https://www.producthunt.com/products/context-dev",
+    "title": "Scrape Anything by Context.dev",
+    "ts": 1791865589
+  },
+  {
+    "hash": "8f4c5229a1a79048741cf97b5ae43c8494bb084f1abe0476bf07f86ba595b289",
+    "link": "https://www.producthunt.com/products/manifold-mcp",
+    "title": "Manifold MCP",
+    "ts": 1791865589
   }
 ]

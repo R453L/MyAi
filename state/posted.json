@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b9dc0d5943c84ce635f67f89769163cfdac8e6a0d1a5f49f73167bff0bfb3963",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "ts": 1791686814
-  },
-  {
     "hash": "4c4b51a7c8d97b9466743869dc7ee6fd287a1914047f2e2a87171ab2e68cd767",
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
     "title": "Multimodal open d1 decision models for the edge",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.14209",
     "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
     "ts": 1791994182
+  },
+  {
+    "hash": "d9e485b409fe8517ac6e3a5ba39a5770caf1a72ddba21f80f7ddf66c5e1760f2",
+    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "ts": 1792018182
   }
 ]

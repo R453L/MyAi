@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d2b5b29b4c815525619915dcf133df4d932068a91ccef332cbfb8777febef4ef",
-    "link": "https://openai.com/index/eu-text-provenance",
-    "title": "Our approach to EU text provenance rules",
-    "ts": 1791673532
-  },
-  {
     "hash": "b9dc0d5943c84ce635f67f89769163cfdac8e6a0d1a5f49f73167bff0bfb3963",
     "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
     "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
     "title": "Local Agentic AI Workflows with Hermes + Ollama",
     "ts": 1791968983
+  },
+  {
+    "hash": "020914d4401604455fcc8cfeb94a70e962e18c50db647a4ade0b6766480e1509",
+    "link": "https://arxiv.org/abs/2610.14209",
+    "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+    "ts": 1791994182
   }
 ]

@@ -1,29 +1,5 @@
 [
   {
-    "hash": "6f7a1fa01f17acfa36ea01e6e22330066965b25fa0af3decc0ead2771969b593",
-    "link": "https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/",
-    "title": "Treating Prompt Templates as Hyperparameters in Scikit-LLM GridSearchCV",
-    "ts": 1791627450
-  },
-  {
-    "hash": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "ts": 1791627450
-  },
-  {
-    "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
-    "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
-    "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
-    "ts": 1791627450
-  },
-  {
-    "hash": "58375e71a9edc0b3d1f1b9e710414807f12fa242540ce43b6ac4207adf0d7db7",
-    "link": "https://arxiv.org/abs/2610.10906",
-    "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
-    "ts": 1791650498
-  },
-  {
     "hash": "d2b5b29b4c815525619915dcf133df4d932068a91ccef332cbfb8777febef4ef",
     "link": "https://openai.com/index/eu-text-provenance",
     "title": "Our approach to EU text provenance rules",
@@ -250,5 +226,29 @@
     "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
     "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
     "ts": 1791945453
+  },
+  {
+    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
+    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
+    "title": "The Roadmap to Mastering LLM Inference Optimization",
+    "ts": 1791968983
+  },
+  {
+    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
+    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
+    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
+    "ts": 1791968983
+  },
+  {
+    "hash": "67f5f61696a2949df2730f40424ad824b9d13bbf8b547c153b8cdb7135436103",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "ts": 1791968983
+  },
+  {
+    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
+    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
+    "title": "Local Agentic AI Workflows with Hermes + Ollama",
+    "ts": 1791968983
   }
 ]

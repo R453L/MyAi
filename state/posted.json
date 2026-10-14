@@ -1,11 +1,5 @@
 [
   {
-    "hash": "67f5f61696a2949df2730f40424ad824b9d13bbf8b547c153b8cdb7135436103",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "ts": 1791627450
-  },
-  {
     "hash": "6f7a1fa01f17acfa36ea01e6e22330066965b25fa0af3decc0ead2771969b593",
     "link": "https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/",
     "title": "Treating Prompt Templates as Hyperparameters in Scikit-LLM GridSearchCV",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/legalon-halves-codex-costs",
     "title": "LegalOn halves Codex costs while maintaining development speed",
     "ts": 1791924927
+  },
+  {
+    "hash": "51e3d24adc70a0db638852caee711c4d487b0812b14a1deaedacd5949bc2d873",
+    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "ts": 1791945453
   }
 ]

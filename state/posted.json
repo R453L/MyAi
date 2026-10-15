@@ -1,11 +1,5 @@
 [
   {
-    "hash": "bb80d48523c945ff288e3164e8a06afc1a265f4c84f921477d082f86a6532291",
-    "link": "https://news.ycombinator.com/item?id=49982498",
-    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-    "ts": 1791746604
-  },
-  {
     "hash": "917ba46d3f15f0c5b9b71443d754a728f1090204be0a113eec5e6bd6f3edf869",
     "link": "https://reflection.ai/blog/introducing-beam",
     "title": "Beam: Reflection's 501B open-weight model",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.14118",
     "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
     "ts": 1792093001
+  },
+  {
+    "hash": "8d45898e533e591d4241f4c1821bbb7b4d6f05ca764b796c7fbe29eb68dd7bc4",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "ts": 1792104359
   }
 ]

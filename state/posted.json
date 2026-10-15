@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4c4b51a7c8d97b9466743869dc7ee6fd287a1914047f2e2a87171ab2e68cd767",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "title": "Multimodal open d1 decision models for the edge",
-    "ts": 1791714669
-  },
-  {
     "hash": "6e2f20bff5d74e16b57c3dbbceca7572f31228389eec6f48fa3672e01b051ece",
     "link": "https://huggingface.co/blog/Hcompany/holo4",
     "title": "Holo4: powering generalist computer-use agents",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "title": "Disrupting AI-enabled “false front” operations",
     "ts": 1792018182
+  },
+  {
+    "hash": "d1ef128980986ea59e26259df589e7041f4a43cdee80c3b1c97cbe1153800db7",
+    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "ts": 1792030694
   }
 ]

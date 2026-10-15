@@ -1,11 +1,5 @@
 [
   {
-    "hash": "270d2009beef3a33ff16c11630a56d9df4068ff4db88be18f9cbe9e1229361b2",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "title": "Sharing AI progress in mathematics",
-    "ts": 1791746604
-  },
-  {
     "hash": "bb80d48523c945ff288e3164e8a06afc1a265f4c84f921477d082f86a6532291",
     "link": "https://news.ycombinator.com/item?id=49982498",
     "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
     "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
     "ts": 1792053844
+  },
+  {
+    "hash": "6d32cf3f2a6a67e37982be1f441834d9f248ea41ca3684a0cdff490385cc5b29",
+    "link": "https://arxiv.org/abs/2610.14118",
+    "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+    "ts": 1792093001
   }
 ]

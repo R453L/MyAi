@@ -1,11 +1,5 @@
 [
   {
-    "hash": "917ba46d3f15f0c5b9b71443d754a728f1090204be0a113eec5e6bd6f3edf869",
-    "link": "https://reflection.ai/blog/introducing-beam",
-    "title": "Beam: Reflection's 501B open-weight model",
-    "ts": 1791746604
-  },
-  {
     "hash": "1ef243007176e85cc8c61f991c732cb67f59da2c4bf9bd4e693a0d6d5af2a173",
     "link": "https://mistral.ai/news/mistral-large-4/",
     "title": "Mistral Large 4: \"Le Chonk\"",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/higgsfield-longer-videos-voice",
     "title": "Higgsfield takes AI video from 1 minute to over 10",
     "ts": 1792104359
+  },
+  {
+    "hash": "e1fe0a2241f37d3f3bac1b2a58dc2afda6910684651ab4d12d8ac800bff7b54b",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5",
+    "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users - 2 Minute Medicine",
+    "ts": 1792116442
   }
 ]

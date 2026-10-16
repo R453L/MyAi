@@ -1,23 +1,5 @@
 [
   {
-    "hash": "1ef243007176e85cc8c61f991c732cb67f59da2c4bf9bd4e693a0d6d5af2a173",
-    "link": "https://mistral.ai/news/mistral-large-4/",
-    "title": "Mistral Large 4: \"Le Chonk\"",
-    "ts": 1791746604
-  },
-  {
-    "hash": "dbf6a51fde3f190f1405f6559444f4c41e55bf52a234e53a4e1a3545cdc68829",
-    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "ts": 1791746604
-  },
-  {
-    "hash": "917825c0315309567de60f7fe954da62a99d9eb6209eae549a3a5b445320c69e",
-    "link": "https://typesafe.ai/blog/series-ai",
-    "title": "Typesafe AI raises $870M at $7.5B",
-    "ts": 1791746604
-  },
-  {
     "hash": "e6e1d2a9f0a4e91a5d1f21293d000a332328749f1021874c1f91d3dd98cf960b",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
     "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5",
     "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users - 2 Minute Medicine",
     "ts": 1792116442
+  },
+  {
+    "hash": "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "ts": 1792139732
+  },
+  {
+    "hash": "eb67409897ed2136a753e14173e61feab2317d6d8d361b6603fffb8a60da143f",
+    "link": "https://huggingface.co/blog/flux-3",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "ts": 1792139732
+  },
+  {
+    "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
+    "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
+    "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
+    "ts": 1792139732
   }
 ]

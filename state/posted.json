@@ -1,11 +1,5 @@
 [
   {
-    "hash": "e6e1d2a9f0a4e91a5d1f21293d000a332328749f1021874c1f91d3dd98cf960b",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-    "ts": 1791746604
-  },
-  {
     "hash": "53388dee81af3ceae1701d0608341d7002ba510ed1b669cf40189b84814dedfc",
     "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
     "title": "OpenAI annualised revenues $20B less than previously signalled",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
     "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
     "ts": 1792139732
+  },
+  {
+    "hash": "cffdb744dda380b11ea594bbc7cb2975141a9d617b8f17a4b8e66e5c9700a184",
+    "link": "https://arxiv.org/abs/2610.20780",
+    "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+    "ts": 1792177679
   }
 ]

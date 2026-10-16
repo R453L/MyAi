@@ -1,11 +1,5 @@
 [
   {
-    "hash": "53388dee81af3ceae1701d0608341d7002ba510ed1b669cf40189b84814dedfc",
-    "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-    "title": "OpenAI annualised revenues $20B less than previously signalled",
-    "ts": 1791746604
-  },
-  {
     "hash": "bf2149b8045ec7a8d0e94d4d7d36648c8774f6d52b31e9aed273185bb5e418e5",
     "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.20780",
     "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
     "ts": 1792177679
+  },
+  {
+    "hash": "200a5d3dd39c6bfb7a20192865ba844eee2602b52233f3070983235051951aad",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "title": "The EU’s next chapter in AI is agentic",
+    "ts": 1792189195
   }
 ]

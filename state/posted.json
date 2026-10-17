@@ -1,11 +1,5 @@
 [
   {
-    "hash": "bf2149b8045ec7a8d0e94d4d7d36648c8774f6d52b31e9aed273185bb5e418e5",
-    "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-    "ts": 1791746604
-  },
-  {
     "hash": "8c06e2dca115ff6a48283bad0b1471a9585817fddacdaf0a791900b029a29276",
     "link": "https://news.ycombinator.com/item?id=49985548",
     "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "title": "The EU’s next chapter in AI is agentic",
     "ts": 1792189195
+  },
+  {
+    "hash": "7ff2fab56ea772a237d9cee8f267bd5716392ded0b7ee9ccf2e086ca0dc56a97",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "ts": 1792202504
   }
 ]

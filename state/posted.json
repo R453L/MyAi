@@ -1,29 +1,5 @@
 [
   {
-    "hash": "8c06e2dca115ff6a48283bad0b1471a9585817fddacdaf0a791900b029a29276",
-    "link": "https://news.ycombinator.com/item?id=49985548",
-    "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-    "ts": 1791746604
-  },
-  {
-    "hash": "f912fde3e281653a57834799a923ed6a1e135367ed5e6e770a5e5a2f645dacd4",
-    "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "ts": 1791746604
-  },
-  {
-    "hash": "0d8c74eec04dc0baad67974a38e9d7e01fea672383ac18bd5e7828dc360726d0",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "ts": 1791746604
-  },
-  {
-    "hash": "2010382b7e67221b211756dabd4e1cbc9f53657dae1bbb0d238ddca211aaf194",
-    "link": "https://github.com/FeSens/openTPU",
-    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "ts": 1791746604
-  },
-  {
     "hash": "5c1db9239c15fa63153fb9af93c75fe74782fb4a6b7c7adc6152b7c684041ca2",
     "link": "https://github.com/rociiu/talorys",
     "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
@@ -250,5 +226,29 @@
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
     "ts": 1792202504
+  },
+  {
+    "hash": "138e9b7e7d9747243aa585f555fbf6f3d58b687e3498b374de6b74802266db21",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "ts": 1792224456
+  },
+  {
+    "hash": "6e2f20bff5d74e16b57c3dbbceca7572f31228389eec6f48fa3672e01b051ece",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "title": "Holo4: powering generalist computer-use agents",
+    "ts": 1792224456
+  },
+  {
+    "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
+    "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
+    "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
+    "ts": 1792224456
+  },
+  {
+    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
+    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
+    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
+    "ts": 1792224456
   }
 ]

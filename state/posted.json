@@ -1,11 +1,5 @@
 [
   {
-    "hash": "5c1db9239c15fa63153fb9af93c75fe74782fb4a6b7c7adc6152b7c684041ca2",
-    "link": "https://github.com/rociiu/talorys",
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "ts": 1791746604
-  },
-  {
     "hash": "1e6d0aa6065c4bd57fec32ed29780435711d077456dcd1ae18361455c1307efd",
     "link": "https://penguin-mail.com/",
     "title": "Penguin Mail – open-source Rust email client for Linux with AI",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
     "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
     "ts": 1792224456
+  },
+  {
+    "hash": "8b1ab1df41ac00d8450a9c25dd5dbcdb0b91a40bb3de26f2671c5e1a109999b2",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "ts": 1792260890
   }
 ]

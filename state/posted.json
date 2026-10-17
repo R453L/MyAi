@@ -1,11 +1,5 @@
 [
   {
-    "hash": "1e6d0aa6065c4bd57fec32ed29780435711d077456dcd1ae18361455c1307efd",
-    "link": "https://penguin-mail.com/",
-    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "ts": 1791746604
-  },
-  {
     "hash": "71b96d78bf43b81c21bc402a427e275ec655e8895d13ba5e4f13e7f1744444ea",
     "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
     "title": "Mxc: Microsoft Execution Containers version 1.0.0",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "ts": 1792260890
+  },
+  {
+    "hash": "94eadcab22c41e356a1d9bf1e35dbdb6491d04804b7eea5ceec3829024496784",
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "ts": 1792273917
   }
 ]

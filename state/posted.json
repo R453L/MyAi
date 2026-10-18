@@ -1,41 +1,5 @@
 [
   {
-    "hash": "0aa37f61cf8a1945049cc8a22b6e68a99c21fe313c5342680faa69f89c2ec8ca",
-    "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-    "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-    "ts": 1791746604
-  },
-  {
-    "hash": "4793d66f3e1b5c2e902007143a048e2e28eddf9d04fc8ccf51cde41f9bb9c5fa",
-    "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "ts": 1791746604
-  },
-  {
-    "hash": "3ad2fc4c6ef267bc24cabf4b21c94da552ea005f9926a52fcdc4f844ea8cecae",
-    "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "ts": 1791746604
-  },
-  {
-    "hash": "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134",
-    "link": "https://openai.com/index/radisson",
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "ts": 1791760719
-  },
-  {
-    "hash": "feab0ad4868e3e2ec005e5a61422d345f34eaf3bf567c3b1760ab5bf90e91480",
-    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "ts": 1791774700
-  },
-  {
-    "hash": "689d78c6e007ab8e2c4f1996bb4d798c0801548871029acd469c087e5a6afc90",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "title": "Transformers now runs llama.cpp quants",
-    "ts": 1791804549
-  },
-  {
     "hash": "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
     "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
     "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
@@ -250,5 +214,41 @@
     "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
     "title": "Six wild ideas for perpetuating your mind",
     "ts": 1792288824
+  },
+  {
+    "hash": "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
+    "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
+    "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
+    "ts": 1792312697
+  },
+  {
+    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
+    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
+    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
+    "ts": 1792312697
+  },
+  {
+    "hash": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "ts": 1792312697
+  },
+  {
+    "hash": "c9a6184923cc1a5837b490017ed569bb9f0183f7b39ff2df0ab9b46fbcc327c4",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "ts": 1792312697
+  },
+  {
+    "hash": "bd1136d0fcfd6f1357de280adaee84cea07cc88c30626783f53af728070f9fc3",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "ts": 1792312697
+  },
+  {
+    "hash": "5997c61056cef089750937bdf14912df332f9fc17c22a686d8bb31ab755c1276",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "ts": 1792312697
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d9e485b409fe8517ac6e3a5ba39a5770caf1a72ddba21f80f7ddf66c5e1760f2",
-    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-    "title": "Disrupting AI-enabled “false front” operations",
-    "ts": 1792018182
-  },
-  {
     "hash": "d1ef128980986ea59e26259df589e7041f4a43cdee80c3b1c97cbe1153800db7",
     "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
     "title": "The ecologist revealing the invisible networks that revive rainforests",
@@ -250,5 +244,11 @@
     "link": "https://sphinx-six-theta.vercel.app/",
     "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
     "ts": 1792345986
+  },
+  {
+    "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "title": "Gemini 4 Argon for Robotics",
+    "ts": 1792347885
   }
 ]

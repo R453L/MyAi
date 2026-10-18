@@ -1,11 +1,5 @@
 [
   {
-    "hash": "71b96d78bf43b81c21bc402a427e275ec655e8895d13ba5e4f13e7f1744444ea",
-    "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-    "ts": 1791746604
-  },
-  {
     "hash": "0aa37f61cf8a1945049cc8a22b6e68a99c21fe313c5342680faa69f89c2ec8ca",
     "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
     "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/sullivan-cromwell",
     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
     "ts": 1792273917
+  },
+  {
+    "hash": "b5c811be10d3c05a3ec36948fe24fb1ced5d9abc739f3d2c9d06a29d334890c1",
+    "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+    "title": "Six wild ideas for perpetuating your mind",
+    "ts": 1792288824
   }
 ]

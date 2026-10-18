@@ -1,89 +1,5 @@
 [
   {
-    "hash": "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
-    "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
-    "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
-    "ts": 1791804549
-  },
-  {
-    "hash": "f299a059014f1e2f63f188a01b49d5128554c4b998dff25b0163b739672bd570",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "ts": 1791804549
-  },
-  {
-    "hash": "76da0f213ab5a2b0c5d363145bc57e508a338de28c69eeaee832dd9cecbbef5e",
-    "link": "https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/",
-    "title": "Choosing the Right Agentic AI Framework for 2026: A Decision-Tree Approach",
-    "ts": 1791804549
-  },
-  {
-    "hash": "2896758265cec81d95898858cf3558ac9cdd51e4e22038c8fc6ca0aa5193f521",
-    "link": "https://openai.com/index/atlassian-partnership",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "ts": 1791837425
-  },
-  {
-    "hash": "e7d7e8fc00f350e9071b3d366a4f0f46e592093e4f1b69f58bca12d6dfef94fe",
-    "link": "https://www.producthunt.com/products/embeddinggemma-2",
-    "title": "Google EmbeddingGemma 2",
-    "ts": 1791865589
-  },
-  {
-    "hash": "aeec7a15e81750556e62946ad0f5ace823548a65959451fa959192d1a27a6310",
-    "link": "https://www.producthunt.com/products/context-dev",
-    "title": "Scrape Anything by Context.dev",
-    "ts": 1791865589
-  },
-  {
-    "hash": "8f4c5229a1a79048741cf97b5ae43c8494bb084f1abe0476bf07f86ba595b289",
-    "link": "https://www.producthunt.com/products/manifold-mcp",
-    "title": "Manifold MCP",
-    "ts": 1791865589
-  },
-  {
-    "hash": "45d6a2b79938283a07ca47b39fd2409f4bc34d8465757047a15ff56c4f0b15f8",
-    "link": "https://openai.com/index/legalon-halves-codex-costs",
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "ts": 1791924927
-  },
-  {
-    "hash": "51e3d24adc70a0db638852caee711c4d487b0812b14a1deaedacd5949bc2d873",
-    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "ts": 1791945453
-  },
-  {
-    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
-    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
-    "title": "The Roadmap to Mastering LLM Inference Optimization",
-    "ts": 1791968983
-  },
-  {
-    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
-    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
-    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
-    "ts": 1791968983
-  },
-  {
-    "hash": "67f5f61696a2949df2730f40424ad824b9d13bbf8b547c153b8cdb7135436103",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "ts": 1791968983
-  },
-  {
-    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
-    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
-    "title": "Local Agentic AI Workflows with Hermes + Ollama",
-    "ts": 1791968983
-  },
-  {
-    "hash": "020914d4401604455fcc8cfeb94a70e962e18c50db647a4ade0b6766480e1509",
-    "link": "https://arxiv.org/abs/2610.14209",
-    "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
-    "ts": 1791994182
-  },
-  {
     "hash": "d9e485b409fe8517ac6e3a5ba39a5770caf1a72ddba21f80f7ddf66c5e1760f2",
     "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "title": "Disrupting AI-enabled “false front” operations",
@@ -250,5 +166,89 @@
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
     "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
     "ts": 1792312697
+  },
+  {
+    "hash": "3edeaa8d7764aa277fd52cfb351208e00ccbe8f89c8ee92faf6329aed447d742",
+    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "ts": 1792345986
+  },
+  {
+    "hash": "520b0400db3cdd5772498dfaaef1e992041b43a8326054728a4949fdc05423bb",
+    "link": "https://alexwang.ai/posts/associative-memory/",
+    "title": "You could have invented transformers from memory",
+    "ts": 1792345986
+  },
+  {
+    "hash": "6b10edb38f7953beed932e3b1abd178db71de3daf0478c670161be8e274bcb7d",
+    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "ts": 1792345986
+  },
+  {
+    "hash": "8eb3e0ba9b803883c209bbff697821fa45afd2fa4a065f426d89340f3be9a48b",
+    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "ts": 1792345986
+  },
+  {
+    "hash": "164ef0f32666d135ed8f5d80b309408ac9b0256247d1614edec242e0fe7e6862",
+    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "ts": 1792345986
+  },
+  {
+    "hash": "50150b2440eae6e7477a1261cead5467f0397a58d2cd1eeb8b11c3f6a23b10ff",
+    "link": "https://www.krea.ai/krea-3",
+    "title": "Krea 3 – An image model built for editing at scale",
+    "ts": 1792345986
+  },
+  {
+    "hash": "b7fa471957a89920d9e8c907ce8186ea0f56b05d11a7af249239dd10c8c01037",
+    "link": "https://blog.character.ai/an-update-on-character-ai/",
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "ts": 1792345986
+  },
+  {
+    "hash": "fe204f516be8541db0a3ab5bb553ac801084c0259e873774711e6f9786534ec3",
+    "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "ts": 1792345986
+  },
+  {
+    "hash": "364f5f1cad75fb5b888bd305eb4d36ed1dfe682885160c7e1fb6f4bcf2916f1f",
+    "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "ts": 1792345986
+  },
+  {
+    "hash": "b693a6e80e752f67e358b9d6b54e42ed0e58cc91dd58df253a3c60bdb7140b66",
+    "link": "https://arxiv.org/abs/2610.13928",
+    "title": "AI models can provably hide arbitrary capabilities",
+    "ts": 1792345986
+  },
+  {
+    "hash": "ef44c8c2fd567dd7b4567ed9891951302cffe409586c83a702ea149dbd6e5be9",
+    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "title": "Using AI to reverse engineer hardware",
+    "ts": 1792345986
+  },
+  {
+    "hash": "cac83430057dec59102374c21ac4a4d8403723461bdfffcf2bd9432329c76a50",
+    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+    "ts": 1792345986
+  },
+  {
+    "hash": "711ff4437e8bd1782b490c45373c736bdda62389ef7f54875a69574e7d57e76c",
+    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "ts": 1792345986
+  },
+  {
+    "hash": "0e1c32a585dd4e05db26ac4f3767b3389724719c87ea2a07b858dd3b3022cc6b",
+    "link": "https://sphinx-six-theta.vercel.app/",
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "ts": 1792345986
   }
 ]

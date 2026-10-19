@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d1ef128980986ea59e26259df589e7041f4a43cdee80c3b1c97cbe1153800db7",
-    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "ts": 1792030694
-  },
-  {
     "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
     "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
     "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "title": "Gemini 4 Argon for Robotics",
     "ts": 1792347885
+  },
+  {
+    "hash": "072d2d135ef0f34bb37ac60ae2abc104896032b7c8590bcf39f6f848e933788b",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUpOVHc3NGYyMUJiTWt5eGJlaXEzcTBXaE5tci1jSS1mV3ZxUzJyZXdzOVBpU0lmQ09KQ01lZ2JUeS10U0s1VW9pODV0SHVhTm90Z1lqdFJZWWgweDJOWUVzbGJadmF2NkdKb08xNW12UU41SktyTGNGTVRBMUhzQ3pBR2FRbnpvUGJPWXJhSnRTSjZZS2tQTXBsVl9TbUgwUy1qMmpxSnNhWjZRTENpMXZSM25PcUkxaUE?oc=5",
+    "title": "COMMENTARY: AI isn’t Asia’s only game in town: Manishi Raychaudhuri - Reuters",
+    "ts": 1792376322
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
-    "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
-    "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
-    "ts": 1792053844
-  },
-  {
-    "hash": "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
-    "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
-    "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
-    "ts": 1792053844
-  },
-  {
-    "hash": "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
-    "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
-    "title": "How (and Why) to Build an AI Agent from Scratch in Python",
-    "ts": 1792053844
-  },
-  {
     "hash": "8e8d7531b07b9f32c4e2d4d146ed5bc7af0d5c0eebfda7f8abef67966a3f64a2",
     "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
     "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUpOVHc3NGYyMUJiTWt5eGJlaXEzcTBXaE5tci1jSS1mV3ZxUzJyZXdzOVBpU0lmQ09KQ01lZ2JUeS10U0s1VW9pODV0SHVhTm90Z1lqdFJZWWgweDJOWUVzbGJadmF2NkdKb08xNW12UU41SktyTGNGTVRBMUhzQ3pBR2FRbnpvUGJPWXJhSnRTSjZZS2tQTXBsVl9TbUgwUy1qMmpxSnNhWjZRTENpMXZSM25PcUkxaUE?oc=5",
     "title": "COMMENTARY: AI isn’t Asia’s only game in town: Manishi Raychaudhuri - Reuters",
     "ts": 1792376322
+  },
+  {
+    "hash": "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502",
+    "link": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
+    "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
+    "ts": 1792401981
+  },
+  {
+    "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
+    "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
+    "title": "Iterators and Generators for Memory-Efficient Processing",
+    "ts": 1792401981
+  },
+  {
+    "hash": "f299a059014f1e2f63f188a01b49d5128554c4b998dff25b0163b739672bd570",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "ts": 1792401981
   }
 ]

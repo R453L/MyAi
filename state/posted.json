@@ -1,11 +1,5 @@
 [
   {
-    "hash": "6d32cf3f2a6a67e37982be1f441834d9f248ea41ca3684a0cdff490385cc5b29",
-    "link": "https://arxiv.org/abs/2610.14118",
-    "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-    "ts": 1792093001
-  },
-  {
     "hash": "8d45898e533e591d4241f4c1821bbb7b4d6f05ca764b796c7fbe29eb68dd7bc4",
     "link": "https://openai.com/index/higgsfield-longer-videos-voice",
     "title": "Higgsfield takes AI video from 1 minute to over 10",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
     "ts": 1792432533
+  },
+  {
+    "hash": "b6756c0a180ee554226c332b456c2b3fe634b3c508ea217138686c0c0ae92870",
+    "link": "https://openai.com/index/benefit-street-partners",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "ts": 1792451579
   }
 ]

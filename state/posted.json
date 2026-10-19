@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8e8d7531b07b9f32c4e2d4d146ed5bc7af0d5c0eebfda7f8abef67966a3f64a2",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "ts": 1792053844
-  },
-  {
     "hash": "6d32cf3f2a6a67e37982be1f441834d9f248ea41ca3684a0cdff490385cc5b29",
     "link": "https://arxiv.org/abs/2610.14118",
     "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
     "ts": 1792401981
+  },
+  {
+    "hash": "34692efacd3b982a5758af6c9efc6d456b1cc87fb4d06f241903d801f376c977",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "ts": 1792432533
   }
 ]

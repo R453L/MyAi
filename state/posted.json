@@ -1,23 +1,5 @@
 [
   {
-    "hash": "e1fe0a2241f37d3f3bac1b2a58dc2afda6910684651ab4d12d8ac800bff7b54b",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5",
-    "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users - 2 Minute Medicine",
-    "ts": 1792116442
-  },
-  {
-    "hash": "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "ts": 1792139732
-  },
-  {
-    "hash": "eb67409897ed2136a753e14173e61feab2317d6d8d361b6603fffb8a60da143f",
-    "link": "https://huggingface.co/blog/flux-3",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "ts": 1792139732
-  },
-  {
     "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
     "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
     "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
@@ -250,5 +232,23 @@
     "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
     "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
     "ts": 1792463510
+  },
+  {
+    "hash": "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
+    "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
+    "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
+    "ts": 1792486784
+  },
+  {
+    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
+    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
+    "title": "Local Agentic AI Workflows with Hermes + Ollama",
+    "ts": 1792486784
+  },
+  {
+    "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
+    "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
+    "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
+    "ts": 1792486784
   }
 ]

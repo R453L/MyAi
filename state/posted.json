@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
-    "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
-    "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
-    "ts": 1792139732
-  },
-  {
     "hash": "cffdb744dda380b11ea594bbc7cb2975141a9d617b8f17a4b8e66e5c9700a184",
     "link": "https://arxiv.org/abs/2610.20780",
     "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
     "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
     "ts": 1792486784
+  },
+  {
+    "hash": "c8995f7fb2daa49f58e7d4360c7198cadf2fa033a6fbee4ffe2be55b99814502",
+    "link": "https://arxiv.org/abs/2610.24010",
+    "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
+    "ts": 1792525913
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "cffdb744dda380b11ea594bbc7cb2975141a9d617b8f17a4b8e66e5c9700a184",
-    "link": "https://arxiv.org/abs/2610.20780",
-    "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-    "ts": 1792177679
-  },
-  {
     "hash": "200a5d3dd39c6bfb7a20192865ba844eee2602b52233f3070983235051951aad",
     "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "title": "The EU’s next chapter in AI is agentic",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.24010",
     "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
     "ts": 1792525913
+  },
+  {
+    "hash": "a60f4a701f887ae8f46b94e06646a5fb82b2851c561d6cf99f41823c6f66011d",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "title": "Teaching students to think and learn through questions",
+    "ts": 1792536476
   }
 ]

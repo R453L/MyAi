@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8d45898e533e591d4241f4c1821bbb7b4d6f05ca764b796c7fbe29eb68dd7bc4",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "ts": 1792104359
-  },
-  {
     "hash": "e1fe0a2241f37d3f3bac1b2a58dc2afda6910684651ab4d12d8ac800bff7b54b",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5",
     "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users - 2 Minute Medicine",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/benefit-street-partners",
     "title": "Benefit Street Partners answers questions faster with Codex",
     "ts": 1792451579
+  },
+  {
+    "hash": "d67eff0903799e5f15a465ee97dd41c08f2d6224c165699303e9149786d319e1",
+    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "ts": 1792463510
   }
 ]

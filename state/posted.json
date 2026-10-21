@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8b1ab1df41ac00d8450a9c25dd5dbcdb0b91a40bb3de26f2671c5e1a109999b2",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "ts": 1792260890
-  },
-  {
     "hash": "94eadcab22c41e356a1d9bf1e35dbdb6491d04804b7eea5ceec3829024496784",
     "link": "https://openai.com/index/sullivan-cromwell",
     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
     "title": "The Roadmap to Mastering LLM Inference Optimization",
     "ts": 1792573131
+  },
+  {
+    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "ts": 1792599416
   }
 ]

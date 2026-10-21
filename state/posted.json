@@ -1,11 +1,5 @@
 [
   {
-    "hash": "200a5d3dd39c6bfb7a20192865ba844eee2602b52233f3070983235051951aad",
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "title": "The EU’s next chapter in AI is agentic",
-    "ts": 1792189195
-  },
-  {
     "hash": "7ff2fab56ea772a237d9cee8f267bd5716392ded0b7ee9ccf2e086ca0dc56a97",
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "title": "Teaching students to think and learn through questions",
     "ts": 1792536476
+  },
+  {
+    "hash": "cd5562d15a2f996f6394947b6e1e7a24874903f6ffb4341f45e395ffd604da8c",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTJlRDY2WW1KZDhrMmozMnpUUU0zVVhNTFU1MXhId0lsUkE4ZkpRemhqcjRleGItdGE3S3AzdVY1LWFsdXQ4NkRlZEpDXzBEZGx1RG56MEw5UlJZUmxxSF9ZVlJvTWZqUVdLa2tSSlRYbGp4X1RQa2FjOFBIajg0RTlCRE1pOVlBWTlZWVJMbjd4SV96cUFNTUVfNi1taFVTeWU1d0ZYV1N6TmQt?oc=5",
+    "title": "Virtual summit addresses artificial intelligence and racial bias in health care - WDET 101.9 FM",
+    "ts": 1792549529
   }
 ]

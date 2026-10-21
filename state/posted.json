@@ -1,35 +1,5 @@
 [
   {
-    "hash": "7ff2fab56ea772a237d9cee8f267bd5716392ded0b7ee9ccf2e086ca0dc56a97",
-    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "ts": 1792202504
-  },
-  {
-    "hash": "138e9b7e7d9747243aa585f555fbf6f3d58b687e3498b374de6b74802266db21",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "ts": 1792224456
-  },
-  {
-    "hash": "6e2f20bff5d74e16b57c3dbbceca7572f31228389eec6f48fa3672e01b051ece",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "title": "Holo4: powering generalist computer-use agents",
-    "ts": 1792224456
-  },
-  {
-    "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
-    "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
-    "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
-    "ts": 1792224456
-  },
-  {
-    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
-    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
-    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
-    "ts": 1792224456
-  },
-  {
     "hash": "8b1ab1df41ac00d8450a9c25dd5dbcdb0b91a40bb3de26f2671c5e1a109999b2",
     "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "title": "Developing Gemini 4 Argon responsibly and safely",
@@ -250,5 +220,35 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTJlRDY2WW1KZDhrMmozMnpUUU0zVVhNTFU1MXhId0lsUkE4ZkpRemhqcjRleGItdGE3S3AzdVY1LWFsdXQ4NkRlZEpDXzBEZGx1RG56MEw5UlJZUmxxSF9ZVlJvTWZqUVdLa2tSSlRYbGp4X1RQa2FjOFBIajg0RTlCRE1pOVlBWTlZWVJMbjd4SV96cUFNTUVfNi1taFVTeWU1d0ZYV1N6TmQt?oc=5",
     "title": "Virtual summit addresses artificial intelligence and racial bias in health care - WDET 101.9 FM",
     "ts": 1792549529
+  },
+  {
+    "hash": "eb67409897ed2136a753e14173e61feab2317d6d8d361b6603fffb8a60da143f",
+    "link": "https://huggingface.co/blog/flux-3",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "ts": 1792573131
+  },
+  {
+    "hash": "ff0cf28c5d7530571030bbc53285abf8be3ed6fb11c617ba5f382a8208219854",
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "ts": 1792573131
+  },
+  {
+    "hash": "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "ts": 1792573131
+  },
+  {
+    "hash": "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "ts": 1792573131
+  },
+  {
+    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
+    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
+    "title": "The Roadmap to Mastering LLM Inference Optimization",
+    "ts": 1792573131
   }
 ]

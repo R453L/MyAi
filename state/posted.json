@@ -1,35 +1,5 @@
 [
   {
-    "hash": "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
-    "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
-    "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
-    "ts": 1792312697
-  },
-  {
-    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
-    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
-    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
-    "ts": 1792312697
-  },
-  {
-    "hash": "74c2ff7e2707d1f61043b51abcb8a4e28720706a6f4caf05256394e578267110",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "ts": 1792312697
-  },
-  {
-    "hash": "c9a6184923cc1a5837b490017ed569bb9f0183f7b39ff2df0ab9b46fbcc327c4",
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "ts": 1792312697
-  },
-  {
-    "hash": "bd1136d0fcfd6f1357de280adaee84cea07cc88c30626783f53af728070f9fc3",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "ts": 1792312697
-  },
-  {
     "hash": "5997c61056cef089750937bdf14912df332f9fc17c22a686d8bb31ab755c1276",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
     "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -250,5 +220,35 @@
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQjlZYkVjWUdGZG5STmNLYS1LZC1HQWxGN0Z3R1RYLVpOZEJhdGljeERmYzdfdHNPVGN1dmZmV1haNnhaM2tpUXg4RE9adWI1cGZGZnhVcnYzdm8tWktjalpoSFRRalVFd3c1T0tsX0ZRLWxRbWxMS05pNDh2LTdKcGVvZXo1Z1QxZTdHVTl5T2tSOGM1SnZkNjAxT1k0UnkzZ1FabUx4UzhEQ0ExUndlSm1MZ2RjMTFIU3B6XzN4cHFhTVFMaEtZem1CRU5mWmZnSUYxU0hOTUw1Q2RhdDItQXZSZlhheHJ1dXgw?oc=5",
     "title": "Pepperdine Earns Recognition from Google, Digital Education Council for Innovation in AI and Education - Pepperdine University",
     "ts": 1792635659
+  },
+  {
+    "hash": "5c52b7d34becd1ccf770a5f22540c4c3de16ae5f8db819babc6348fdbc423c77",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "ts": 1792659672
+  },
+  {
+    "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
+    "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
+    "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
+    "ts": 1792659672
+  },
+  {
+    "hash": "ef73bf2ace8ac67192910f29383fdaeabcc1f1c3f55e1ee321602bf2faa4d9c1",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "ts": 1792659672
+  },
+  {
+    "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
+    "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
+    "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
+    "ts": 1792659672
+  },
+  {
+    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
+    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
+    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
+    "ts": 1792659672
   }
 ]

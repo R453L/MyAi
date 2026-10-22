@@ -1,11 +1,5 @@
 [
   {
-    "hash": "3edeaa8d7764aa277fd52cfb351208e00ccbe8f89c8ee92faf6329aed447d742",
-    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-    "ts": 1792345986
-  },
-  {
     "hash": "520b0400db3cdd5772498dfaaef1e992041b43a8326054728a4949fdc05423bb",
     "link": "https://alexwang.ai/posts/associative-memory/",
     "title": "You could have invented transformers from memory",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "ts": 1792685878
+  },
+  {
+    "hash": "64ddfb139fec8a1cb4597ec213ad7265ff7b827324c2efbb180615bde9f68d90",
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "ts": 1792709670
   }
 ]

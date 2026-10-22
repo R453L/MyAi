@@ -1,11 +1,5 @@
 [
   {
-    "hash": "5997c61056cef089750937bdf14912df332f9fc17c22a686d8bb31ab755c1276",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "ts": 1792312697
-  },
-  {
     "hash": "3edeaa8d7764aa277fd52cfb351208e00ccbe8f89c8ee92faf6329aed447d742",
     "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
     "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
     "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
     "ts": 1792659672
+  },
+  {
+    "hash": "8b1ab1df41ac00d8450a9c25dd5dbcdb0b91a40bb3de26f2671c5e1a109999b2",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "ts": 1792685878
   }
 ]

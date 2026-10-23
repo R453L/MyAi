@@ -1,11 +1,5 @@
 [
   {
-    "hash": "50150b2440eae6e7477a1261cead5467f0397a58d2cd1eeb8b11c3f6a23b10ff",
-    "link": "https://www.krea.ai/krea-3",
-    "title": "Krea 3 – An image model built for editing at scale",
-    "ts": 1792345986
-  },
-  {
     "hash": "b7fa471957a89920d9e8c907ce8186ea0f56b05d11a7af249239dd10c8c01037",
     "link": "https://blog.character.ai/an-update-on-character-ai/",
     "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
     "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
     "ts": 1792745812
+  },
+  {
+    "hash": "5d193cc1f396c8e39b220f8d1dbe6e508d25f4e743cec875d7aba3418f269cc6",
+    "link": "https://arxiv.org/abs/2610.30151",
+    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+    "ts": 1792771542
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "hash": "6b10edb38f7953beed932e3b1abd178db71de3daf0478c670161be8e274bcb7d",
-    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "ts": 1792345986
-  },
-  {
-    "hash": "8eb3e0ba9b803883c209bbff697821fa45afd2fa4a065f426d89340f3be9a48b",
-    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "ts": 1792345986
-  },
-  {
-    "hash": "164ef0f32666d135ed8f5d80b309408ac9b0256247d1614edec242e0fe7e6862",
-    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "ts": 1792345986
-  },
-  {
     "hash": "50150b2440eae6e7477a1261cead5467f0397a58d2cd1eeb8b11c3f6a23b10ff",
     "link": "https://www.krea.ai/krea-3",
     "title": "Krea 3 – An image model built for editing at scale",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
     "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
     "ts": 1792722434
+  },
+  {
+    "hash": "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
+    "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
+    "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
+    "ts": 1792745812
+  },
+  {
+    "hash": "76da0f213ab5a2b0c5d363145bc57e508a338de28c69eeaee832dd9cecbbef5e",
+    "link": "https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/",
+    "title": "Choosing the Right Agentic AI Framework for 2026: A Decision-Tree Approach",
+    "ts": 1792745812
+  },
+  {
+    "hash": "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
+    "link": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
+    "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
+    "ts": 1792745812
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "520b0400db3cdd5772498dfaaef1e992041b43a8326054728a4949fdc05423bb",
-    "link": "https://alexwang.ai/posts/associative-memory/",
-    "title": "You could have invented transformers from memory",
-    "ts": 1792345986
-  },
-  {
     "hash": "6b10edb38f7953beed932e3b1abd178db71de3daf0478c670161be8e274bcb7d",
     "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "title": "Using thousands of AI agents to uncover new leads in biological data",
     "ts": 1792709670
+  },
+  {
+    "hash": "3503c97fe220fa133f05142ae9059f300c68baa4b4c07b07c2482162e64efbf0",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
+    "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
+    "ts": 1792722434
   }
 ]

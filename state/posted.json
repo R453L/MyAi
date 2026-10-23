@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b7fa471957a89920d9e8c907ce8186ea0f56b05d11a7af249239dd10c8c01037",
-    "link": "https://blog.character.ai/an-update-on-character-ai/",
-    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "ts": 1792345986
-  },
-  {
     "hash": "fe204f516be8541db0a3ab5bb553ac801084c0259e873774711e6f9786534ec3",
     "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
     "title": "Anthropic assigned highest junk credit rating in June",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.30151",
     "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
     "ts": 1792771542
+  },
+  {
+    "hash": "ee4c22366ef7e7abd786b0a4bc8d65774ddf350a3208b6c38568ae822ed0b9b0",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "ts": 1792795489
   }
 ]

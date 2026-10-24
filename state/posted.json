@@ -1,11 +1,5 @@
 [
   {
-    "hash": "cac83430057dec59102374c21ac4a4d8403723461bdfffcf2bd9432329c76a50",
-    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-    "ts": 1792345986
-  },
-  {
     "hash": "711ff4437e8bd1782b490c45373c736bdda62389ef7f54875a69574e7d57e76c",
     "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
     "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
     "ts": 1792830580
+  },
+  {
+    "hash": "c11a83f73b42d75639443284618af1576a5293ebbd1f2119958661a090262494",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "ts": 1792866504
   }
 ]

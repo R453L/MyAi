@@ -1,11 +1,5 @@
 [
   {
-    "hash": "fe204f516be8541db0a3ab5bb553ac801084c0259e873774711e6f9786534ec3",
-    "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-    "title": "Anthropic assigned highest junk credit rating in June",
-    "ts": 1792345986
-  },
-  {
     "hash": "364f5f1cad75fb5b888bd305eb4d36ed1dfe682885160c7e1fb6f4bcf2916f1f",
     "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "ts": 1792795489
+  },
+  {
+    "hash": "5595c812cd34051e71017df9d849376dc5423fd4ef5068c051d7220c351d2e34",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "ts": 1792808685
   }
 ]

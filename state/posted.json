@@ -1,23 +1,5 @@
 [
   {
-    "hash": "364f5f1cad75fb5b888bd305eb4d36ed1dfe682885160c7e1fb6f4bcf2916f1f",
-    "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "ts": 1792345986
-  },
-  {
-    "hash": "b693a6e80e752f67e358b9d6b54e42ed0e58cc91dd58df253a3c60bdb7140b66",
-    "link": "https://arxiv.org/abs/2610.13928",
-    "title": "AI models can provably hide arbitrary capabilities",
-    "ts": 1792345986
-  },
-  {
-    "hash": "ef44c8c2fd567dd7b4567ed9891951302cffe409586c83a702ea149dbd6e5be9",
-    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-    "title": "Using AI to reverse engineer hardware",
-    "ts": 1792345986
-  },
-  {
     "hash": "cac83430057dec59102374c21ac4a4d8403723461bdfffcf2bd9432329c76a50",
     "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
     "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
@@ -250,5 +232,23 @@
     "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
     "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
     "ts": 1792808685
+  },
+  {
+    "hash": "a8fdad88b973d4c5aee81feddd9cccd3ee5c4d1e2889ab20c159e3d6af2ec0f1",
+    "link": "https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/",
+    "title": "AI Agent Observability: Logging, Tracing, and Debugging Explained",
+    "ts": 1792830580
+  },
+  {
+    "hash": "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
+    "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
+    "title": "How (and Why) to Build an AI Agent from Scratch in Python",
+    "ts": 1792830580
+  },
+  {
+    "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "ts": 1792830580
   }
 ]

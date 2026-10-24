@@ -1,11 +1,5 @@
 [
   {
-    "hash": "711ff4437e8bd1782b490c45373c736bdda62389ef7f54875a69574e7d57e76c",
-    "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "ts": 1792345986
-  },
-  {
     "hash": "0e1c32a585dd4e05db26ac4f3767b3389724719c87ea2a07b858dd3b3022cc6b",
     "link": "https://sphinx-six-theta.vercel.app/",
     "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "ts": 1792866504
+  },
+  {
+    "hash": "ea92da5c121ecb4527027c2b13ff73af702f93ebcad0444b648bb527336561d3",
+    "link": "https://openai.com/index/building-chatgpt-ad-stack",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "ts": 1792879808
   }
 ]

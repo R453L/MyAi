@@ -1,17 +1,5 @@
 [
   {
-    "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "title": "Gemini 4 Argon for Robotics",
-    "ts": 1792347885
-  },
-  {
-    "hash": "072d2d135ef0f34bb37ac60ae2abc104896032b7c8590bcf39f6f848e933788b",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUpOVHc3NGYyMUJiTWt5eGJlaXEzcTBXaE5tci1jSS1mV3ZxUzJyZXdzOVBpU0lmQ09KQ01lZ2JUeS10U0s1VW9pODV0SHVhTm90Z1lqdFJZWWgweDJOWUVzbGJadmF2NkdKb08xNW12UU41SktyTGNGTVRBMUhzQ3pBR2FRbnpvUGJPWXJhSnRTSjZZS2tQTXBsVl9TbUgwUy1qMmpxSnNhWjZRTENpMXZSM25PcUkxaUE?oc=5",
-    "title": "COMMENTARY: AI isn’t Asia’s only game in town: Manishi Raychaudhuri - Reuters",
-    "ts": 1792376322
-  },
-  {
     "hash": "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502",
     "link": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
     "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
@@ -250,5 +238,17 @@
     "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "ts": 1792894303
+  },
+  {
+    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
+    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
+    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
+    "ts": 1792919338
+  },
+  {
+    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
+    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
+    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
+    "ts": 1792919338
   }
 ]

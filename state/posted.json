@@ -1,11 +1,5 @@
 [
   {
-    "hash": "0e1c32a585dd4e05db26ac4f3767b3389724719c87ea2a07b858dd3b3022cc6b",
-    "link": "https://sphinx-six-theta.vercel.app/",
-    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "ts": 1792345986
-  },
-  {
     "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
     "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "title": "Gemini 4 Argon for Robotics",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/building-chatgpt-ad-stack",
     "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
     "ts": 1792879808
+  },
+  {
+    "hash": "6f6451b374ed58f7d87c482b16a8270ad841ca646a7295b6de2c8339ccb80834",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "ts": 1792894303
   }
 ]

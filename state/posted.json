@@ -1,125 +1,5 @@
 [
   {
-    "hash": "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502",
-    "link": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
-    "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
-    "ts": 1792401981
-  },
-  {
-    "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
-    "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
-    "title": "Iterators and Generators for Memory-Efficient Processing",
-    "ts": 1792401981
-  },
-  {
-    "hash": "f299a059014f1e2f63f188a01b49d5128554c4b998dff25b0163b739672bd570",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "ts": 1792401981
-  },
-  {
-    "hash": "34692efacd3b982a5758af6c9efc6d456b1cc87fb4d06f241903d801f376c977",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "ts": 1792432533
-  },
-  {
-    "hash": "b6756c0a180ee554226c332b456c2b3fe634b3c508ea217138686c0c0ae92870",
-    "link": "https://openai.com/index/benefit-street-partners",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "ts": 1792451579
-  },
-  {
-    "hash": "d67eff0903799e5f15a465ee97dd41c08f2d6224c165699303e9149786d319e1",
-    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "ts": 1792463510
-  },
-  {
-    "hash": "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
-    "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
-    "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
-    "ts": 1792486784
-  },
-  {
-    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
-    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
-    "title": "Local Agentic AI Workflows with Hermes + Ollama",
-    "ts": 1792486784
-  },
-  {
-    "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
-    "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
-    "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
-    "ts": 1792486784
-  },
-  {
-    "hash": "c8995f7fb2daa49f58e7d4360c7198cadf2fa033a6fbee4ffe2be55b99814502",
-    "link": "https://arxiv.org/abs/2610.24010",
-    "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
-    "ts": 1792525913
-  },
-  {
-    "hash": "a60f4a701f887ae8f46b94e06646a5fb82b2851c561d6cf99f41823c6f66011d",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "title": "Teaching students to think and learn through questions",
-    "ts": 1792536476
-  },
-  {
-    "hash": "cd5562d15a2f996f6394947b6e1e7a24874903f6ffb4341f45e395ffd604da8c",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTJlRDY2WW1KZDhrMmozMnpUUU0zVVhNTFU1MXhId0lsUkE4ZkpRemhqcjRleGItdGE3S3AzdVY1LWFsdXQ4NkRlZEpDXzBEZGx1RG56MEw5UlJZUmxxSF9ZVlJvTWZqUVdLa2tSSlRYbGp4X1RQa2FjOFBIajg0RTlCRE1pOVlBWTlZWVJMbjd4SV96cUFNTUVfNi1taFVTeWU1d0ZYV1N6TmQt?oc=5",
-    "title": "Virtual summit addresses artificial intelligence and racial bias in health care - WDET 101.9 FM",
-    "ts": 1792549529
-  },
-  {
-    "hash": "eb67409897ed2136a753e14173e61feab2317d6d8d361b6603fffb8a60da143f",
-    "link": "https://huggingface.co/blog/flux-3",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "ts": 1792573131
-  },
-  {
-    "hash": "ff0cf28c5d7530571030bbc53285abf8be3ed6fb11c617ba5f382a8208219854",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "ts": 1792573131
-  },
-  {
-    "hash": "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "ts": 1792573131
-  },
-  {
-    "hash": "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb",
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "ts": 1792573131
-  },
-  {
-    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
-    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
-    "title": "The Roadmap to Mastering LLM Inference Optimization",
-    "ts": 1792573131
-  },
-  {
-    "hash": "d721843382f3485e8d6d91c4d601c9e6cb9967991dd973de27f13e5177b1d991",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "ts": 1792599416
-  },
-  {
-    "hash": "95dedf578de78f3ec264f66e37a7c309d1f2cf3d8987fe8b4de9182187d1ff7b",
-    "link": "https://openai.com/index/openai-models-google-cloud",
-    "title": "OpenAI models are coming to Google Cloud",
-    "ts": 1792623205
-  },
-  {
-    "hash": "d2be67ddd99e79f36615dabb2aa7994bd1c44dd06a5f1e0ef70b5eceecb7ce0f",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQjlZYkVjWUdGZG5STmNLYS1LZC1HQWxGN0Z3R1RYLVpOZEJhdGljeERmYzdfdHNPVGN1dmZmV1haNnhaM2tpUXg4RE9adWI1cGZGZnhVcnYzdm8tWktjalpoSFRRalVFd3c1T0tsX0ZRLWxRbWxMS05pNDh2LTdKcGVvZXo1Z1QxZTdHVTl5T2tSOGM1SnZkNjAxT1k0UnkzZ1FabUx4UzhEQ0ExUndlSm1MZ2RjMTFIU3B6XzN4cHFhTVFMaEtZem1CRU5mWmZnSUYxU0hOTUw1Q2RhdDItQXZSZlhheHJ1dXgw?oc=5",
-    "title": "Pepperdine Earns Recognition from Google, Digital Education Council for Innovation in AI and Education - Pepperdine University",
-    "ts": 1792635659
-  },
-  {
     "hash": "5c52b7d34becd1ccf770a5f22540c4c3de16ae5f8db819babc6348fdbc423c77",
     "link": "https://huggingface.co/blog/hf-torchneuron",
     "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
@@ -250,5 +130,125 @@
     "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
     "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
     "ts": 1792919338
+  },
+  {
+    "hash": "4baf8674d3120ffba7692eccabd4647fa31fe3f52faa0bd410d691b55b521816",
+    "link": "https://github.com/deepseek-ai/DeepInfer",
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "ts": 1792951619
+  },
+  {
+    "hash": "bf44de9e544de4cbe9fe1a2a613ba67b03dda83fe8633fc284d5c9ec8453b5d7",
+    "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "ts": 1792951619
+  },
+  {
+    "hash": "cb0bf0e1617ea81085ee0137261b6822f80eea204204fcc6aaf7ff2fb662decb",
+    "link": "https://mistral.ai/news/voxtral-3/",
+    "title": "Voxtral 3",
+    "ts": 1792951619
+  },
+  {
+    "hash": "55c3c0be518a12ff39df3c7ce4c68e015681e8e50776ad6cb4976d8c3e3852f2",
+    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "ts": 1792951619
+  },
+  {
+    "hash": "c4ef979d44385fe4aefb53eb4baf66a9fe0af7d53f5967f2d5f7f71fd6461e6a",
+    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "ts": 1792951619
+  },
+  {
+    "hash": "a54fd0e20dbb904635705d00828a70dee1c0f1d1dbd7b937a4e8c27246fb911b",
+    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "title": "No signs of AI payoff outside the tech sector",
+    "ts": 1792951619
+  },
+  {
+    "hash": "e323d71e5034dd0bd426235a746a0ec6758b48e142ecd3fa2ec7a24a317a6e2d",
+    "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "ts": 1792951619
+  },
+  {
+    "hash": "940ec4695c1e241c2ff4b2dbbe30fd7fe9adf683efa182142fa954be4f3c9973",
+    "link": "https://github.com/NVIDIA/OpenShell",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "ts": 1792951619
+  },
+  {
+    "hash": "1f6056f34e61a5ea93cebbd1931e48b4790b65c6d9008787f20fc73f646688c8",
+    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "ts": 1792951619
+  },
+  {
+    "hash": "7067eadac3a0d563c982b5debd0a1c61f758bb6e113e3ffac4483cbd50cc495c",
+    "link": "https://www.wiz.io/blog/php2shell-php-rce",
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "ts": 1792951619
+  },
+  {
+    "hash": "8f995eb5cabec9cdad098fb8e90f88b168dad3675bb1eea76dbef24b381a0eb9",
+    "link": "https://broccoli2shell.com/",
+    "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+    "ts": 1792951619
+  },
+  {
+    "hash": "1a1edc3721552e2e43dcb5bb82928ec8e89cda672474c1184b60ad6f659edd66",
+    "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "title": "Publish fake stats, get cited in LLMs",
+    "ts": 1792951619
+  },
+  {
+    "hash": "4040b794061a9405ebcc4576e2adb2b036224025c94e7cf72159c121ab99c693",
+    "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+    "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+    "ts": 1792951619
+  },
+  {
+    "hash": "1ef243007176e85cc8c61f991c732cb67f59da2c4bf9bd4e693a0d6d5af2a173",
+    "link": "https://mistral.ai/news/mistral-large-4/",
+    "title": "Mistral Large 4",
+    "ts": 1792951619
+  },
+  {
+    "hash": "e1545bcc45f4c70b2ebb90e8b8d9899e1127cfbe0b10b94deb75bf9d3d2df627",
+    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "ts": 1792951619
+  },
+  {
+    "hash": "6a45251399c8de3bf5bc869ae02f7ffad2bba795543037f9b31d4170672d12fc",
+    "link": "https://danielball.com/notes/ai_image_generation.html",
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "ts": 1792951619
+  },
+  {
+    "hash": "6641c2ca418268d1037bde6e875d26486063ce81a16e01ed5505ee8d0fa52c57",
+    "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+    "title": "Airbnb bans making guests do dishes and take out the trash",
+    "ts": 1792951619
+  },
+  {
+    "hash": "614a0336a7737e51afb3b077cdb47d041cfcc6e0785f6808a08729d3ded841df",
+    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "title": "Mercury 3: Diffusion at scale",
+    "ts": 1792951619
+  },
+  {
+    "hash": "4d0a18eaa787a25f3aea6c2154e9ba08ca8c9beb8793aa46911e134570ac7b7a",
+    "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "ts": 1792951619
+  },
+  {
+    "hash": "02e941dcb42029b302a12c90329d3a99a2928bfbf857f51edd5a0492475b44c3",
+    "link": "https://arxiv.org/abs/2610.29162",
+    "title": "Why is AI generated language so hard to understand?",
+    "ts": 1792951619
   }
 ]

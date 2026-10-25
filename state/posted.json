@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
-    "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
-    "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
-    "ts": 1792659672
-  },
-  {
     "hash": "ef73bf2ace8ac67192910f29383fdaeabcc1f1c3f55e1ee321602bf2faa4d9c1",
     "link": "https://huggingface.co/blog/allenai/fairstress",
     "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "title": "Gemini 4 Argon for Robotics",
     "ts": 1792953453
+  },
+  {
+    "hash": "e270f5ba4688033de075906df89466646eb9f009fa8bcee5c8b60ee62cebab43",
+    "link": "https://openai.com/index/empowering-cyber-defenders",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "ts": 1792966337
   }
 ]

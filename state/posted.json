@@ -1,11 +1,5 @@
 [
   {
-    "hash": "5c52b7d34becd1ccf770a5f22540c4c3de16ae5f8db819babc6348fdbc423c77",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "ts": 1792659672
-  },
-  {
     "hash": "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
     "link": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
     "title": "RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2610.29162",
     "title": "Why is AI generated language so hard to understand?",
     "ts": 1792951619
+  },
+  {
+    "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "title": "Gemini 4 Argon for Robotics",
+    "ts": 1792953453
   }
 ]

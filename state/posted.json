@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ef73bf2ace8ac67192910f29383fdaeabcc1f1c3f55e1ee321602bf2faa4d9c1",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "ts": 1792659672
-  },
-  {
     "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
     "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
     "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/empowering-cyber-defenders",
     "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
     "ts": 1792966337
+  },
+  {
+    "hash": "cf51e24baa15d2e11b32351f633dfb79f0ff024b050882412d7eeb548c125416",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "ts": 1792980732
   }
 ]

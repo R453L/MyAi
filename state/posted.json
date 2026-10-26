@@ -1,11 +1,5 @@
 [
   {
-    "hash": "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
-    "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
-    "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
-    "ts": 1792745812
-  },
-  {
     "hash": "76da0f213ab5a2b0c5d363145bc57e508a338de28c69eeaee832dd9cecbbef5e",
     "link": "https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/",
     "title": "Choosing the Right Agentic AI Framework for 2026: A Decision-Tree Approach",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "title": "Advancing Private AI Compute with secure, server-side memory",
     "ts": 1793037096
+  },
+  {
+    "hash": "39cad894cdd240fbe2dba606200e547216d43a1655f56c86db3d6329a851a826",
+    "link": "https://openai.com/index/att-legal",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "ts": 1793057699
   }
 ]

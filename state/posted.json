@@ -1,11 +1,5 @@
 [
   {
-    "hash": "3503c97fe220fa133f05142ae9059f300c68baa4b4c07b07c2482162e64efbf0",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
-    "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
-    "ts": 1792722434
-  },
-  {
     "hash": "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
     "link": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
     "title": "Adding Temporal Reasoning to Graph-RAG: Tracking Fact Freshness and Staleness",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
     "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
     "ts": 1793006970
+  },
+  {
+    "hash": "68ead6b6af2b71441cd0f5e7ee92c2f76d1d2603c4161faf27e658aafd17eb6c",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "ts": 1793037096
   }
 ]

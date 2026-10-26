@@ -1,29 +1,5 @@
 [
   {
-    "hash": "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
-    "link": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
-    "title": "Multilingual Text Classification with Scikit-LLM and Multilingual Embeddings",
-    "ts": 1792659672
-  },
-  {
-    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
-    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
-    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
-    "ts": 1792659672
-  },
-  {
-    "hash": "8b1ab1df41ac00d8450a9c25dd5dbcdb0b91a40bb3de26f2671c5e1a109999b2",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "ts": 1792685878
-  },
-  {
-    "hash": "64ddfb139fec8a1cb4597ec213ad7265ff7b827324c2efbb180615bde9f68d90",
-    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "ts": 1792709670
-  },
-  {
     "hash": "3503c97fe220fa133f05142ae9059f300c68baa4b4c07b07c2482162e64efbf0",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5",
     "title": "Experts: How are climate scientists using artificial intelligence? - Carbon Brief",
@@ -250,5 +226,29 @@
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "ts": 1792980732
+  },
+  {
+    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
+    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
+    "title": "The Roadmap to Mastering LLM Inference Optimization",
+    "ts": 1793006970
+  },
+  {
+    "hash": "5b4e08461387ba3b44832eb32623a231bc98422af2b9c0aa208f73f388840205",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "ts": 1793006970
+  },
+  {
+    "hash": "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
+    "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
+    "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
+    "ts": 1793006970
+  },
+  {
+    "hash": "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
+    "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
+    "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
+    "ts": 1793006970
   }
 ]

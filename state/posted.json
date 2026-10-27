@@ -1,23 +1,5 @@
 [
   {
-    "hash": "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
-    "link": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
-    "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
-    "ts": 1792745812
-  },
-  {
-    "hash": "5d193cc1f396c8e39b220f8d1dbe6e508d25f4e743cec875d7aba3418f269cc6",
-    "link": "https://arxiv.org/abs/2610.30151",
-    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-    "ts": 1792771542
-  },
-  {
-    "hash": "ee4c22366ef7e7abd786b0a4bc8d65774ddf350a3208b6c38568ae822ed0b9b0",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "ts": 1792795489
-  },
-  {
     "hash": "5595c812cd34051e71017df9d849376dc5423fd4ef5068c051d7220c351d2e34",
     "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
     "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -250,5 +232,23 @@
     "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
     "title": "Making the case for context-aware AI",
     "ts": 1793069478
+  },
+  {
+    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
+    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
+    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
+    "ts": 1793093346
+  },
+  {
+    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
+    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
+    "title": "Local Agentic AI Workflows with Hermes + Ollama",
+    "ts": 1793093346
+  },
+  {
+    "hash": "41fb25a47d12d204a957e1afcc5f8bbcaa2e18e833e937826e6c4d8fb5abdfdb",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "ts": 1793093346
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "76da0f213ab5a2b0c5d363145bc57e508a338de28c69eeaee832dd9cecbbef5e",
-    "link": "https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/",
-    "title": "Choosing the Right Agentic AI Framework for 2026: A Decision-Tree Approach",
-    "ts": 1792745812
-  },
-  {
     "hash": "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
     "link": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
     "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/att-legal",
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "ts": 1793057699
+  },
+  {
+    "hash": "fec7036c87350b493dbac16010764394c96d07f99f50be5fc287f31f9ee9e197",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "title": "Making the case for context-aware AI",
+    "ts": 1793069478
   }
 ]

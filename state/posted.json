@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a8fdad88b973d4c5aee81feddd9cccd3ee5c4d1e2889ab20c159e3d6af2ec0f1",
-    "link": "https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/",
-    "title": "AI Agent Observability: Logging, Tracing, and Debugging Explained",
-    "ts": 1792830580
-  },
-  {
     "hash": "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
     "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
     "title": "How (and Why) to Build an AI Agent from Scratch in Python",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
     "ts": 1793120572
+  },
+  {
+    "hash": "7d972df501d01ba1f64ace9f515a56fb23b6429c84e2c13cce6a1dfa0631bf43",
+    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "ts": 1793143188
   }
 ]

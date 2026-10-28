@@ -1,35 +1,5 @@
 [
   {
-    "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "ts": 1792830580
-  },
-  {
-    "hash": "c11a83f73b42d75639443284618af1576a5293ebbd1f2119958661a090262494",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "ts": 1792866504
-  },
-  {
-    "hash": "ea92da5c121ecb4527027c2b13ff73af702f93ebcad0444b648bb527336561d3",
-    "link": "https://openai.com/index/building-chatgpt-ad-stack",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "ts": 1792879808
-  },
-  {
-    "hash": "6f6451b374ed58f7d87c482b16a8270ad841ca646a7295b6de2c8339ccb80834",
-    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "ts": 1792894303
-  },
-  {
-    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
-    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
-    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
-    "ts": 1792919338
-  },
-  {
     "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
     "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
     "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
@@ -250,5 +220,35 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkpPaDhwbnU0WE04OWhRX0trWTJNcHA5TXoxQklFcnpkMTFoSTRoM0xNVGFGV1c4cUgyQ180LU9pdFJoMEptY2lYUXhlaDdoc2FhUnd4Z19pY2VUV2VyV3NHbVVrLTVxcDUxTUowWkk3WlJMQW00VXNDTnZtV01BYVNqSnZ1b25sVlBXRm1vRWZ0UklVVFJKVDREM25ZaEYyaHB3dmpDZ2hKbG9XTzdLMXRVanRSZWxLVXfSAb8BQVVfeXFMTXVvT3ppQmVDbkFyRmtTVW1yNV9JNUlaN3Raek92QjZQaVduejVaTk5SLW5JbkJYOXJRTVhlN01XdW9hSTJ0SkNXWGdDN2JfVnRreU5mMjMtdlhaQlItU21KOURfZVBmWDF0dHoxXzh1eDgxMkl4OTdiZ3pjSmxrTHNMSXhia19DRVlTRjRNWVVUMjQ4RGtnUkdkTmEyOU1SOVNsSWdMaUFxOVQ3a1ZOSUd1dDIwTmo2TmxyRmdoMFE?oc=5",
     "title": "Artificial intelligence and the erosion of human agency - upi",
     "ts": 1793156218
+  },
+  {
+    "hash": "c9a6184923cc1a5837b490017ed569bb9f0183f7b39ff2df0ab9b46fbcc327c4",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "ts": 1793182085
+  },
+  {
+    "hash": "d72775a73064aaa987fda780e8779f1dd8a0392c993a3473581ddeb2699dacdf",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "title": "Build specialized multimodal models with LFM3",
+    "ts": 1793182085
+  },
+  {
+    "hash": "c2ed162a157709f5cb47598d7a4a9ff0ca7927682ea3c9a0e259f86971bb2de7",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "ts": 1793182085
+  },
+  {
+    "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
+    "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
+    "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
+    "ts": 1793182085
+  },
+  {
+    "hash": "5c52b7d34becd1ccf770a5f22540c4c3de16ae5f8db819babc6348fdbc423c77",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "ts": 1793182085
   }
 ]

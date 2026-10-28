@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4baf8674d3120ffba7692eccabd4647fa31fe3f52faa0bd410d691b55b521816",
-    "link": "https://github.com/deepseek-ai/DeepInfer",
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "ts": 1792951619
-  },
-  {
     "hash": "bf44de9e544de4cbe9fe1a2a613ba67b03dda83fe8633fc284d5c9ec8453b5d7",
     "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "ts": 1793208980
+  },
+  {
+    "hash": "e2ed7680c50ae3f074e04f962f033e8bab070f352fa8087e45258e537064a005",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "title": "The future of the firm",
+    "ts": 1793231050
   }
 ]

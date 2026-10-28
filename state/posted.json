@@ -1,11 +1,5 @@
 [
   {
-    "hash": "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
-    "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
-    "title": "How (and Why) to Build an AI Agent from Scratch in Python",
-    "ts": 1792830580
-  },
-  {
     "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
     "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
     "ts": 1793143188
+  },
+  {
+    "hash": "17f6c40976e42ab83bd995359d0fb86dc8df596c4d714b6639d5d6a8ed14197d",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkpPaDhwbnU0WE04OWhRX0trWTJNcHA5TXoxQklFcnpkMTFoSTRoM0xNVGFGV1c4cUgyQ180LU9pdFJoMEptY2lYUXhlaDdoc2FhUnd4Z19pY2VUV2VyV3NHbVVrLTVxcDUxTUowWkk3WlJMQW00VXNDTnZtV01BYVNqSnZ1b25sVlBXRm1vRWZ0UklVVFJKVDREM25ZaEYyaHB3dmpDZ2hKbG9XTzdLMXRVanRSZWxLVXfSAb8BQVVfeXFMTXVvT3ppQmVDbkFyRmtTVW1yNV9JNUlaN3Raek92QjZQaVduejVaTk5SLW5JbkJYOXJRTVhlN01XdW9hSTJ0SkNXWGdDN2JfVnRreU5mMjMtdlhaQlItU21KOURfZVBmWDF0dHoxXzh1eDgxMkl4OTdiZ3pjSmxrTHNMSXhia19DRVlTRjRNWVVUMjQ4RGtnUkdkTmEyOU1SOVNsSWdMaUFxOVQ3a1ZOSUd1dDIwTmo2TmxyRmdoMFE?oc=5",
+    "title": "Artificial intelligence and the erosion of human agency - upi",
+    "ts": 1793156218
   }
 ]

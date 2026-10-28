@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
-    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
-    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
-    "ts": 1792919338
-  },
-  {
     "hash": "4baf8674d3120ffba7692eccabd4647fa31fe3f52faa0bd410d691b55b521816",
     "link": "https://github.com/deepseek-ai/DeepInfer",
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/hf-torchneuron",
     "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
     "ts": 1793182085
+  },
+  {
+    "hash": "c11a83f73b42d75639443284618af1576a5293ebbd1f2119958661a090262494",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "ts": 1793208980
   }
 ]

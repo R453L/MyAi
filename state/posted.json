@@ -1,11 +1,5 @@
 [
   {
-    "hash": "e323d71e5034dd0bd426235a746a0ec6758b48e142ecd3fa2ec7a24a317a6e2d",
-    "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "ts": 1792951619
-  },
-  {
     "hash": "940ec4695c1e241c2ff4b2dbbe30fd7fe9adf683efa182142fa954be4f3c9973",
     "link": "https://github.com/NVIDIA/OpenShell",
     "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
     "ts": 1793295959
+  },
+  {
+    "hash": "a395c7da350b5086cc15f6b616a71f222298172ced3c491458f1fd1d38e79b77",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "ts": 1793317531
   }
 ]

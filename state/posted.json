@@ -1,23 +1,5 @@
 [
   {
-    "hash": "cb0bf0e1617ea81085ee0137261b6822f80eea204204fcc6aaf7ff2fb662decb",
-    "link": "https://mistral.ai/news/voxtral-3/",
-    "title": "Voxtral 3",
-    "ts": 1792951619
-  },
-  {
-    "hash": "55c3c0be518a12ff39df3c7ce4c68e015681e8e50776ad6cb4976d8c3e3852f2",
-    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "ts": 1792951619
-  },
-  {
-    "hash": "c4ef979d44385fe4aefb53eb4baf66a9fe0af7d53f5967f2d5f7f71fd6461e6a",
-    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-    "title": "Every AI model has the same \"controversial\" take on humans",
-    "ts": 1792951619
-  },
-  {
     "hash": "a54fd0e20dbb904635705d00828a70dee1c0f1d1dbd7b937a4e8c27246fb911b",
     "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
     "title": "No signs of AI payoff outside the tech sector",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2VtVEpIZTVSZ21aOTJ5TFZUWHNwbzAxSGZNTUgtQTRTNl9LWHVEdHNoZ1U4cFZ6NVJmZ1hrTDJTTG1veVJDa2UzbzNjaTV1Z1k2ZndrTWVGeEg3bm1CTUlHeE96QTJSS1h1NFVtQVNOeTdfeFAyazQyLU5NV1VlUlpRb2MyRlFvT294Q244YTNFY3NYVTBj0gGrAUFVX3lxTFBWeXJxV0p2MFVoMjJsSk5Db0x4OWZLdjZ6d0d3UWtYajdPTmE5YkFtVDV5YTVEMUVJbHhjOVlLdjM0N281eXJadHFZdzZBei1YeVI1b0loS2REYVpBbjZMSUhSd0JNMGotNXUwRVpPRGQ3TEQyNzVNTk9DRXpHN3IyMkNacmNaX3N6a0ZPTUNRQmZUa0cwTThvVGFwNEk5aWwwbnFPVjV3UER5aw?oc=5",
     "title": "Artificial intelligence transforms the workforce, regulations - Fox 10 News",
     "ts": 1793244168
+  },
+  {
+    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
+    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
+    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
+    "ts": 1793270229
+  },
+  {
+    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
+    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
+    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
+    "ts": 1793270229
+  },
+  {
+    "hash": "51888f116f5b083740bce79640ccacdc80055a08000c769931982fc83218805e",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "ts": 1793270229
   }
 ]

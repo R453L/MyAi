@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a54fd0e20dbb904635705d00828a70dee1c0f1d1dbd7b937a4e8c27246fb911b",
-    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "title": "No signs of AI payoff outside the tech sector",
-    "ts": 1792951619
-  },
-  {
     "hash": "e323d71e5034dd0bd426235a746a0ec6758b48e142ecd3fa2ec7a24a317a6e2d",
     "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
     "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "ts": 1793270229
+  },
+  {
+    "hash": "34692efacd3b982a5758af6c9efc6d456b1cc87fb4d06f241903d801f376c977",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "ts": 1793295959
   }
 ]

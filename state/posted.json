@@ -1,11 +1,5 @@
 [
   {
-    "hash": "bf44de9e544de4cbe9fe1a2a613ba67b03dda83fe8633fc284d5c9ec8453b5d7",
-    "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "ts": 1792951619
-  },
-  {
     "hash": "cb0bf0e1617ea81085ee0137261b6822f80eea204204fcc6aaf7ff2fb662decb",
     "link": "https://mistral.ai/news/voxtral-3/",
     "title": "Voxtral 3",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/the-future-of-the-firm",
     "title": "The future of the firm",
     "ts": 1793231050
+  },
+  {
+    "hash": "d4d3362f9664c726166567741e670ab54bbce1ee3f565b0d50a2fe67fdae2863",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2VtVEpIZTVSZ21aOTJ5TFZUWHNwbzAxSGZNTUgtQTRTNl9LWHVEdHNoZ1U4cFZ6NVJmZ1hrTDJTTG1veVJDa2UzbzNjaTV1Z1k2ZndrTWVGeEg3bm1CTUlHeE96QTJSS1h1NFVtQVNOeTdfeFAyazQyLU5NV1VlUlpRb2MyRlFvT294Q244YTNFY3NYVTBj0gGrAUFVX3lxTFBWeXJxV0p2MFVoMjJsSk5Db0x4OWZLdjZ6d0d3UWtYajdPTmE5YkFtVDV5YTVEMUVJbHhjOVlLdjM0N281eXJadHFZdzZBei1YeVI1b0loS2REYVpBbjZMSUhSd0JNMGotNXUwRVpPRGQ3TEQyNzVNTk9DRXpHN3IyMkNacmNaX3N6a0ZPTUNRQmZUa0cwTThvVGFwNEk5aWwwbnFPVjV3UER5aw?oc=5",
+    "title": "Artificial intelligence transforms the workforce, regulations - Fox 10 News",
+    "ts": 1793244168
   }
 ]

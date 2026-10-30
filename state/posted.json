@@ -1,23 +1,5 @@
 [
   {
-    "hash": "1f6056f34e61a5ea93cebbd1931e48b4790b65c6d9008787f20fc73f646688c8",
-    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-    "ts": 1792951619
-  },
-  {
-    "hash": "7067eadac3a0d563c982b5debd0a1c61f758bb6e113e3ffac4483cbd50cc495c",
-    "link": "https://www.wiz.io/blog/php2shell-php-rce",
-    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "ts": 1792951619
-  },
-  {
-    "hash": "8f995eb5cabec9cdad098fb8e90f88b168dad3675bb1eea76dbef24b381a0eb9",
-    "link": "https://broccoli2shell.com/",
-    "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-    "ts": 1792951619
-  },
-  {
     "hash": "1a1edc3721552e2e43dcb5bb82928ec8e89cda672474c1184b60ad6f659edd66",
     "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
     "title": "Publish fake stats, get cited in LLMs",
@@ -250,5 +232,23 @@
     "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
     "title": "Our climate models have a big, dangerous blind spot",
     "ts": 1793330902
+  },
+  {
+    "hash": "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
+    "link": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
+    "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
+    "ts": 1793356376
+  },
+  {
+    "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
+    "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
+    "title": "Iterators and Generators for Memory-Efficient Processing",
+    "ts": 1793356376
+  },
+  {
+    "hash": "cea9926522a1484b01495adba6002f464b49b49b7cb9dbed5c2d24ea82a25a84",
+    "link": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
+    "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
+    "ts": 1793356376
   }
 ]

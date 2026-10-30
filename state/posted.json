@@ -1,11 +1,5 @@
 [
   {
-    "hash": "1a1edc3721552e2e43dcb5bb82928ec8e89cda672474c1184b60ad6f659edd66",
-    "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "title": "Publish fake stats, get cited in LLMs",
-    "ts": 1792951619
-  },
-  {
     "hash": "4040b794061a9405ebcc4576e2adb2b036224025c94e7cf72159c121ab99c693",
     "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
     "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
     "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
     "ts": 1793356376
+  },
+  {
+    "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "ts": 1793382614
   }
 ]

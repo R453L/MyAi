@@ -1,11 +1,5 @@
 [
   {
-    "hash": "940ec4695c1e241c2ff4b2dbbe30fd7fe9adf683efa182142fa954be4f3c9973",
-    "link": "https://github.com/NVIDIA/OpenShell",
-    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "ts": 1792951619
-  },
-  {
     "hash": "1f6056f34e61a5ea93cebbd1931e48b4790b65c6d9008787f20fc73f646688c8",
     "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
     "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "ts": 1793317531
+  },
+  {
+    "hash": "69c7dbeddf2248ad30780c42d8bb8740642f5fb14ed16763b26a59eb20f4935b",
+    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+    "title": "Our climate models have a big, dangerous blind spot",
+    "ts": 1793330902
   }
 ]

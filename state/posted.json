@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4040b794061a9405ebcc4576e2adb2b036224025c94e7cf72159c121ab99c693",
-    "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-    "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-    "ts": 1792951619
-  },
-  {
     "hash": "1ef243007176e85cc8c61f991c732cb67f59da2c4bf9bd4e693a0d6d5af2a173",
     "link": "https://mistral.ai/news/mistral-large-4/",
     "title": "Mistral Large 4",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
     "ts": 1793382614
+  },
+  {
+    "hash": "8eb6001a836a6e50b8fb133e1590f182de0e7997306db3a54dcb8d2c2e5a6daa",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "title": "Working with academic communities to build scientific understanding",
+    "ts": 1793402671
   }
 ]

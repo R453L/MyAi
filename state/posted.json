@@ -1,11 +1,5 @@
 [
   {
-    "hash": "1ef243007176e85cc8c61f991c732cb67f59da2c4bf9bd4e693a0d6d5af2a173",
-    "link": "https://mistral.ai/news/mistral-large-4/",
-    "title": "Mistral Large 4",
-    "ts": 1792951619
-  },
-  {
     "hash": "e1545bcc45f4c70b2ebb90e8b8d9899e1127cfbe0b10b94deb75bf9d3d2df627",
     "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
     "title": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "title": "Working with academic communities to build scientific understanding",
     "ts": 1793402671
+  },
+  {
+    "hash": "d8d1461b502db38ef80844b3fe5fbdb45e96dbd2f3086acf753e8fd0ea4f6273",
+    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+    "ts": 1793416147
   }
 ]

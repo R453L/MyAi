@@ -1,11 +1,5 @@
 [
   {
-    "hash": "614a0336a7737e51afb3b077cdb47d041cfcc6e0785f6808a08729d3ded841df",
-    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-    "title": "Mercury 3: Diffusion at scale",
-    "ts": 1792951619
-  },
-  {
     "hash": "4d0a18eaa787a25f3aea6c2154e9ba08ca8c9beb8793aa46911e134570ac7b7a",
     "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
     "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "ts": 1793440980
+  },
+  {
+    "hash": "8b1ab1df41ac00d8450a9c25dd5dbcdb0b91a40bb3de26f2671c5e1a109999b2",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "ts": 1793464203
   }
 ]

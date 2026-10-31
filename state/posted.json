@@ -1,23 +1,5 @@
 [
   {
-    "hash": "e1545bcc45f4c70b2ebb90e8b8d9899e1127cfbe0b10b94deb75bf9d3d2df627",
-    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "ts": 1792951619
-  },
-  {
-    "hash": "6a45251399c8de3bf5bc869ae02f7ffad2bba795543037f9b31d4170672d12fc",
-    "link": "https://danielball.com/notes/ai_image_generation.html",
-    "title": "A practical guide to AI image generation, from diffusion to agents",
-    "ts": 1792951619
-  },
-  {
-    "hash": "6641c2ca418268d1037bde6e875d26486063ce81a16e01ed5505ee8d0fa52c57",
-    "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-    "title": "Airbnb bans making guests do dishes and take out the trash",
-    "ts": 1792951619
-  },
-  {
     "hash": "614a0336a7737e51afb3b077cdb47d041cfcc6e0785f6808a08729d3ded841df",
     "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
     "title": "Mercury 3: Diffusion at scale",
@@ -250,5 +232,23 @@
     "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
     "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
     "ts": 1793416147
+  },
+  {
+    "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "ts": 1793440980
+  },
+  {
+    "hash": "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "ts": 1793440980
+  },
+  {
+    "hash": "2b3f616d26d343fed7789052f7d45765c10f64079fafbd4a9ee06dcaf0e956ff",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "ts": 1793440980
   }
 ]

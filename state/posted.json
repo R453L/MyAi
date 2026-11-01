@@ -1,29 +1,5 @@
 [
   {
-    "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "title": "Gemini 4 Argon for Robotics",
-    "ts": 1792953453
-  },
-  {
-    "hash": "e270f5ba4688033de075906df89466646eb9f009fa8bcee5c8b60ee62cebab43",
-    "link": "https://openai.com/index/empowering-cyber-defenders",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "ts": 1792966337
-  },
-  {
-    "hash": "cf51e24baa15d2e11b32351f633dfb79f0ff024b050882412d7eeb548c125416",
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "ts": 1792980732
-  },
-  {
-    "hash": "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
-    "link": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
-    "title": "The Roadmap to Mastering LLM Inference Optimization",
-    "ts": 1793006970
-  },
-  {
     "hash": "5b4e08461387ba3b44832eb32623a231bc98422af2b9c0aa208f73f388840205",
     "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
@@ -250,5 +226,29 @@
     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
     "title": "Creating AI value with enterprise context",
     "ts": 1793502269
+  },
+  {
+    "hash": "e985072eafafc938b04b0fd1e430dda610dbdd230e0cb9fa7cec5b9712978f89",
+    "link": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
+    "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
+    "ts": 1793530414
+  },
+  {
+    "hash": "f522475d2ef3d36ab4719b7529aeac9e5fd4f6f20b5af31bb2c8536f13213195",
+    "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
+    "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
+    "ts": 1793530414
+  },
+  {
+    "hash": "b6b30743068c26272d898fb0a6f1ecbc2f9f86806ca564a0085874621ca143e5",
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "ts": 1793530414
+  },
+  {
+    "hash": "292429af02ff882412fb8abc377170f4abd424ce2dfb97a503a73684f4eb2178",
+    "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
+    "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+    "ts": 1793530414
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "02e941dcb42029b302a12c90329d3a99a2928bfbf857f51edd5a0492475b44c3",
-    "link": "https://arxiv.org/abs/2610.29162",
-    "title": "Why is AI generated language so hard to understand?",
-    "ts": 1792951619
-  },
-  {
     "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
     "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "title": "Gemini 4 Argon for Robotics",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/updated-model-spec",
     "title": "An updated Model Spec for more capable and beneficial AI",
     "ts": 1793487441
+  },
+  {
+    "hash": "9957645d2f759c419e9602049227d41a8b30a4f5b725bb3ed1c2e87cc6985175",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "title": "Creating AI value with enterprise context",
+    "ts": 1793502269
   }
 ]

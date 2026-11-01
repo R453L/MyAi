@@ -1,11 +1,5 @@
 [
   {
-    "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
-    "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
-    "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
-    "ts": 1793270229
-  },
-  {
     "hash": "51888f116f5b083740bce79640ccacdc80055a08000c769931982fc83218805e",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -250,5 +244,11 @@
     "link": "https://twitter.com/sgondala2/status/2115832070274723875",
     "title": "Building an AI-native engineering org",
     "ts": 1793561192
+  },
+  {
+    "hash": "d948735545c20cf3072195dbbc120386d43c1319abb3514dc8f0d2f4f07f9bdc",
+    "link": "https://openai.com/index/ropes-gray-ai-diligence",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "ts": 1793574888
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "5b4e08461387ba3b44832eb32623a231bc98422af2b9c0aa208f73f388840205",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "ts": 1793006970
-  },
-  {
     "hash": "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
     "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
     "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
     "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
     "ts": 1793530414
+  },
+  {
+    "hash": "393575ee7d83ff0a65d333d8be46ec5237c4c4f8ffd65a18f4b5764a81e08f2c",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "title": "Genie 4: A new generation of world simulation",
+    "ts": 1793553851
   }
 ]

@@ -1,125 +1,5 @@
 [
   {
-    "hash": "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
-    "link": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
-    "title": "Monitoring Embedding Drift in Production Scikit-LLM Pipelines",
-    "ts": 1793006970
-  },
-  {
-    "hash": "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
-    "link": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
-    "title": "Agent or Workflow? A Practical Test for Knowing When You Actually Need an AI Agent",
-    "ts": 1793006970
-  },
-  {
-    "hash": "68ead6b6af2b71441cd0f5e7ee92c2f76d1d2603c4161faf27e658aafd17eb6c",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "ts": 1793037096
-  },
-  {
-    "hash": "39cad894cdd240fbe2dba606200e547216d43a1655f56c86db3d6329a851a826",
-    "link": "https://openai.com/index/att-legal",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "ts": 1793057699
-  },
-  {
-    "hash": "fec7036c87350b493dbac16010764394c96d07f99f50be5fc287f31f9ee9e197",
-    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "title": "Making the case for context-aware AI",
-    "ts": 1793069478
-  },
-  {
-    "hash": "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
-    "link": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
-    "title": "Automating Knowledge Graph Population: Extracting Entities and Triples from Unstructured Text with an LLM",
-    "ts": 1793093346
-  },
-  {
-    "hash": "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
-    "link": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
-    "title": "Local Agentic AI Workflows with Hermes + Ollama",
-    "ts": 1793093346
-  },
-  {
-    "hash": "41fb25a47d12d204a957e1afcc5f8bbcaa2e18e833e937826e6c4d8fb5abdfdb",
-    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "ts": 1793093346
-  },
-  {
-    "hash": "36a7e1c23fbbe3b1fdc0232b25eb31c8ef9c6f6d877b564ab04d74596d0b22c4",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "ts": 1793120572
-  },
-  {
-    "hash": "7d972df501d01ba1f64ace9f515a56fb23b6429c84e2c13cce6a1dfa0631bf43",
-    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "ts": 1793143188
-  },
-  {
-    "hash": "17f6c40976e42ab83bd995359d0fb86dc8df596c4d714b6639d5d6a8ed14197d",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkpPaDhwbnU0WE04OWhRX0trWTJNcHA5TXoxQklFcnpkMTFoSTRoM0xNVGFGV1c4cUgyQ180LU9pdFJoMEptY2lYUXhlaDdoc2FhUnd4Z19pY2VUV2VyV3NHbVVrLTVxcDUxTUowWkk3WlJMQW00VXNDTnZtV01BYVNqSnZ1b25sVlBXRm1vRWZ0UklVVFJKVDREM25ZaEYyaHB3dmpDZ2hKbG9XTzdLMXRVanRSZWxLVXfSAb8BQVVfeXFMTXVvT3ppQmVDbkFyRmtTVW1yNV9JNUlaN3Raek92QjZQaVduejVaTk5SLW5JbkJYOXJRTVhlN01XdW9hSTJ0SkNXWGdDN2JfVnRreU5mMjMtdlhaQlItU21KOURfZVBmWDF0dHoxXzh1eDgxMkl4OTdiZ3pjSmxrTHNMSXhia19DRVlTRjRNWVVUMjQ4RGtnUkdkTmEyOU1SOVNsSWdMaUFxOVQ3a1ZOSUd1dDIwTmo2TmxyRmdoMFE?oc=5",
-    "title": "Artificial intelligence and the erosion of human agency - upi",
-    "ts": 1793156218
-  },
-  {
-    "hash": "c9a6184923cc1a5837b490017ed569bb9f0183f7b39ff2df0ab9b46fbcc327c4",
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "ts": 1793182085
-  },
-  {
-    "hash": "d72775a73064aaa987fda780e8779f1dd8a0392c993a3473581ddeb2699dacdf",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "title": "Build specialized multimodal models with LFM3",
-    "ts": 1793182085
-  },
-  {
-    "hash": "c2ed162a157709f5cb47598d7a4a9ff0ca7927682ea3c9a0e259f86971bb2de7",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "ts": 1793182085
-  },
-  {
-    "hash": "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
-    "link": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
-    "title": "Tool Calling vs. Code Execution for AI Agents: Choosing the Right Action Primitive",
-    "ts": 1793182085
-  },
-  {
-    "hash": "5c52b7d34becd1ccf770a5f22540c4c3de16ae5f8db819babc6348fdbc423c77",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "ts": 1793182085
-  },
-  {
-    "hash": "c11a83f73b42d75639443284618af1576a5293ebbd1f2119958661a090262494",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "ts": 1793208980
-  },
-  {
-    "hash": "e2ed7680c50ae3f074e04f962f033e8bab070f352fa8087e45258e537064a005",
-    "link": "https://openai.com/index/the-future-of-the-firm",
-    "title": "The future of the firm",
-    "ts": 1793231050
-  },
-  {
-    "hash": "d4d3362f9664c726166567741e670ab54bbce1ee3f565b0d50a2fe67fdae2863",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2VtVEpIZTVSZ21aOTJ5TFZUWHNwbzAxSGZNTUgtQTRTNl9LWHVEdHNoZ1U4cFZ6NVJmZ1hrTDJTTG1veVJDa2UzbzNjaTV1Z1k2ZndrTWVGeEg3bm1CTUlHeE96QTJSS1h1NFVtQVNOeTdfeFAyazQyLU5NV1VlUlpRb2MyRlFvT294Q244YTNFY3NYVTBj0gGrAUFVX3lxTFBWeXJxV0p2MFVoMjJsSk5Db0x4OWZLdjZ6d0d3UWtYajdPTmE5YkFtVDV5YTVEMUVJbHhjOVlLdjM0N281eXJadHFZdzZBei1YeVI1b0loS2REYVpBbjZMSUhSd0JNMGotNXUwRVpPRGQ3TEQyNzVNTk9DRXpHN3IyMkNacmNaX3N6a0ZPTUNRQmZUa0cwTThvVGFwNEk5aWwwbnFPVjV3UER5aw?oc=5",
-    "title": "Artificial intelligence transforms the workforce, regulations - Fox 10 News",
-    "ts": 1793244168
-  },
-  {
-    "hash": "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
-    "link": "https://machinelearningmastery.com/2026-09-prnews-io-whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field/",
-    "title": "What’s Actually Inside 24,723 Tokens of a Search Result? We Broke It Down, Field by Field",
-    "ts": 1793270229
-  },
-  {
     "hash": "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
     "link": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
     "title": "Build And Understand a Vector Database From Scratch in 10 Easy Steps",
@@ -250,5 +130,125 @@
     "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "title": "Genie 4: A new generation of world simulation",
     "ts": 1793553851
+  },
+  {
+    "hash": "bd03e4a483646b8532a8be38f63038c71b34c72e91048d24fad76cc874818f73",
+    "link": "https://mistral.ai/news/mistral-large-4-oss/",
+    "title": "We're releasing the weights of Mistral Large 4",
+    "ts": 1793561192
+  },
+  {
+    "hash": "6825ae5281ac7c3fe9afc39e2f92c3399ce503b06e78f9e26ea496ead5e6837d",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "title": "Gemini 4 Carbon",
+    "ts": 1793561192
+  },
+  {
+    "hash": "55737272f83db8f20c925a42cebb24bf05305780f9db527180de3677b5e23b08",
+    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "ts": 1793561192
+  },
+  {
+    "hash": "94430ceaa839cbc65bd3beb50f4a415e11e18e27e79127cc99549442483ed67e",
+    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "title": "Claude Code regularly sends each background agent’s transcript to its model",
+    "ts": 1793561192
+  },
+  {
+    "hash": "b9b5de18e9156d548c9e56f000e9ba90e1a7218d2ec27abca07022b7bcdfd71e",
+    "link": "https://www.brangus.io/survival-llm",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "ts": 1793561192
+  },
+  {
+    "hash": "b6ef72a535891f6857e1cf68374fd170d795aceabdc2f77fa54ae1071f2a05cb",
+    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "ts": 1793561192
+  },
+  {
+    "hash": "2cf1fb795ba0396c9bccccb3fef5e5568e0b47f7e5c2500057928a764f1aaa0e",
+    "link": "https://labs.ycombinator.com/projects/games/index.html",
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "ts": 1793561192
+  },
+  {
+    "hash": "b7bdac3bb4ce8ed2469cfd617efc177a158dbddda2d53285512d7c8d0010a7bf",
+    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+    "ts": 1793561192
+  },
+  {
+    "hash": "1c640f88e053cb517a45732d6f16f620b91ae8dcc8c28cbe79a3d64ecb89b0a9",
+    "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "ts": 1793561192
+  },
+  {
+    "hash": "5385485570aa26302c73148ef580ac342c7f147ca01d002e8a5df33674da3e6c",
+    "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+    "ts": 1793561192
+  },
+  {
+    "hash": "4046f158b923cc55ad203a2c5c6e19492455135e52b146f5ddf9e743852e99ff",
+    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "ts": 1793561192
+  },
+  {
+    "hash": "4f9b91a5f77826aede769dc1af380d5f57c8bc06227f44a2d5bc020e6c7f2efe",
+    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "ts": 1793561192
+  },
+  {
+    "hash": "d2141a86f052a485cdb7d70ce5921d530ef994a93188c4ca837a5432b8786663",
+    "link": "https://github.com/SheepSeb/tinyworldformer",
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "ts": 1793561192
+  },
+  {
+    "hash": "e0560c89dba7252fc343281b84400df5292d95d40738130c04c1afc93b480911",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "ts": 1793561192
+  },
+  {
+    "hash": "17a75de37df03bf69cc8cd6f945d43030c6c3e3ce93699d18b7dc09af34e59c0",
+    "link": "https://surgehq.ai/blog/dayjob-tax",
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "ts": 1793561192
+  },
+  {
+    "hash": "ef006b6d1900eae33747e3a0134b944c7c31f8ab9a5408e1d54692d868440d19",
+    "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "ts": 1793561192
+  },
+  {
+    "hash": "ada48fd2a892dda5eaac01e62f75b6c464e7383ed63e7e57bd1d945ebddf94a2",
+    "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "ts": 1793561192
+  },
+  {
+    "hash": "7e9f318174ec7dbc8579d38dfb846d973fa1906cb1d51c32add19404156f6c0c",
+    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "title": "The AI cost of JavaScript frameworks",
+    "ts": 1793561192
+  },
+  {
+    "hash": "7e8069f52fd9bcafc2e4544a8a28a26317fc00b916aaf423cfa3f6ec64370cef",
+    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "ts": 1793561192
+  },
+  {
+    "hash": "97c67637a7780f4fa42fecaac0ff02d7dc02744a235e7566a517bd8f2a7efdc4",
+    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "title": "Building an AI-native engineering org",
+    "ts": 1793561192
   }
 ]

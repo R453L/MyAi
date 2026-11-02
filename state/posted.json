@@ -1,11 +1,5 @@
 [
   {
-    "hash": "51888f116f5b083740bce79640ccacdc80055a08000c769931982fc83218805e",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "ts": 1793270229
-  },
-  {
     "hash": "34692efacd3b982a5758af6c9efc6d456b1cc87fb4d06f241903d801f376c977",
     "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/ropes-gray-ai-diligence",
     "title": "How Ropes & Gray is developing AI for transactional diligence",
     "ts": 1793574888
+  },
+  {
+    "hash": "5732896b70a3ac25d80a5be0fb259ce6b5025fbc125edc19dd0d626bc3022dbd",
+    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "ts": 1793589333
   }
 ]

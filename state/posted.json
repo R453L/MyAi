@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
-    "link": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
-    "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
-    "ts": 1793356376
-  },
-  {
     "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
     "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
     "title": "Iterators and Generators for Memory-Efficient Processing",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
     "title": "How (and Why) to Build an AI Agent from Scratch in Python",
     "ts": 1793620098
+  },
+  {
+    "hash": "574dbaf7fc8731e405753fdd629edf08113dcd8a86398ab5c6140b68360db244",
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "title": "Fair use benefits everyone",
+    "ts": 1793653265
   }
 ]

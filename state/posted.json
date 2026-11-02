@@ -1,23 +1,5 @@
 [
   {
-    "hash": "34692efacd3b982a5758af6c9efc6d456b1cc87fb4d06f241903d801f376c977",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "ts": 1793295959
-  },
-  {
-    "hash": "a395c7da350b5086cc15f6b616a71f222298172ced3c491458f1fd1d38e79b77",
-    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "ts": 1793317531
-  },
-  {
-    "hash": "69c7dbeddf2248ad30780c42d8bb8740642f5fb14ed16763b26a59eb20f4935b",
-    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-    "title": "Our climate models have a big, dangerous blind spot",
-    "ts": 1793330902
-  },
-  {
     "hash": "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
     "link": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
     "title": "Synchronous vs. Asynchronous Agent Execution: Architecture Patterns for Production",
@@ -250,5 +232,23 @@
     "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
     "title": "Last-minute Halloween costumes for tech nerds",
     "ts": 1793589333
+  },
+  {
+    "hash": "fd80d36b8f5de0cb8063fd8bfac98d36b5e515632db63361ed08840b471c7a31",
+    "link": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/",
+    "title": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
+    "ts": 1793620098
+  },
+  {
+    "hash": "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502",
+    "link": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
+    "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
+    "ts": 1793620098
+  },
+  {
+    "hash": "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
+    "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
+    "title": "How (and Why) to Build an AI Agent from Scratch in Python",
+    "ts": 1793620098
   }
 ]

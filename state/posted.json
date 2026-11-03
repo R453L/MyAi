@@ -1,11 +1,5 @@
 [
   {
-    "hash": "cea9926522a1484b01495adba6002f464b49b49b7cb9dbed5c2d24ea82a25a84",
-    "link": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
-    "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
-    "ts": 1793356376
-  },
-  {
     "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
     "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/gretabyquestera",
     "title": "Self-Growing Websites by Greta.sh",
     "ts": 1793680159
+  },
+  {
+    "hash": "bca108e4c77bd86b238b884ff1c18e5c63018f84444ba049fc49aa2f4ac03dcf",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "ts": 1793740888
   }
 ]

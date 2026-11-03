@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
-    "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
-    "title": "Iterators and Generators for Memory-Efficient Processing",
-    "ts": 1793356376
-  },
-  {
     "hash": "cea9926522a1484b01495adba6002f464b49b49b7cb9dbed5c2d24ea82a25a84",
     "link": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
     "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/fair-use-benefits-everyone",
     "title": "Fair use benefits everyone",
     "ts": 1793653265
+  },
+  {
+    "hash": "b2a1acf1c6b0cd38c1fc0dfc0ae719aa9ca17ff6b140b4d34b0f96f6e30139b4",
+    "link": "https://www.producthunt.com/products/gretabyquestera",
+    "title": "Self-Growing Websites by Greta.sh",
+    "ts": 1793680159
   }
 ]

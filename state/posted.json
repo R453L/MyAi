@@ -1,17 +1,5 @@
 [
   {
-    "hash": "8eb6001a836a6e50b8fb133e1590f182de0e7997306db3a54dcb8d2c2e5a6daa",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "title": "Working with academic communities to build scientific understanding",
-    "ts": 1793402671
-  },
-  {
-    "hash": "d8d1461b502db38ef80844b3fe5fbdb45e96dbd2f3086acf753e8fd0ea4f6273",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "ts": 1793416147
-  },
-  {
     "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
     "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -250,5 +238,17 @@
     "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
     "title": "The Download: AI agent tracking and climate feedback loops",
     "ts": 1793764257
+  },
+  {
+    "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
+    "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
+    "title": "Iterators and Generators for Memory-Efficient Processing",
+    "ts": 1793792633
+  },
+  {
+    "hash": "cea9926522a1484b01495adba6002f464b49b49b7cb9dbed5c2d24ea82a25a84",
+    "link": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
+    "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
+    "ts": 1793792633
   }
 ]

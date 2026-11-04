@@ -1,11 +1,5 @@
 [
   {
-    "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "ts": 1793440980
-  },
-  {
     "hash": "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb",
     "link": "https://huggingface.co/blog/hf-torchtpu",
     "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
     "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
     "ts": 1793792633
+  },
+  {
+    "hash": "8b0d9aa8cd4402820165b743b9e0c274a39419ea7237baa9782d3a582c235949",
+    "link": "https://arxiv.org/abs/2611.03832",
+    "title": "El Agente F\\'armaco: A Scalable AI Scientist for Drug Discovery",
+    "ts": 1793818932
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "ts": 1793382614
-  },
-  {
     "hash": "8eb6001a836a6e50b8fb133e1590f182de0e7997306db3a54dcb8d2c2e5a6daa",
     "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "title": "Working with academic communities to build scientific understanding",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "title": "Rewarding defenders with bigger bug bounties",
     "ts": 1793740888
+  },
+  {
+    "hash": "8ce52d4dd6132dca78922b6dad44901ed599e4ed6e47f36617120a626cf763b6",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "ts": 1793764257
   }
 ]

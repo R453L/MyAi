@@ -1,11 +1,5 @@
 [
   {
-    "hash": "9957645d2f759c419e9602049227d41a8b30a4f5b725bb3ed1c2e87cc6985175",
-    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "title": "Creating AI value with enterprise context",
-    "ts": 1793502269
-  },
-  {
     "hash": "e985072eafafc938b04b0fd1e430dda610dbdd230e0cb9fa7cec5b9712978f89",
     "link": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
     "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
     "ts": 1793878994
+  },
+  {
+    "hash": "495042ca0e78bb75db55be96d9999618dd2a1a2ba6aa0eac568618169a0a55f0",
+    "link": "https://arxiv.org/abs/2611.05581",
+    "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
+    "ts": 1793905963
   }
 ]

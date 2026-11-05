@@ -1,11 +1,5 @@
 [
   {
-    "hash": "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb",
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "ts": 1793440980
-  },
-  {
     "hash": "2b3f616d26d343fed7789052f7d45765c10f64079fafbd4a9ee06dcaf0e956ff",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2611.03832",
     "title": "El Agente F\\'armaco: A Scalable AI Scientist for Drug Discovery",
     "ts": 1793818932
+  },
+  {
+    "hash": "34220bbe6836f3c322f24281c2aaf418e8e27a34c029db3edac28d11604d3dd5",
+    "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "title": "The Download: blended meat, restored sight, and the agentic web",
+    "ts": 1793839027
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "hash": "2b3f616d26d343fed7789052f7d45765c10f64079fafbd4a9ee06dcaf0e956ff",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "ts": 1793440980
-  },
-  {
-    "hash": "8b1ab1df41ac00d8450a9c25dd5dbcdb0b91a40bb3de26f2671c5e1a109999b2",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "ts": 1793464203
-  },
-  {
-    "hash": "9349f418e7bc7ab45091d36c0bfe75e2136622d8b5dbcf107bb7aa7386820b2a",
-    "link": "https://openai.com/index/updated-model-spec",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "ts": 1793487441
-  },
-  {
     "hash": "9957645d2f759c419e9602049227d41a8b30a4f5b725bb3ed1c2e87cc6985175",
     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
     "title": "Creating AI value with enterprise context",
@@ -250,5 +232,23 @@
     "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
     "title": "The Download: blended meat, restored sight, and the agentic web",
     "ts": 1793839027
+  },
+  {
+    "hash": "d72775a73064aaa987fda780e8779f1dd8a0392c993a3473581ddeb2699dacdf",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "title": "Build specialized multimodal models with LFM3",
+    "ts": 1793878994
+  },
+  {
+    "hash": "e508e29ae812fe586e8d04934be66406c6967422e675f969f84a3d3abfd18b22",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "ts": 1793878994
+  },
+  {
+    "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "ts": 1793878994
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "bd03e4a483646b8532a8be38f63038c71b34c72e91048d24fad76cc874818f73",
-    "link": "https://mistral.ai/news/mistral-large-4-oss/",
-    "title": "We're releasing the weights of Mistral Large 4",
-    "ts": 1793561192
-  },
-  {
     "hash": "6825ae5281ac7c3fe9afc39e2f92c3399ce503b06e78f9e26ea496ead5e6837d",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
     "title": "Gemini 4 Carbon",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
     "title": "Speeding up planning decisions with AI",
     "ts": 1793990648
+  },
+  {
+    "hash": "fbaa86a829ad59fd10c58d013d5956116602b056ae7817da772b6c91267e6908",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "title": "A thousand fewer paths to root",
+    "ts": 1794009144
   }
 ]

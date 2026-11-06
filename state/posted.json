@@ -1,11 +1,5 @@
 [
   {
-    "hash": "393575ee7d83ff0a65d333d8be46ec5237c4c4f8ffd65a18f4b5764a81e08f2c",
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "title": "Genie 4: A new generation of world simulation",
-    "ts": 1793553851
-  },
-  {
     "hash": "bd03e4a483646b8532a8be38f63038c71b34c72e91048d24fad76cc874818f73",
     "link": "https://mistral.ai/news/mistral-large-4-oss/",
     "title": "We're releasing the weights of Mistral Large 4",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
     "title": "How to Train Your own Decision Model like Jev using Unsloth",
     "ts": 1793965305
+  },
+  {
+    "hash": "1b296d8bb115085d301f1a9a89965d4fd7fce9d0aacb1619ed7e5b86e4dbf866",
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "title": "Speeding up planning decisions with AI",
+    "ts": 1793990648
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "e985072eafafc938b04b0fd1e430dda610dbdd230e0cb9fa7cec5b9712978f89",
-    "link": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
-    "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
-    "ts": 1793530414
-  },
-  {
     "hash": "f522475d2ef3d36ab4719b7529aeac9e5fd4f6f20b5af31bb2c8536f13213195",
     "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
     "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2611.05581",
     "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
     "ts": 1793905963
+  },
+  {
+    "hash": "447319f8e42be618bf54671eaa8f1509757e94b4ff18ff658c411fafa17638b5",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
+    "title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria - AgriLife Today",
+    "ts": 1793925457
   }
 ]

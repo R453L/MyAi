@@ -1,11 +1,5 @@
 [
   {
-    "hash": "2cf1fb795ba0396c9bccccb3fef5e5568e0b47f7e5c2500057928a764f1aaa0e",
-    "link": "https://labs.ycombinator.com/projects/games/index.html",
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "ts": 1793561192
-  },
-  {
     "hash": "b7bdac3bb4ce8ed2469cfd617efc177a158dbddda2d53285512d7c8d0010a7bf",
     "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
     "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-synthid-bio/",
     "title": "Introducing SynthID Bio",
     "ts": 1794071317
+  },
+  {
+    "hash": "295354ff422b0d4db922748e7c3d1bbebb7a9ab588c6d205b09352b92e57d424",
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "title": "Introducing Images 2.6",
+    "ts": 1794093269
   }
 ]

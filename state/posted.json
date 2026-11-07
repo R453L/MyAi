@@ -1,23 +1,5 @@
 [
   {
-    "hash": "55737272f83db8f20c925a42cebb24bf05305780f9db527180de3677b5e23b08",
-    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "title": "AI isn't replacing SREs, it's deskilling them",
-    "ts": 1793561192
-  },
-  {
-    "hash": "94430ceaa839cbc65bd3beb50f4a415e11e18e27e79127cc99549442483ed67e",
-    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-    "title": "Claude Code regularly sends each background agent’s transcript to its model",
-    "ts": 1793561192
-  },
-  {
-    "hash": "b9b5de18e9156d548c9e56f000e9ba90e1a7218d2ec27abca07022b7bcdfd71e",
-    "link": "https://www.brangus.io/survival-llm",
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "ts": 1793561192
-  },
-  {
     "hash": "b6ef72a535891f6857e1cf68374fd170d795aceabdc2f77fa54ae1071f2a05cb",
     "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
     "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
@@ -250,5 +232,23 @@
     "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
     "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
     "ts": 1794022761
+  },
+  {
+    "hash": "292429af02ff882412fb8abc377170f4abd424ce2dfb97a503a73684f4eb2178",
+    "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
+    "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+    "ts": 1794048431
+  },
+  {
+    "hash": "e985072eafafc938b04b0fd1e430dda610dbdd230e0cb9fa7cec5b9712978f89",
+    "link": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
+    "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
+    "ts": 1794048431
+  },
+  {
+    "hash": "f522475d2ef3d36ab4719b7529aeac9e5fd4f6f20b5af31bb2c8536f13213195",
+    "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
+    "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
+    "ts": 1794048431
   }
 ]

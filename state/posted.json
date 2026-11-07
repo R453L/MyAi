@@ -1,11 +1,5 @@
 [
   {
-    "hash": "6825ae5281ac7c3fe9afc39e2f92c3399ce503b06e78f9e26ea496ead5e6837d",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "title": "Gemini 4 Carbon",
-    "ts": 1793561192
-  },
-  {
     "hash": "55737272f83db8f20c925a42cebb24bf05305780f9db527180de3677b5e23b08",
     "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
     "title": "AI isn't replacing SREs, it's deskilling them",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
     "title": "A thousand fewer paths to root",
     "ts": 1794009144
+  },
+  {
+    "hash": "b2dc36e13c44a6e4145d7cabe8c3c4ab038300f5b5f6ade39f1ba464cf3d211f",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "ts": 1794022761
   }
 ]

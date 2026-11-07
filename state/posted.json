@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b6ef72a535891f6857e1cf68374fd170d795aceabdc2f77fa54ae1071f2a05cb",
-    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "ts": 1793561192
-  },
-  {
     "hash": "2cf1fb795ba0396c9bccccb3fef5e5568e0b47f7e5c2500057928a764f1aaa0e",
     "link": "https://labs.ycombinator.com/projects/games/index.html",
     "title": "We ran AI agent swarms in Minecraft and Mindustry",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
     "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
     "ts": 1794048431
+  },
+  {
+    "hash": "c696e8b1f34224735a5b522fd51b1d052e2103bd5d040aaee48f4dde058d1cd6",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "title": "Introducing SynthID Bio",
+    "ts": 1794071317
   }
 ]

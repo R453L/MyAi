@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b7bdac3bb4ce8ed2469cfd617efc177a158dbddda2d53285512d7c8d0010a7bf",
-    "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "ts": 1793561192
-  },
-  {
     "hash": "1c640f88e053cb517a45732d6f16f620b91ae8dcc8c28cbe79a3d64ecb89b0a9",
     "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
     "title": "Do the math: How we took over ChatGPT accounts",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/introducing-images-2-6",
     "title": "Introducing Images 2.6",
     "ts": 1794093269
+  },
+  {
+    "hash": "126d50cf2c3ff25e71e54347003e409c8873856709cbb6e9465bf5d98889429e",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnJxQlRoYl9pdlBxX1hVSWdhUWhVT3hpTkJIeXFveWxQb3I1V3NvM0lQTlMteGdkQXAwc1JHNW1WQ0ZFMGtXQWg1aTJ5Z0N6bXV0RmYycFhjbW1Rc1ptN3FFZG04QmJGMWh3YWlveDEtRDUyUXgtVEx2YWQtdUlIOWZKOA?oc=5",
+    "title": "Column: Artificial intelligence becomes artificial connection, too - The Daily Tar Heel",
+    "ts": 1794107556
   }
 ]

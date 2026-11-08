@@ -1,23 +1,5 @@
 [
   {
-    "hash": "1c640f88e053cb517a45732d6f16f620b91ae8dcc8c28cbe79a3d64ecb89b0a9",
-    "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "title": "Do the math: How we took over ChatGPT accounts",
-    "ts": 1793561192
-  },
-  {
-    "hash": "5385485570aa26302c73148ef580ac342c7f147ca01d002e8a5df33674da3e6c",
-    "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "ts": 1793561192
-  },
-  {
-    "hash": "4046f158b923cc55ad203a2c5c6e19492455135e52b146f5ddf9e743852e99ff",
-    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "ts": 1793561192
-  },
-  {
     "hash": "4f9b91a5f77826aede769dc1af380d5f57c8bc06227f44a2d5bc020e6c7f2efe",
     "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
     "title": "Proton's CEO Cancels AI 'Re-Interviews'",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnJxQlRoYl9pdlBxX1hVSWdhUWhVT3hpTkJIeXFveWxQb3I1V3NvM0lQTlMteGdkQXAwc1JHNW1WQ0ZFMGtXQWg1aTJ5Z0N6bXV0RmYycFhjbW1Rc1ptN3FFZG04QmJGMWh3YWlveDEtRDUyUXgtVEx2YWQtdUlIOWZKOA?oc=5",
     "title": "Column: Artificial intelligence becomes artificial connection, too - The Daily Tar Heel",
     "ts": 1794107556
+  },
+  {
+    "hash": "5a90caffb2c87d2e6e8eb5c3f6e99436fe1d4b1da4789f4c2ad70b79f5a9dd5d",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "ts": 1794135140
+  },
+  {
+    "hash": "002b52e768fe8615b38b48ee51b6c637ed1d47d44a5d9214d789c96095e8c9c4",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "ts": 1794135140
+  },
+  {
+    "hash": "4280399e4d5c7156fa62285142fc08ffa3a9c99d227f47462a31d44b8cdf5f8c",
+    "link": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
+    "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
+    "ts": 1794135140
   }
 ]

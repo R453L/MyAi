@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502",
-    "link": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
-    "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
-    "ts": 1793620098
-  },
-  {
     "hash": "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
     "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
     "title": "How (and Why) to Build an AI Agent from Scratch in Python",
@@ -250,5 +244,11 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
     "title": "Anthropic IPO buyers see valuation as low as $1.1T",
     "ts": 1794165617
+  },
+  {
+    "hash": "616c68177b707eae60eb2b7e618a86105e3926c540e149caa916945e5a2342dd",
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "title": "Australian universities are creating AI-native graduates",
+    "ts": 1794179839
   }
 ]

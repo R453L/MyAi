@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4f9b91a5f77826aede769dc1af380d5f57c8bc06227f44a2d5bc020e6c7f2efe",
-    "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-    "ts": 1793561192
-  },
-  {
     "hash": "d2141a86f052a485cdb7d70ce5921d530ef994a93188c4ca837a5432b8786663",
     "link": "https://github.com/SheepSeb/tinyworldformer",
     "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
     "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
     "ts": 1794135140
+  },
+  {
+    "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "title": "Gemini 4 Argon for Robotics",
+    "ts": 1794158537
   }
 ]

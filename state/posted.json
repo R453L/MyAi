@@ -1,71 +1,5 @@
 [
   {
-    "hash": "d2141a86f052a485cdb7d70ce5921d530ef994a93188c4ca837a5432b8786663",
-    "link": "https://github.com/SheepSeb/tinyworldformer",
-    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-    "ts": 1793561192
-  },
-  {
-    "hash": "e0560c89dba7252fc343281b84400df5292d95d40738130c04c1afc93b480911",
-    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-    "title": "US tech stocks see sharp falls over AI cost fears",
-    "ts": 1793561192
-  },
-  {
-    "hash": "17a75de37df03bf69cc8cd6f945d43030c6c3e3ce93699d18b7dc09af34e59c0",
-    "link": "https://surgehq.ai/blog/dayjob-tax",
-    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "ts": 1793561192
-  },
-  {
-    "hash": "ef006b6d1900eae33747e3a0134b944c7c31f8ab9a5408e1d54692d868440d19",
-    "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-    "title": "Malware uses LLMs to rank victims by how much they're worth",
-    "ts": 1793561192
-  },
-  {
-    "hash": "ada48fd2a892dda5eaac01e62f75b6c464e7383ed63e7e57bd1d945ebddf94a2",
-    "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "ts": 1793561192
-  },
-  {
-    "hash": "7e9f318174ec7dbc8579d38dfb846d973fa1906cb1d51c32add19404156f6c0c",
-    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-    "title": "The AI cost of JavaScript frameworks",
-    "ts": 1793561192
-  },
-  {
-    "hash": "7e8069f52fd9bcafc2e4544a8a28a26317fc00b916aaf423cfa3f6ec64370cef",
-    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "ts": 1793561192
-  },
-  {
-    "hash": "97c67637a7780f4fa42fecaac0ff02d7dc02744a235e7566a517bd8f2a7efdc4",
-    "link": "https://twitter.com/sgondala2/status/2115832070274723875",
-    "title": "Building an AI-native engineering org",
-    "ts": 1793561192
-  },
-  {
-    "hash": "d948735545c20cf3072195dbbc120386d43c1319abb3514dc8f0d2f4f07f9bdc",
-    "link": "https://openai.com/index/ropes-gray-ai-diligence",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "ts": 1793574888
-  },
-  {
-    "hash": "5732896b70a3ac25d80a5be0fb259ce6b5025fbc125edc19dd0d626bc3022dbd",
-    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "ts": 1793589333
-  },
-  {
-    "hash": "fd80d36b8f5de0cb8063fd8bfac98d36b5e515632db63361ed08840b471c7a31",
-    "link": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/",
-    "title": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
-    "ts": 1793620098
-  },
-  {
     "hash": "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502",
     "link": "https://machinelearningmastery.com/building-a-custom-llm-evaluation-harness-in-python-from-scratch/",
     "title": "Building a Custom LLM Evaluation Harness in Python from Scratch",
@@ -250,5 +184,71 @@
     "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "title": "Gemini 4 Argon for Robotics",
     "ts": 1794158537
+  },
+  {
+    "hash": "210b26f029f33a3ef7fe3515ece25538b3c2fd8043720d57f14f3a706409d450",
+    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "ts": 1794165617
+  },
+  {
+    "hash": "857e942cc1110bf466bd604f7ab53e12e55e499bb6199d142bb42c790f2292e7",
+    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "ts": 1794165617
+  },
+  {
+    "hash": "ef313c34ae184d15b23a8ec6ebbee6d9e12dae97f562e0a1d653d20460b8291c",
+    "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "ts": 1794165617
+  },
+  {
+    "hash": "d5eecd06151a76634490f07c178ef72e5cb4ec2ccbcce8b3f4c2a43a35d210dd",
+    "link": "https://news.ycombinator.com/item?id=50363461",
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "ts": 1794165617
+  },
+  {
+    "hash": "23d5cc8219ef6b655f2c55e754d28d956425e03fa689d2d3af6814748d53c7dc",
+    "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "ts": 1794165617
+  },
+  {
+    "hash": "2bae9b1f767db0945e28868e3655092c7cb6a370ccc23414053f8d3deb06c5f5",
+    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "ts": 1794165617
+  },
+  {
+    "hash": "f7735096343ce81152b1d5c648c011ed31e805aac536109f028e21653f468c45",
+    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "ts": 1794165617
+  },
+  {
+    "hash": "e0c8b4541e0b5e8be31a9bff4568011d13ec940dcb82958e18289ef296b725f4",
+    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "title": "AI is dramatically accelerating AI research",
+    "ts": 1794165617
+  },
+  {
+    "hash": "27b87d65d3f99406683fa7dda81aab35cf60c186172d77624ee987317ff5f9f1",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "title": "Gemini Omni 1.2 Flash",
+    "ts": 1794165617
+  },
+  {
+    "hash": "96fe654d833fe36f856a82b247c6402cdd58fb57a1a53c58923e15eb742fd3ac",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+    "ts": 1794165617
+  },
+  {
+    "hash": "0a5391d7db4b8ea1805b6cff36b817f3a80381fa2cdd0427d1fc5e999d267598",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "ts": 1794165617
   }
 ]

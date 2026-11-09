@@ -1,11 +1,5 @@
 [
   {
-    "hash": "574dbaf7fc8731e405753fdd629edf08113dcd8a86398ab5c6140b68360db244",
-    "link": "https://openai.com/index/fair-use-benefits-everyone",
-    "title": "Fair use benefits everyone",
-    "ts": 1793653265
-  },
-  {
     "hash": "b2a1acf1c6b0cd38c1fc0dfc0ae719aa9ca17ff6b140b4d34b0f96f6e30139b4",
     "link": "https://www.producthunt.com/products/gretabyquestera",
     "title": "Self-Growing Websites by Greta.sh",
@@ -250,5 +244,11 @@
     "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
     "ts": 1794195269
+  },
+  {
+    "hash": "a3433e936d2c04bfa7722c64f05b5efdfdc6024634f8a182254f80d5e66c1036",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "ts": 1794268494
   }
 ]

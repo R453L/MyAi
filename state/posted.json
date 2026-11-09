@@ -1,11 +1,5 @@
 [
   {
-    "hash": "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
-    "link": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
-    "title": "How (and Why) to Build an AI Agent from Scratch in Python",
-    "ts": 1793620098
-  },
-  {
     "hash": "574dbaf7fc8731e405753fdd629edf08113dcd8a86398ab5c6140b68360db244",
     "link": "https://openai.com/index/fair-use-benefits-everyone",
     "title": "Fair use benefits everyone",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/australian-universities-ai-native-graduates",
     "title": "Australian universities are creating AI-native graduates",
     "ts": 1794179839
+  },
+  {
+    "hash": "c822924fc1f280c7bb5c4ca24542744a310746586c204947c26f0e804b19275f",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "ts": 1794195269
   }
 ]

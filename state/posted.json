@@ -1,11 +1,5 @@
 [
   {
-    "hash": "bca108e4c77bd86b238b884ff1c18e5c63018f84444ba049fc49aa2f4ac03dcf",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "ts": 1793740888
-  },
-  {
     "hash": "8ce52d4dd6132dca78922b6dad44901ed599e4ed6e47f36617120a626cf763b6",
     "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
     "title": "The Download: AI agent tracking and climate feedback loops",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/vygr",
     "title": "Voyager",
     "ts": 1794287193
+  },
+  {
+    "hash": "bbd492caba72ca544b8bac3280d7afac87555fa4b30c0b12388bcfae24236fa4",
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "ts": 1794346427
   }
 ]

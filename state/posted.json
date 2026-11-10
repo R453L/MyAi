@@ -1,11 +1,5 @@
 [
   {
-    "hash": "b2a1acf1c6b0cd38c1fc0dfc0ae719aa9ca17ff6b140b4d34b0f96f6e30139b4",
-    "link": "https://www.producthunt.com/products/gretabyquestera",
-    "title": "Self-Growing Websites by Greta.sh",
-    "ts": 1793680159
-  },
-  {
     "hash": "bca108e4c77bd86b238b884ff1c18e5c63018f84444ba049fc49aa2f4ac03dcf",
     "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "title": "Rewarding defenders with bigger bug bounties",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/daybreak-red-aws-govcloud",
     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
     "ts": 1794268494
+  },
+  {
+    "hash": "ef1bb88f93cdc7e9e54093ad7e9c83d52ae18a983f9d603fbd303eb427e2ccd4",
+    "link": "https://www.producthunt.com/products/vygr",
+    "title": "Voyager",
+    "ts": 1794287193
   }
 ]

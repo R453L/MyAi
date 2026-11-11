@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8ce52d4dd6132dca78922b6dad44901ed599e4ed6e47f36617120a626cf763b6",
-    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-    "title": "The Download: AI agent tracking and climate feedback loops",
-    "ts": 1793764257
-  },
-  {
     "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
     "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
     "title": "Iterators and Generators for Memory-Efficient Processing",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/cultfit-builds-with-codex",
     "title": "Cult.fit builds operational muscle with Codex",
     "ts": 1794346427
+  },
+  {
+    "hash": "f2fd344bf7be2cb6a6e37ae4a940ba9c578738b8ca846bd9b36e2853dc9431a3",
+    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "title": "Innovating with AI in the special chemicals industry",
+    "ts": 1794368412
   }
 ]

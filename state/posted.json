@@ -1,29 +1,5 @@
 [
   {
-    "hash": "f3cfc6a545b8ac25018e0779cfcced5f966b8d4e5bea05f52a5f8adc848f7d4b",
-    "link": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
-    "title": "Iterators and Generators for Memory-Efficient Processing",
-    "ts": 1793792633
-  },
-  {
-    "hash": "cea9926522a1484b01495adba6002f464b49b49b7cb9dbed5c2d24ea82a25a84",
-    "link": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
-    "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
-    "ts": 1793792633
-  },
-  {
-    "hash": "8b0d9aa8cd4402820165b743b9e0c274a39419ea7237baa9782d3a582c235949",
-    "link": "https://arxiv.org/abs/2611.03832",
-    "title": "El Agente F\\'armaco: A Scalable AI Scientist for Drug Discovery",
-    "ts": 1793818932
-  },
-  {
-    "hash": "34220bbe6836f3c322f24281c2aaf418e8e27a34c029db3edac28d11604d3dd5",
-    "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-    "title": "The Download: blended meat, restored sight, and the agentic web",
-    "ts": 1793839027
-  },
-  {
     "hash": "d72775a73064aaa987fda780e8779f1dd8a0392c993a3473581ddeb2699dacdf",
     "link": "https://huggingface.co/blog/LiquidAI/lfm3",
     "title": "Build specialized multimodal models with LFM3",
@@ -250,5 +226,29 @@
     "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
     "title": "Innovating with AI in the special chemicals industry",
     "ts": 1794368412
+  },
+  {
+    "hash": "19b4fcb1faac9c9bdbccd358c8d8e12a9188d32981764b2e3beec26a5de09e66",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "ts": 1794396808
+  },
+  {
+    "hash": "ac8f18750241a65f1eaff59406bf9b8d8a419cb23f6d29d213a586908db91264",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "ts": 1794396808
+  },
+  {
+    "hash": "13e4c95dcbaa6d34090ed25c81da95ae0ecffa6f5294ed82e0ecb8b302653aea",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "ts": 1794396808
+  },
+  {
+    "hash": "a6f47a48f30f968dac18095dd33d3d18e6a7c8ac2aa243d1418c67918057d1ea",
+    "link": "https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/",
+    "title": "Robust Serialization with JSON and Custom Types",
+    "ts": 1794396808
   }
 ]

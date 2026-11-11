@@ -1,11 +1,5 @@
 [
   {
-    "hash": "d72775a73064aaa987fda780e8779f1dd8a0392c993a3473581ddeb2699dacdf",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "title": "Build specialized multimodal models with LFM3",
-    "ts": 1793878994
-  },
-  {
     "hash": "e508e29ae812fe586e8d04934be66406c6967422e675f969f84a3d3abfd18b22",
     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/",
     "title": "Robust Serialization with JSON and Custom Types",
     "ts": 1794396808
+  },
+  {
+    "hash": "f321c904268bcef29356d2d155bbcafcddbf602b9c293f4ee1395ec1aeca5a94",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "ts": 1794423541
   }
 ]

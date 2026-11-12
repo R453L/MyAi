@@ -1,29 +1,5 @@
 [
   {
-    "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "ts": 1793878994
-  },
-  {
-    "hash": "495042ca0e78bb75db55be96d9999618dd2a1a2ba6aa0eac568618169a0a55f0",
-    "link": "https://arxiv.org/abs/2611.05581",
-    "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
-    "ts": 1793905963
-  },
-  {
-    "hash": "447319f8e42be618bf54671eaa8f1509757e94b4ff18ff658c411fafa17638b5",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
-    "title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria - AgriLife Today",
-    "ts": 1793925457
-  },
-  {
-    "hash": "46fb390b301c13d6bf43135689516d78c3edaaab625e0913051d0bb73c76038b",
-    "link": "https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/",
-    "title": "The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks",
-    "ts": 1793965305
-  },
-  {
     "hash": "ad3ae4c1a664f5dc190f61d311524a1031b5acf03b359dd8cb5e09ba33fe7128",
     "link": "https://machinelearningmastery.com/diffusiongemma-hands-on-with-googles-text-model-that-writes-all-at-once/",
     "title": "DiffusionGemma: Hands-On with Google’s Text Model That Writes All at Once",
@@ -250,5 +226,29 @@
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXp4UndOa3dWWml4aC1JNmtyY0MxS3ZOTWdlQ3ZjX1MyWmdtNHFHUHpzal8xTFpadk1YaTNsMV9uLUhlcjd2Y3lSVDVmYlhjWktaUFVZN1FPSXZmZUlHa3BGNGczcUloa3ZmRkNFYzVZeXFnNGRLY2ZtTnFEdmZCT2tKM0FvWG9OUnJKamN4MzVjSHBTYjlXcHh1YnRZZWs?oc=5",
     "title": "Webinar to share how to build an effective AI training program - American Hospital Association",
     "ts": 1794447889
+  },
+  {
+    "hash": "7c2a55a65128fee872c49f3ee7ed6a8d679a352afaaa74ff033e0947752eeca3",
+    "link": "https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/",
+    "title": "Decorators for Timing, Retries, Caching, and Validation in Python",
+    "ts": 1794484730
+  },
+  {
+    "hash": "c65c7708e93995ca45416c5ef4b52b70460b293ce45783d81126b519537db1b3",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "ts": 1794484730
+  },
+  {
+    "hash": "5f3963726dbe36e6ccf9753b6647e286ea2d25f750c2d86a74f9ab28836d655f",
+    "link": "https://huggingface.co/blog/decision",
+    "title": "Decision Models in Hugging Face",
+    "ts": 1794484730
+  },
+  {
+    "hash": "8d1ad0c7307ba4730e91474665efa504752120b59c3a250e34b17ba39e98cbe0",
+    "link": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/",
+    "title": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
+    "ts": 1794484730
   }
 ]

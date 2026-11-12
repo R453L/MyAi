@@ -1,11 +1,5 @@
 [
   {
-    "hash": "e508e29ae812fe586e8d04934be66406c6967422e675f969f84a3d3abfd18b22",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "ts": 1793878994
-  },
-  {
     "hash": "363e77d535157a3608d436bbb2990a85c074e10972d5d7272b496ef77d5fe6d4",
     "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
     "ts": 1794423541
+  },
+  {
+    "hash": "1e47940e2ce55776300210f42d7e27b0142a210fe035365793143072ea8e4f0e",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXp4UndOa3dWWml4aC1JNmtyY0MxS3ZOTWdlQ3ZjX1MyWmdtNHFHUHpzal8xTFpadk1YaTNsMV9uLUhlcjd2Y3lSVDVmYlhjWktaUFVZN1FPSXZmZUlHa3BGNGczcUloa3ZmRkNFYzVZeXFnNGRLY2ZtTnFEdmZCT2tKM0FvWG9OUnJKamN4MzVjSHBTYjlXcHh1YnRZZWs?oc=5",
+    "title": "Webinar to share how to build an effective AI training program - American Hospital Association",
+    "ts": 1794447889
   }
 ]

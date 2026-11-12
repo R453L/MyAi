@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ad3ae4c1a664f5dc190f61d311524a1031b5acf03b359dd8cb5e09ba33fe7128",
-    "link": "https://machinelearningmastery.com/diffusiongemma-hands-on-with-googles-text-model-that-writes-all-at-once/",
-    "title": "DiffusionGemma: Hands-On with Google’s Text Model That Writes All at Once",
-    "ts": 1793965305
-  },
-  {
     "hash": "bf7ac00dcbd522dd1a071e20392d5a9fdafed42cbdd2597d941b97e30f68c36d",
     "link": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
     "title": "How to Train Your own Decision Model like Jev using Unsloth",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/",
     "title": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
     "ts": 1794484730
+  },
+  {
+    "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "ts": 1794511866
   }
 ]

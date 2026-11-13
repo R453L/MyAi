@@ -1,11 +1,5 @@
 [
   {
-    "hash": "292429af02ff882412fb8abc377170f4abd424ce2dfb97a503a73684f4eb2178",
-    "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
-    "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
-    "ts": 1794048431
-  },
-  {
     "hash": "e985072eafafc938b04b0fd1e430dda610dbdd230e0cb9fa7cec5b9712978f89",
     "link": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
     "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/3d-lora-finetuning",
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "ts": 1794570118
+  },
+  {
+    "hash": "ba68d014b0c0b5fafbbfac6fa3ccfbca7fd62542dad283a76bd418a8273c7f16",
+    "link": "https://arxiv.org/abs/2611.14794",
+    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+    "ts": 1794596089
   }
 ]

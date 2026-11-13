@@ -1,11 +1,5 @@
 [
   {
-    "hash": "bf7ac00dcbd522dd1a071e20392d5a9fdafed42cbdd2597d941b97e30f68c36d",
-    "link": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
-    "title": "How to Train Your own Decision Model like Jev using Unsloth",
-    "ts": 1793965305
-  },
-  {
     "hash": "1b296d8bb115085d301f1a9a89965d4fd7fce9d0aacb1619ed7e5b86e4dbf866",
     "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
     "title": "Speeding up planning decisions with AI",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
     "ts": 1794511866
+  },
+  {
+    "hash": "46a58226ff65eef32db0b403559a64a8e3f623157d471a9ea2a12ebce6883fdd",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+    "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence - Britannica",
+    "ts": 1794530845
   }
 ]

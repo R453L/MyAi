@@ -1,23 +1,5 @@
 [
   {
-    "hash": "1b296d8bb115085d301f1a9a89965d4fd7fce9d0aacb1619ed7e5b86e4dbf866",
-    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "title": "Speeding up planning decisions with AI",
-    "ts": 1793990648
-  },
-  {
-    "hash": "fbaa86a829ad59fd10c58d013d5956116602b056ae7817da772b6c91267e6908",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "title": "A thousand fewer paths to root",
-    "ts": 1794009144
-  },
-  {
-    "hash": "b2dc36e13c44a6e4145d7cabe8c3c4ab038300f5b5f6ade39f1ba464cf3d211f",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "ts": 1794022761
-  },
-  {
     "hash": "292429af02ff882412fb8abc377170f4abd424ce2dfb97a503a73684f4eb2178",
     "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
     "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
     "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence - Britannica",
     "ts": 1794530845
+  },
+  {
+    "hash": "4d3938441f216409a8f1b94cf7b0fdb4871145e54a0ab57799f0fbd11992bc85",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "ts": 1794570118
+  },
+  {
+    "hash": "bf7ac00dcbd522dd1a071e20392d5a9fdafed42cbdd2597d941b97e30f68c36d",
+    "link": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
+    "title": "How to Train Your own Decision Model like Jev using Unsloth",
+    "ts": 1794570118
+  },
+  {
+    "hash": "cbda9238a3684b28e47a3f036110852a357804594dae3b990092eac946cda973",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "ts": 1794570118
   }
 ]

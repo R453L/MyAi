@@ -1,11 +1,5 @@
 [
   {
-    "hash": "002b52e768fe8615b38b48ee51b6c637ed1d47d44a5d9214d789c96095e8c9c4",
-    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "ts": 1794135140
-  },
-  {
     "hash": "4280399e4d5c7156fa62285142fc08ffa3a9c99d227f47462a31d44b8cdf5f8c",
     "link": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
     "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
     "title": "Opening the datasets behind our AI weather models",
     "ts": 1794677216
+  },
+  {
+    "hash": "0f0020abcf733229d29f4d40e095eae692bb4a4c21852ac4cbeb6daf98f1617e",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "title": "Helping caregivers use AI in everyday life",
+    "ts": 1794699048
   }
 ]

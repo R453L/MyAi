@@ -1,11 +1,5 @@
 [
   {
-    "hash": "5a90caffb2c87d2e6e8eb5c3f6e99436fe1d4b1da4789f4c2ad70b79f5a9dd5d",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "ts": 1794135140
-  },
-  {
     "hash": "002b52e768fe8615b38b48ee51b6c637ed1d47d44a5d9214d789c96095e8c9c4",
     "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -250,5 +244,11 @@
     "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "ts": 1794654372
+  },
+  {
+    "hash": "d0f9bf46fa9dba7cc8efaedfd242bd87fcfd2424508bec21de1f7baf642d26dc",
+    "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "title": "Opening the datasets behind our AI weather models",
+    "ts": 1794677216
   }
 ]

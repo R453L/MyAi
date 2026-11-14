@@ -1,29 +1,5 @@
 [
   {
-    "hash": "f522475d2ef3d36ab4719b7529aeac9e5fd4f6f20b5af31bb2c8536f13213195",
-    "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
-    "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
-    "ts": 1794048431
-  },
-  {
-    "hash": "c696e8b1f34224735a5b522fd51b1d052e2103bd5d040aaee48f4dde058d1cd6",
-    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "title": "Introducing SynthID Bio",
-    "ts": 1794071317
-  },
-  {
-    "hash": "295354ff422b0d4db922748e7c3d1bbebb7a9ab588c6d205b09352b92e57d424",
-    "link": "https://openai.com/index/introducing-images-2-6",
-    "title": "Introducing Images 2.6",
-    "ts": 1794093269
-  },
-  {
-    "hash": "126d50cf2c3ff25e71e54347003e409c8873856709cbb6e9465bf5d98889429e",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnJxQlRoYl9pdlBxX1hVSWdhUWhVT3hpTkJIeXFveWxQb3I1V3NvM0lQTlMteGdkQXAwc1JHNW1WQ0ZFMGtXQWg1aTJ5Z0N6bXV0RmYycFhjbW1Rc1ptN3FFZG04QmJGMWh3YWlveDEtRDUyUXgtVEx2YWQtdUlIOWZKOA?oc=5",
-    "title": "Column: Artificial intelligence becomes artificial connection, too - The Daily Tar Heel",
-    "ts": 1794107556
-  },
-  {
     "hash": "5a90caffb2c87d2e6e8eb5c3f6e99436fe1d4b1da4789f4c2ad70b79f5a9dd5d",
     "link": "https://huggingface.co/blog/allenai/toyblocks",
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -250,5 +226,29 @@
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDFQRDN0SnBrN0tjWVhOckVncGtra09xalBTNnM1ZFlJMjdacjRvN05BNFB3dmprcDRodWlPTkY5TG1HVVNLcnJmaURycEtJbU56RC1VdGdYZFVqSHF4RWl5dnVlYkVGZ3dqaF81TldrSXZVdThPQkxkcUZfY2tSVGFBdHBqV1BIWnhpTjVkNzZNY0cyOGw0VWYzUQ?oc=5",
     "title": "How to 'really harness the potential' of AI: Local leaders sound off - Milwaukee Business Journal - The Business Journals",
     "ts": 1794616362
+  },
+  {
+    "hash": "11568aa8dfcf9a3c07504fe25196e1495017d378dc1ddce0dd1b3a34d4b9b5b8",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "ts": 1794654372
+  },
+  {
+    "hash": "292429af02ff882412fb8abc377170f4abd424ce2dfb97a503a73684f4eb2178",
+    "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
+    "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+    "ts": 1794654372
+  },
+  {
+    "hash": "10d599a9f34a1ea06db9aeea9c5ae36f5a7df2c4f9697e83ad6548eb9949d778",
+    "link": "https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/",
+    "title": "How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python",
+    "ts": 1794654372
+  },
+  {
+    "hash": "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "ts": 1794654372
   }
 ]

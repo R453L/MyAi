@@ -1,11 +1,5 @@
 [
   {
-    "hash": "e985072eafafc938b04b0fd1e430dda610dbdd230e0cb9fa7cec5b9712978f89",
-    "link": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
-    "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
-    "ts": 1794048431
-  },
-  {
     "hash": "f522475d2ef3d36ab4719b7529aeac9e5fd4f6f20b5af31bb2c8536f13213195",
     "link": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
     "title": "Speculative Decoding Explained: How to Get 3× Faster Inference from Any LLM",
@@ -250,5 +244,11 @@
     "link": "https://arxiv.org/abs/2611.14794",
     "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
     "ts": 1794596089
+  },
+  {
+    "hash": "4aa2d6b750a01d806bd2f778df0a75567216d6c3c428a4955c49067b1ecffa88",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDFQRDN0SnBrN0tjWVhOckVncGtra09xalBTNnM1ZFlJMjdacjRvN05BNFB3dmprcDRodWlPTkY5TG1HVVNLcnJmaURycEtJbU56RC1VdGdYZFVqSHF4RWl5dnVlYkVGZ3dqaF81TldrSXZVdThPQkxkcUZfY2tSVGFBdHBqV1BIWnhpTjVkNzZNY0cyOGw0VWYzUQ?oc=5",
+    "title": "How to 'really harness the potential' of AI: Local leaders sound off - Milwaukee Business Journal - The Business Journals",
+    "ts": 1794616362
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "4280399e4d5c7156fa62285142fc08ffa3a9c99d227f47462a31d44b8cdf5f8c",
-    "link": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
-    "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
-    "ts": 1794135140
-  },
-  {
     "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
     "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "title": "Gemini 4 Argon for Robotics",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
     "title": "Helping caregivers use AI in everyday life",
     "ts": 1794699048
+  },
+  {
+    "hash": "cb963bf5b4070264ebbfb54ca71c1db97611f33696ea0d662bf8ea7324e098ec",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GMWxBeEhtR2JhRG1PRkhad0NBbGNkT18tbTZIYVRFdkdHYm1HN3BRTGE4anpTRlljek1tNUliM0Zwc0NfSi04Z1J2Sk51Nm9vSF9IMm1aWGs0bERDY3I3ejZ0ekpiaHBNYWFxSDJB?oc=5",
+    "title": "AI discovers a hidden heart signal that could predict sudden death - Science Daily",
+    "ts": 1794714257
   }
 ]

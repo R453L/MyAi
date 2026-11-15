@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ef313c34ae184d15b23a8ec6ebbee6d9e12dae97f562e0a1d653d20460b8291c",
-    "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-    "title": "Every Mac comes with an (undocumented) family member classifier",
-    "ts": 1794165617
-  },
-  {
     "hash": "d5eecd06151a76634490f07c178ef72e5cb4ec2ccbcce8b3f4c2a43a35d210dd",
     "link": "https://news.ycombinator.com/item?id=50363461",
     "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
@@ -250,5 +244,11 @@
     "link": "https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/",
     "title": "The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks",
     "ts": 1794742714
+  },
+  {
+    "hash": "8827aad4505e69ef98eb5a35323bf36ab3ed2a3bb0a72d80b78337fc2eae5ce7",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "ts": 1794766301
   }
 ]

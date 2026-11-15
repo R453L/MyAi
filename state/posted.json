@@ -1,23 +1,5 @@
 [
   {
-    "hash": "94cc08977f17740f09c1909bb34730c90135e718bd7805bb30ec64144b72c389",
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "title": "Gemini 4 Argon for Robotics",
-    "ts": 1794158537
-  },
-  {
-    "hash": "210b26f029f33a3ef7fe3515ece25538b3c2fd8043720d57f14f3a706409d450",
-    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "ts": 1794165617
-  },
-  {
-    "hash": "857e942cc1110bf466bd604f7ab53e12e55e499bb6199d142bb42c790f2292e7",
-    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "title": "AI is forcing us to pay off 40 years of technical debt",
-    "ts": 1794165617
-  },
-  {
     "hash": "ef313c34ae184d15b23a8ec6ebbee6d9e12dae97f562e0a1d653d20460b8291c",
     "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
     "title": "Every Mac comes with an (undocumented) family member classifier",
@@ -250,5 +232,23 @@
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GMWxBeEhtR2JhRG1PRkhad0NBbGNkT18tbTZIYVRFdkdHYm1HN3BRTGE4anpTRlljek1tNUliM0Zwc0NfSi04Z1J2Sk51Nm9vSF9IMm1aWGs0bERDY3I3ejZ0ekpiaHBNYWFxSDJB?oc=5",
     "title": "AI discovers a hidden heart signal that could predict sudden death - Science Daily",
     "ts": 1794714257
+  },
+  {
+    "hash": "6841e619fcd7e8d9370258a227590a244c9afe604f7f173c18d14806c323db86",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "ts": 1794742714
+  },
+  {
+    "hash": "ad3ae4c1a664f5dc190f61d311524a1031b5acf03b359dd8cb5e09ba33fe7128",
+    "link": "https://machinelearningmastery.com/diffusiongemma-hands-on-with-googles-text-model-that-writes-all-at-once/",
+    "title": "DiffusionGemma: Hands-On with Google’s Text Model That Writes All at Once",
+    "ts": 1794742714
+  },
+  {
+    "hash": "46fb390b301c13d6bf43135689516d78c3edaaab625e0913051d0bb73c76038b",
+    "link": "https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/",
+    "title": "The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks",
+    "ts": 1794742714
   }
 ]

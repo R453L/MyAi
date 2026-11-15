@@ -1,77 +1,5 @@
 [
   {
-    "hash": "d5eecd06151a76634490f07c178ef72e5cb4ec2ccbcce8b3f4c2a43a35d210dd",
-    "link": "https://news.ycombinator.com/item?id=50363461",
-    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "ts": 1794165617
-  },
-  {
-    "hash": "23d5cc8219ef6b655f2c55e754d28d956425e03fa689d2d3af6814748d53c7dc",
-    "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "ts": 1794165617
-  },
-  {
-    "hash": "2bae9b1f767db0945e28868e3655092c7cb6a370ccc23414053f8d3deb06c5f5",
-    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "ts": 1794165617
-  },
-  {
-    "hash": "f7735096343ce81152b1d5c648c011ed31e805aac536109f028e21653f468c45",
-    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "ts": 1794165617
-  },
-  {
-    "hash": "e0c8b4541e0b5e8be31a9bff4568011d13ec940dcb82958e18289ef296b725f4",
-    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "title": "AI is dramatically accelerating AI research",
-    "ts": 1794165617
-  },
-  {
-    "hash": "27b87d65d3f99406683fa7dda81aab35cf60c186172d77624ee987317ff5f9f1",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "title": "Gemini Omni 1.2 Flash",
-    "ts": 1794165617
-  },
-  {
-    "hash": "96fe654d833fe36f856a82b247c6402cdd58fb57a1a53c58923e15eb742fd3ac",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "ts": 1794165617
-  },
-  {
-    "hash": "0a5391d7db4b8ea1805b6cff36b817f3a80381fa2cdd0427d1fc5e999d267598",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "ts": 1794165617
-  },
-  {
-    "hash": "616c68177b707eae60eb2b7e618a86105e3926c540e149caa916945e5a2342dd",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "title": "Australian universities are creating AI-native graduates",
-    "ts": 1794179839
-  },
-  {
-    "hash": "c822924fc1f280c7bb5c4ca24542744a310746586c204947c26f0e804b19275f",
-    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "ts": 1794195269
-  },
-  {
-    "hash": "a3433e936d2c04bfa7722c64f05b5efdfdc6024634f8a182254f80d5e66c1036",
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "ts": 1794268494
-  },
-  {
-    "hash": "ef1bb88f93cdc7e9e54093ad7e9c83d52ae18a983f9d603fbd303eb427e2ccd4",
-    "link": "https://www.producthunt.com/products/vygr",
-    "title": "Voyager",
-    "ts": 1794287193
-  },
-  {
     "hash": "bbd492caba72ca544b8bac3280d7afac87555fa4b30c0b12388bcfae24236fa4",
     "link": "https://openai.com/index/cultfit-builds-with-codex",
     "title": "Cult.fit builds operational muscle with Codex",
@@ -250,5 +178,77 @@
     "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
     "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
     "ts": 1794766301
+  },
+  {
+    "hash": "8f4b2632f43363d7fda4c9360f691ce085164eac7403aa5325d0bf41766b5c13",
+    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "ts": 1794773753
+  },
+  {
+    "hash": "c8dde4086f9ad8bc8df04dacfd29f50935da7bc53d5f7c11e5e8135247a3bfb0",
+    "link": "https://pietromiotti.com/latest/maya-site",
+    "title": "My AI agents found an unmapped Maya site?",
+    "ts": 1794773753
+  },
+  {
+    "hash": "8b9fd5e8fcaa556d10bf8aab6eded463309ec1ff5b8af8531ee20b235eddc1e8",
+    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "title": "All AI-generated code should be Open Source",
+    "ts": 1794773753
+  },
+  {
+    "hash": "5518ef5f75c82c68c027075099e57c7f45b2c4e91b1637f92c5d9d491b343ccb",
+    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "ts": 1794773753
+  },
+  {
+    "hash": "601b39403922f80c3c6d40046745d3a4102adc649880035670c4839248106e3a",
+    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "ts": 1794773753
+  },
+  {
+    "hash": "6c8dc7f5dde27cb405a6fbcb0eb510c71074a4b23da57b178853e16e2f685ebc",
+    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "ts": 1794773753
+  },
+  {
+    "hash": "12990af15e181ab96cfcd59af6eb8fe359a02784c42db964df77ea8b1b569aeb",
+    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "ts": 1794773753
+  },
+  {
+    "hash": "076934ef461be2b954dba572893fb5f40ae22001098ff8f6135cabaaf477c54b",
+    "link": "https://unemploymentlabs.com/checkpoint-forensics",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "ts": 1794773753
+  },
+  {
+    "hash": "02fc21eb33a22c1eb39d70a6fc00b199db6391c857bc5e948e14f026abb8fed1",
+    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "title": "AI is destroying the trust between writers and readers",
+    "ts": 1794773753
+  },
+  {
+    "hash": "4e10e32134f86500f7ca5d42b6cf8b3a1735666c38b8695ba9dd546cdf8a9537",
+    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "ts": 1794773753
+  },
+  {
+    "hash": "97adeb038c6667ff9a311878d3c7593cf6074fd825dea187b71b2147a9c3e3d1",
+    "link": "https://github.com/FrigadeHQ/yogurt",
+    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+    "ts": 1794773753
+  },
+  {
+    "hash": "5d3f1a46c035f064c1e8ec454b1c5e21e2fa5e61a0ba8c6d957902ebb9ac07ed",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "title": "Gemini 4 Carbon is now available",
+    "ts": 1794773753
   }
 ]

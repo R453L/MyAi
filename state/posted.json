@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f2fd344bf7be2cb6a6e37ae4a940ba9c578738b8ca846bd9b36e2853dc9431a3",
-    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-    "title": "Innovating with AI in the special chemicals industry",
-    "ts": 1794368412
-  },
-  {
     "hash": "19b4fcb1faac9c9bdbccd358c8d8e12a9188d32981764b2e3beec26a5de09e66",
     "link": "https://huggingface.co/blog/qvac/botpsy",
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/jiostar-vijay-seshadri",
     "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
     "ts": 1794785989
+  },
+  {
+    "hash": "a8381ccf0f4a6c2675938f915fa2290eeb53bc18d150ac04b33b2724071b93c7",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "title": "Where was Nvidia’s security team?",
+    "ts": 1794831762
   }
 ]

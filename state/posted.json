@@ -1,11 +1,5 @@
 [
   {
-    "hash": "19b4fcb1faac9c9bdbccd358c8d8e12a9188d32981764b2e3beec26a5de09e66",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "ts": 1794396808
-  },
-  {
     "hash": "ac8f18750241a65f1eaff59406bf9b8d8a419cb23f6d29d213a586908db91264",
     "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
@@ -250,5 +244,11 @@
     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "title": "Where was Nvidia’s security team?",
     "ts": 1794831762
+  },
+  {
+    "hash": "21e886491b30cfff0403f0b9b226dc169269e7194d3a973fb9f92f6fcc6f75b9",
+    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "ts": 1794873267
   }
 ]

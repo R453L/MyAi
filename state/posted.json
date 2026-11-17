@@ -1,17 +1,5 @@
 [
   {
-    "hash": "ac8f18750241a65f1eaff59406bf9b8d8a419cb23f6d29d213a586908db91264",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "ts": 1794396808
-  },
-  {
-    "hash": "13e4c95dcbaa6d34090ed25c81da95ae0ecffa6f5294ed82e0ecb8b302653aea",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "ts": 1794396808
-  },
-  {
     "hash": "a6f47a48f30f968dac18095dd33d3d18e6a7c8ac2aa243d1418c67918057d1ea",
     "link": "https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/",
     "title": "Robust Serialization with JSON and Custom Types",
@@ -250,5 +238,17 @@
     "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "ts": 1794873267
+  },
+  {
+    "hash": "eb2651937ed27e6e98285f0b8c7b7f97c1be530677f890d862fe8603ac313367",
+    "link": "https://www.producthunt.com/products/sumsung",
+    "title": "Intelligent Eyewear",
+    "ts": 1794893999
+  },
+  {
+    "hash": "6ebf6d390583b6d31e4e1d9ede8f9b0696dfee5b1707d1399ada0264a6b6c35d",
+    "link": "https://www.producthunt.com/products/notebook-to-notes",
+    "title": "Notebook to Notes",
+    "ts": 1794893999
   }
 ]

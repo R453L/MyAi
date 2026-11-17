@@ -1,11 +1,5 @@
 [
   {
-    "hash": "a6f47a48f30f968dac18095dd33d3d18e6a7c8ac2aa243d1418c67918057d1ea",
-    "link": "https://machinelearningmastery.com/robust-serialization-with-json-and-custom-types/",
-    "title": "Robust Serialization with JSON and Custom Types",
-    "ts": 1794396808
-  },
-  {
     "hash": "f321c904268bcef29356d2d155bbcafcddbf602b9c293f4ee1395ec1aeca5a94",
     "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/notebook-to-notes",
     "title": "Notebook to Notes",
     "ts": 1794893999
+  },
+  {
+    "hash": "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c",
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "ts": 1794935507
   }
 ]

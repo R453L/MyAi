@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f321c904268bcef29356d2d155bbcafcddbf602b9c293f4ee1395ec1aeca5a94",
-    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "ts": 1794423541
-  },
-  {
     "hash": "1e47940e2ce55776300210f42d7e27b0142a210fe035365793143072ea8e4f0e",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXp4UndOa3dWWml4aC1JNmtyY0MxS3ZOTWdlQ3ZjX1MyWmdtNHFHUHpzal8xTFpadk1YaTNsMV9uLUhlcjd2Y3lSVDVmYlhjWktaUFVZN1FPSXZmZUlHa3BGNGczcUloa3ZmRkNFYzVZeXFnNGRLY2ZtTnFEdmZCT2tKM0FvWG9OUnJKamN4MzVjSHBTYjlXcHh1YnRZZWs?oc=5",
     "title": "Webinar to share how to build an effective AI training program - American Hospital Association",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
     "ts": 1794935507
+  },
+  {
+    "hash": "6d0f529677a392e5b019894f18a06d1c9b8df10f7d2c4d80ff66b0d49115f69c",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzdNc1p0dEdSTmN6QjlvTG1jblNIdGJKOS0yRHd1MHNDRXd2clo1aGFTUkJYUHl4SjVzZUVlQmpUODhEdGF3dHAzOVZSRUlzTFRzeFNzamtoY2lXTV9OZTBSaUgxVlZaS3d0SmVUU0JlSkl2QTdBaVI0VzBVNTE5RkVHNDNCWktRcjYzN1kwT0xWUQ?oc=5",
+    "title": "Post flu vaccine, the AI-aided field of RNA therapeutics is set to be supercharged - Stanford Medicine",
+    "ts": 1794967069
   }
 ]

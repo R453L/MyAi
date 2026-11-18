@@ -1,11 +1,5 @@
 [
   {
-    "hash": "1e47940e2ce55776300210f42d7e27b0142a210fe035365793143072ea8e4f0e",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXp4UndOa3dWWml4aC1JNmtyY0MxS3ZOTWdlQ3ZjX1MyWmdtNHFHUHpzal8xTFpadk1YaTNsMV9uLUhlcjd2Y3lSVDVmYlhjWktaUFVZN1FPSXZmZUlHa3BGNGczcUloa3ZmRkNFYzVZeXFnNGRLY2ZtTnFEdmZCT2tKM0FvWG9OUnJKamN4MzVjSHBTYjlXcHh1YnRZZWs?oc=5",
-    "title": "Webinar to share how to build an effective AI training program - American Hospital Association",
-    "ts": 1794447889
-  },
-  {
     "hash": "7c2a55a65128fee872c49f3ee7ed6a8d679a352afaaa74ff033e0947752eeca3",
     "link": "https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/",
     "title": "Decorators for Timing, Retries, Caching, and Validation in Python",
@@ -250,5 +244,11 @@
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzdNc1p0dEdSTmN6QjlvTG1jblNIdGJKOS0yRHd1MHNDRXd2clo1aGFTUkJYUHl4SjVzZUVlQmpUODhEdGF3dHAzOVZSRUlzTFRzeFNzamtoY2lXTV9OZTBSaUgxVlZaS3d0SmVUU0JlSkl2QTdBaVI0VzBVNTE5RkVHNDNCWktRcjYzN1kwT0xWUQ?oc=5",
     "title": "Post flu vaccine, the AI-aided field of RNA therapeutics is set to be supercharged - Stanford Medicine",
     "ts": 1794967069
+  },
+  {
+    "hash": "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "title": "Broadening access to AI for scientists",
+    "ts": 1795041975
   }
 ]

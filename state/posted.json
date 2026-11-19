@@ -1,17 +1,5 @@
 [
   {
-    "hash": "7c2a55a65128fee872c49f3ee7ed6a8d679a352afaaa74ff033e0947752eeca3",
-    "link": "https://machinelearningmastery.com/decorators-for-timing-retries-caching-and-validation-in-python/",
-    "title": "Decorators for Timing, Retries, Caching, and Validation in Python",
-    "ts": 1794484730
-  },
-  {
-    "hash": "c65c7708e93995ca45416c5ef4b52b70460b293ce45783d81126b519537db1b3",
-    "link": "https://huggingface.co/blog/phonon-tts",
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "ts": 1794484730
-  },
-  {
     "hash": "5f3963726dbe36e6ccf9753b6647e286ea2d25f750c2d86a74f9ab28836d655f",
     "link": "https://huggingface.co/blog/decision",
     "title": "Decision Models in Hugging Face",
@@ -250,5 +238,17 @@
     "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
     "title": "Broadening access to AI for scientists",
     "ts": 1795041975
+  },
+  {
+    "hash": "f1c7499142f67fee05b8193d088e587ead2579a5dcd52bf58af460cdf4264ee3",
+    "link": "https://www.producthunt.com/products/saas-toolkit-mcp",
+    "title": "SaaS Toolkit MCP",
+    "ts": 1795064257
+  },
+  {
+    "hash": "aff3ee3326fe842cf58365205cb159be56d800197d3d5dbec390bb59aa97cfab",
+    "link": "https://www.producthunt.com/products/assemblyai",
+    "title": "AssemblyAI-STT-3.7",
+    "ts": 1795064257
   }
 ]

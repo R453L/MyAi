@@ -1,11 +1,5 @@
 [
   {
-    "hash": "8d1ad0c7307ba4730e91474665efa504752120b59c3a250e34b17ba39e98cbe0",
-    "link": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/",
-    "title": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
-    "ts": 1794484730
-  },
-  {
     "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
     "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "ts": 1795107319
+  },
+  {
+    "hash": "bd642f6c65936a428e65084e2a0a82de910c63fbc9669302985e696285b67370",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kYUpsSnlONG5aTXZ1eHZybVVRUTFXRDV6ei1oa3hSRkI4cEk2WmZxZE9xZlRWVmN6eE95SGJEWGpIRHNYY1Q0b0EtOU1vMFRTdlkwaWNWdVZmRnp6dzQ1MA?oc=5",
+    "title": "What Is Pax Silica? - Britannica",
+    "ts": 1795138357
   }
 ]

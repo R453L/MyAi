@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ad09b0946a60b7ff505a8aa281960497bee4e76e2a76825472b127adf5a2ba1b",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "ts": 1794511866
-  },
-  {
     "hash": "46a58226ff65eef32db0b403559a64a8e3f623157d471a9ea2a12ebce6883fdd",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
     "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence - Britannica",
@@ -250,5 +244,11 @@
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kYUpsSnlONG5aTXZ1eHZybVVRUTFXRDV6ei1oa3hSRkI4cEk2WmZxZE9xZlRWVmN6eE95SGJEWGpIRHNYY1Q0b0EtOU1vMFRTdlkwaWNWdVZmRnp6dzQ1MA?oc=5",
     "title": "What Is Pax Silica? - Britannica",
     "ts": 1795138357
+  },
+  {
+    "hash": "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "title": "Explore the Codex Security Plugin",
+    "ts": 1795213560
   }
 ]

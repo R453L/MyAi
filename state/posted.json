@@ -1,23 +1,5 @@
 [
   {
-    "hash": "46a58226ff65eef32db0b403559a64a8e3f623157d471a9ea2a12ebce6883fdd",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-    "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence - Britannica",
-    "ts": 1794530845
-  },
-  {
-    "hash": "4d3938441f216409a8f1b94cf7b0fdb4871145e54a0ab57799f0fbd11992bc85",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "ts": 1794570118
-  },
-  {
-    "hash": "bf7ac00dcbd522dd1a071e20392d5a9fdafed42cbdd2597d941b97e30f68c36d",
-    "link": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
-    "title": "How to Train Your own Decision Model like Jev using Unsloth",
-    "ts": 1794570118
-  },
-  {
     "hash": "cbda9238a3684b28e47a3f036110852a357804594dae3b990092eac946cda973",
     "link": "https://huggingface.co/blog/3d-lora-finetuning",
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
@@ -250,5 +232,23 @@
     "link": "https://openai.com/business/learn/codex-security-plugin-demo",
     "title": "Explore the Codex Security Plugin",
     "ts": 1795213560
+  },
+  {
+    "hash": "6f19d985916b00074304f377841e52a036f2b9b340bf00d9edd56a631ed20f2a",
+    "link": "https://www.producthunt.com/products/tripps",
+    "title": "tripps",
+    "ts": 1795236137
+  },
+  {
+    "hash": "126453ed51f97a5f549882552afe1156e57d1eced3e29ee9e5be9438b2af10b5",
+    "link": "https://www.producthunt.com/products/compassos-dev",
+    "title": "Compass OS",
+    "ts": 1795236137
+  },
+  {
+    "hash": "185e37bc183cb7b9e1cfe15a6ce1c75cad0ce248692caba3e0aa02b4143e76c8",
+    "link": "https://www.producthunt.com/products/interview-coach-3",
+    "title": "Interview Coach",
+    "ts": 1795236137
   }
 ]

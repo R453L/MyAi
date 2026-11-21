@@ -1,11 +1,5 @@
 [
   {
-    "hash": "cbda9238a3684b28e47a3f036110852a357804594dae3b990092eac946cda973",
-    "link": "https://huggingface.co/blog/3d-lora-finetuning",
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "ts": 1794570118
-  },
-  {
     "hash": "ba68d014b0c0b5fafbbfac6fa3ccfbca7fd62542dad283a76bd418a8273c7f16",
     "link": "https://arxiv.org/abs/2611.14794",
     "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/interview-coach-3",
     "title": "Interview Coach",
     "ts": 1795236137
+  },
+  {
+    "hash": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "title": "Combatting adversarial distillation",
+    "ts": 1795295889
   }
 ]

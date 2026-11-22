@@ -1,125 +1,5 @@
 [
   {
-    "hash": "4aa2d6b750a01d806bd2f778df0a75567216d6c3c428a4955c49067b1ecffa88",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDFQRDN0SnBrN0tjWVhOckVncGtra09xalBTNnM1ZFlJMjdacjRvN05BNFB3dmprcDRodWlPTkY5TG1HVVNLcnJmaURycEtJbU56RC1VdGdYZFVqSHF4RWl5dnVlYkVGZ3dqaF81TldrSXZVdThPQkxkcUZfY2tSVGFBdHBqV1BIWnhpTjVkNzZNY0cyOGw0VWYzUQ?oc=5",
-    "title": "How to 'really harness the potential' of AI: Local leaders sound off - Milwaukee Business Journal - The Business Journals",
-    "ts": 1794616362
-  },
-  {
-    "hash": "11568aa8dfcf9a3c07504fe25196e1495017d378dc1ddce0dd1b3a34d4b9b5b8",
-    "link": "https://huggingface.co/blog/token-pooling",
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "ts": 1794654372
-  },
-  {
-    "hash": "292429af02ff882412fb8abc377170f4abd424ce2dfb97a503a73684f4eb2178",
-    "link": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
-    "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
-    "ts": 1794654372
-  },
-  {
-    "hash": "10d599a9f34a1ea06db9aeea9c5ae36f5a7df2c4f9697e83ad6548eb9949d778",
-    "link": "https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/",
-    "title": "How to Build a Multi-Modal RAG Pipeline for Images and Documents in Python",
-    "ts": 1794654372
-  },
-  {
-    "hash": "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "ts": 1794654372
-  },
-  {
-    "hash": "d0f9bf46fa9dba7cc8efaedfd242bd87fcfd2424508bec21de1f7baf642d26dc",
-    "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-    "title": "Opening the datasets behind our AI weather models",
-    "ts": 1794677216
-  },
-  {
-    "hash": "0f0020abcf733229d29f4d40e095eae692bb4a4c21852ac4cbeb6daf98f1617e",
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "title": "Helping caregivers use AI in everyday life",
-    "ts": 1794699048
-  },
-  {
-    "hash": "cb963bf5b4070264ebbfb54ca71c1db97611f33696ea0d662bf8ea7324e098ec",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GMWxBeEhtR2JhRG1PRkhad0NBbGNkT18tbTZIYVRFdkdHYm1HN3BRTGE4anpTRlljek1tNUliM0Zwc0NfSi04Z1J2Sk51Nm9vSF9IMm1aWGs0bERDY3I3ejZ0ekpiaHBNYWFxSDJB?oc=5",
-    "title": "AI discovers a hidden heart signal that could predict sudden death - Science Daily",
-    "ts": 1794714257
-  },
-  {
-    "hash": "6841e619fcd7e8d9370258a227590a244c9afe604f7f173c18d14806c323db86",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "ts": 1794742714
-  },
-  {
-    "hash": "ad3ae4c1a664f5dc190f61d311524a1031b5acf03b359dd8cb5e09ba33fe7128",
-    "link": "https://machinelearningmastery.com/diffusiongemma-hands-on-with-googles-text-model-that-writes-all-at-once/",
-    "title": "DiffusionGemma: Hands-On with Google’s Text Model That Writes All at Once",
-    "ts": 1794742714
-  },
-  {
-    "hash": "46fb390b301c13d6bf43135689516d78c3edaaab625e0913051d0bb73c76038b",
-    "link": "https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/",
-    "title": "The AI Agent Memory Stack: Building Blocks, Patterns, and Frameworks",
-    "ts": 1794742714
-  },
-  {
-    "hash": "8827aad4505e69ef98eb5a35323bf36ab3ed2a3bb0a72d80b78337fc2eae5ce7",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "ts": 1794766301
-  },
-  {
-    "hash": "8f4b2632f43363d7fda4c9360f691ce085164eac7403aa5325d0bf41766b5c13",
-    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "ts": 1794773753
-  },
-  {
-    "hash": "c8dde4086f9ad8bc8df04dacfd29f50935da7bc53d5f7c11e5e8135247a3bfb0",
-    "link": "https://pietromiotti.com/latest/maya-site",
-    "title": "My AI agents found an unmapped Maya site?",
-    "ts": 1794773753
-  },
-  {
-    "hash": "8b9fd5e8fcaa556d10bf8aab6eded463309ec1ff5b8af8531ee20b235eddc1e8",
-    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "title": "All AI-generated code should be Open Source",
-    "ts": 1794773753
-  },
-  {
-    "hash": "5518ef5f75c82c68c027075099e57c7f45b2c4e91b1637f92c5d9d491b343ccb",
-    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "ts": 1794773753
-  },
-  {
-    "hash": "601b39403922f80c3c6d40046745d3a4102adc649880035670c4839248106e3a",
-    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-    "title": "Apple has new Mac app coming to make running local AI models easy",
-    "ts": 1794773753
-  },
-  {
-    "hash": "6c8dc7f5dde27cb405a6fbcb0eb510c71074a4b23da57b178853e16e2f685ebc",
-    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "ts": 1794773753
-  },
-  {
-    "hash": "12990af15e181ab96cfcd59af6eb8fe359a02784c42db964df77ea8b1b569aeb",
-    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "ts": 1794773753
-  },
-  {
-    "hash": "076934ef461be2b954dba572893fb5f40ae22001098ff8f6135cabaaf477c54b",
-    "link": "https://unemploymentlabs.com/checkpoint-forensics",
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "ts": 1794773753
-  },
-  {
     "hash": "02fc21eb33a22c1eb39d70a6fc00b199db6391c857bc5e948e14f026abb8fed1",
     "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
     "title": "AI is destroying the trust between writers and readers",
@@ -250,5 +130,125 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
     "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence) - The Guardian",
     "ts": 1795319823
+  },
+  {
+    "hash": "89c1b5008b7af961675486e4f3aa2c2cf8fcf280afcc527a0c73d6bb46e72d75",
+    "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "title": "Inkling 2 Mini",
+    "ts": 1795380957
+  },
+  {
+    "hash": "15969c90ab8fc1c8a428c62d96326d3934b88dc4ff27b67f4bac1ec89724a435",
+    "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "title": "Anthropic’s Nasdaq debut",
+    "ts": 1795380957
+  },
+  {
+    "hash": "f539fcdaf975fdb95a5bae097e6d5ad73098fb6ef262c35175e2b68cea5d0ea8",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "title": "Gemini 4 Neon",
+    "ts": 1795380957
+  },
+  {
+    "hash": "6663bdbb07465939d1ffa7348d19451798ddcb67a6c7812b72543066b5a62510",
+    "link": "https://nicolasbouliane.com/blog/death-by-ai",
+    "title": "AI is killing All About Berlin",
+    "ts": 1795380957
+  },
+  {
+    "hash": "8c9d1d1bd7692dd29f4e78362452e2469cf2566c484ff22046f585ca1668de61",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "ts": 1795380957
+  },
+  {
+    "hash": "3293eb0f037addf5466f9d97352c19b5ad398a5bf8986af2c4f0475ef4fcdcdf",
+    "link": "https://news.ycombinator.com/item?id=50583761",
+    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "ts": 1795380957
+  },
+  {
+    "hash": "89626dbace3abab073805ba8045870a859ae8ea08217116b3f5114d779836c03",
+    "link": "https://revscope.co/blog/search-seo-geo-2026/",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "ts": 1795380957
+  },
+  {
+    "hash": "3381c1b46b2b81fa0a771b8a1f3da29d0a409d7a204fa1944649d30c79a386e2",
+    "link": "https://architectlabs.com/blog/frostbite",
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "ts": 1795380957
+  },
+  {
+    "hash": "75c02aa08a23cbf1e66c2ffdbba2463bb2e00fabdda0a4d668eca941930d2a27",
+    "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+    "title": "Fuck Your AI Safeguards",
+    "ts": 1795380957
+  },
+  {
+    "hash": "ab00b903e6c152288b03148162d865536b692f74e640264d310be5af4754724e",
+    "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "title": "Seven new models at scalable price-performance",
+    "ts": 1795380957
+  },
+  {
+    "hash": "8e7b1da91569f41ae654d89899021bec74fd940d8c874beb7320dba2170076c3",
+    "link": "https://signal.org/blog/protecting-your-privacy/",
+    "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+    "ts": 1795380957
+  },
+  {
+    "hash": "0d485e0dfc8d69ca83636983a47bd92cb7a424b097b2fd243ee7efc1da523a02",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+    "ts": 1795380957
+  },
+  {
+    "hash": "ee3431af9f197f0e42bf99c06080bce3c267b9a44201bbc0294fefa6d824eda1",
+    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "ts": 1795380957
+  },
+  {
+    "hash": "5fb2adb0a1f12f7b3992786899c7bab6edc732a7d24584fc6f8bc5d7985f2ed4",
+    "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "ts": 1795380957
+  },
+  {
+    "hash": "1ed525b777a52b12b89e104750e4fc3a315188fefe7ccb95fbd7298d6a85927a",
+    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "ts": 1795380957
+  },
+  {
+    "hash": "52f6bc9a43b3606d3a017786cb62ffc7a7c614e673e196f0232e907124c03544",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "title": "Genie 4 is now available",
+    "ts": 1795380957
+  },
+  {
+    "hash": "df8a0760e59baf58668af96fffe2e641f128bea8572f10a7aa6baccb124493e4",
+    "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+    "title": "Google workers tell their employer not to punish schools that don't want AI",
+    "ts": 1795380957
+  },
+  {
+    "hash": "b9120f9f49386fdc9963dec486a789f8aba0cc43eb5dc6a7ad9469a9d7929af9",
+    "link": "https://thedataexchange.media/pete-warden-moonshine/",
+    "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+    "ts": 1795380957
+  },
+  {
+    "hash": "b9d1c9e9c4cc8c6bd95a9938a8e997f40281fbecbb7054cda3a782090cd65cee",
+    "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "title": "Data Processing Incidents on Inference Providers",
+    "ts": 1795380957
+  },
+  {
+    "hash": "6ca6a1ab86c20b30438819689672bb0930600ee0b724f0cab596c264d27e6cd0",
+    "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "ts": 1795380957
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "hash": "ba68d014b0c0b5fafbbfac6fa3ccfbca7fd62542dad283a76bd418a8273c7f16",
-    "link": "https://arxiv.org/abs/2611.14794",
-    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-    "ts": 1794596089
-  },
-  {
     "hash": "4aa2d6b750a01d806bd2f778df0a75567216d6c3c428a4955c49067b1ecffa88",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDFQRDN0SnBrN0tjWVhOckVncGtra09xalBTNnM1ZFlJMjdacjRvN05BNFB3dmprcDRodWlPTkY5TG1HVVNLcnJmaURycEtJbU56RC1VdGdYZFVqSHF4RWl5dnVlYkVGZ3dqaF81TldrSXZVdThPQkxkcUZfY2tSVGFBdHBqV1BIWnhpTjVkNzZNY0cyOGw0VWYzUQ?oc=5",
     "title": "How to 'really harness the potential' of AI: Local leaders sound off - Milwaukee Business Journal - The Business Journals",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/combatting-adversarial-distillation",
     "title": "Combatting adversarial distillation",
     "ts": 1795295889
+  },
+  {
+    "hash": "fffdd2407285b9d31919f76be8dd6b4a902ad91768eabaab66dd84c442697a0d",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
+    "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence) - The Guardian",
+    "ts": 1795319823
   }
 ]

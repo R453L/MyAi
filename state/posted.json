@@ -1,11 +1,5 @@
 [
   {
-    "hash": "02fc21eb33a22c1eb39d70a6fc00b199db6391c857bc5e948e14f026abb8fed1",
-    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-    "title": "AI is destroying the trust between writers and readers",
-    "ts": 1794773753
-  },
-  {
     "hash": "4e10e32134f86500f7ca5d42b6cf8b3a1735666c38b8695ba9dd546cdf8a9537",
     "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
@@ -250,5 +244,11 @@
     "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
     "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
     "ts": 1795380957
+  },
+  {
+    "hash": "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0",
+    "link": "https://openai.com/index/managing-frontier-ai-risk",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "ts": 1795382637
   }
 ]

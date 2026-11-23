@@ -1,11 +1,5 @@
 [
   {
-    "hash": "55ff14dc4213127df72a8039620109cd467ed21c91f1958dfd8ce815a783074c",
-    "link": "https://openai.com/index/jiostar-vijay-seshadri",
-    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "ts": 1794785989
-  },
-  {
     "hash": "a8381ccf0f4a6c2675938f915fa2290eeb53bc18d150ac04b33b2724071b93c7",
     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "title": "Where was Nvidia’s security team?",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/mockreel",
     "title": "Mockreel",
     "ts": 1795408694
+  },
+  {
+    "hash": "8c1854f784a023ca0465f342786ad5f8d5da56a3273aa53bfe9ee72aee239f4b",
+    "link": "https://arxiv.org/abs/2611.26942",
+    "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
+    "ts": 1795462773
   }
 ]

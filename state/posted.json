@@ -1,23 +1,5 @@
 [
   {
-    "hash": "4e10e32134f86500f7ca5d42b6cf8b3a1735666c38b8695ba9dd546cdf8a9537",
-    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "ts": 1794773753
-  },
-  {
-    "hash": "97adeb038c6667ff9a311878d3c7593cf6074fd825dea187b71b2147a9c3e3d1",
-    "link": "https://github.com/FrigadeHQ/yogurt",
-    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "ts": 1794773753
-  },
-  {
-    "hash": "5d3f1a46c035f064c1e8ec454b1c5e21e2fa5e61a0ba8c6d957902ebb9ac07ed",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-    "title": "Gemini 4 Carbon is now available",
-    "ts": 1794773753
-  },
-  {
     "hash": "55ff14dc4213127df72a8039620109cd467ed21c91f1958dfd8ce815a783074c",
     "link": "https://openai.com/index/jiostar-vijay-seshadri",
     "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
@@ -250,5 +232,23 @@
     "link": "https://openai.com/index/managing-frontier-ai-risk",
     "title": "Managing frontier AI risk: From training to deployment",
     "ts": 1795382637
+  },
+  {
+    "hash": "8d2dca2c7be0b2ac149db0aae202efaa7f136751963b2ac551514f9f39c46f41",
+    "link": "https://www.producthunt.com/products/webless",
+    "title": "Webless Agents",
+    "ts": 1795408694
+  },
+  {
+    "hash": "aa5c6626a6f9e4d003b2e9bdcf5f717044bd9e6b4e301a78590423457fda4a0f",
+    "link": "https://www.producthunt.com/products/creavit-studio",
+    "title": "Creavit Studio 4.0",
+    "ts": 1795408694
+  },
+  {
+    "hash": "5e548699040500dad84b6eb57dae9b86a0b2db59e5d61c684a611ab09e612347",
+    "link": "https://www.producthunt.com/products/mockreel",
+    "title": "Mockreel",
+    "ts": 1795408694
   }
 ]

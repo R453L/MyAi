@@ -1,11 +1,5 @@
 [
   {
-    "hash": "eb2651937ed27e6e98285f0b8c7b7f97c1be530677f890d862fe8603ac313367",
-    "link": "https://www.producthunt.com/products/sumsung",
-    "title": "Intelligent Eyewear",
-    "ts": 1794893999
-  },
-  {
     "hash": "6ebf6d390583b6d31e4e1d9ede8f9b0696dfee5b1707d1399ada0264a6b6c35d",
     "link": "https://www.producthunt.com/products/notebook-to-notes",
     "title": "Notebook to Notes",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/gauth-ai-course",
     "title": "Gauth Personal Study Agent",
     "ts": 1795494661
+  },
+  {
+    "hash": "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "ts": 1795547496
   }
 ]

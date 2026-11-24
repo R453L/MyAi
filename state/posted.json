@@ -1,17 +1,5 @@
 [
   {
-    "hash": "a8381ccf0f4a6c2675938f915fa2290eeb53bc18d150ac04b33b2724071b93c7",
-    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "title": "Where was Nvidia’s security team?",
-    "ts": 1794831762
-  },
-  {
-    "hash": "21e886491b30cfff0403f0b9b226dc169269e7194d3a973fb9f92f6fcc6f75b9",
-    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-    "title": "More ways to move care forward with ChatGPT for Healthcare",
-    "ts": 1794873267
-  },
-  {
     "hash": "eb2651937ed27e6e98285f0b8c7b7f97c1be530677f890d862fe8603ac313367",
     "link": "https://www.producthunt.com/products/sumsung",
     "title": "Intelligent Eyewear",
@@ -250,5 +238,17 @@
     "link": "https://arxiv.org/abs/2611.26942",
     "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
     "ts": 1795462773
+  },
+  {
+    "hash": "d29185cf3f97a7b1d024061550381567d38db6009a5a14a784c2208d40fd70ea",
+    "link": "https://www.producthunt.com/products/tesla",
+    "title": "Tesla Self-Driving V15",
+    "ts": 1795494661
+  },
+  {
+    "hash": "8edf310cbf9c0577d1442636c4cd5696451a55aa7623a070868aa93a2865a400",
+    "link": "https://www.producthunt.com/products/gauth-ai-course",
+    "title": "Gauth Personal Study Agent",
+    "ts": 1795494661
   }
 ]

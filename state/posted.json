@@ -1,11 +1,5 @@
 [
   {
-    "hash": "6ebf6d390583b6d31e4e1d9ede8f9b0696dfee5b1707d1399ada0264a6b6c35d",
-    "link": "https://www.producthunt.com/products/notebook-to-notes",
-    "title": "Notebook to Notes",
-    "ts": 1794893999
-  },
-  {
     "hash": "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c",
     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "title": "Introducing Gemini 4 Hydrogen",
     "ts": 1795547496
+  },
+  {
+    "hash": "ba04202ccacdf3a83e4eff1490f089f83f209911a279b207309c448df724fe07",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3M5NVlhTFR3T1hHeGpDeGNXQjVCQnEtWG1DS2JmUmVrUlR4QUpPZGloN1pXam9RSTJvSy1rRUpRZEl1OTFaMXJ1MVZ4Skt0ejE2TEVra1ZjUUUtWnJjLUZ0ZGF5ajlvMWI3LVBXTVBTd0tPbDE2UDdwZEtWbHRWUlY2U25ZcFhxcEE?oc=5",
+    "title": "DOJ’s New Super Intelligence Task Force Signals More Coordinated AI Enforcement - JD Supra",
+    "ts": 1795576463
   }
 ]

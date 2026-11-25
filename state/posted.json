@@ -1,11 +1,5 @@
 [
   {
-    "hash": "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "ts": 1794935507
-  },
-  {
     "hash": "6d0f529677a392e5b019894f18a06d1c9b8df10f7d2c4d80ff66b0d49115f69c",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzdNc1p0dEdSTmN6QjlvTG1jblNIdGJKOS0yRHd1MHNDRXd2clo1aGFTUkJYUHl4SjVzZUVlQmpUODhEdGF3dHAzOVZSRUlzTFRzeFNzamtoY2lXTV9OZTBSaUgxVlZaS3d0SmVUU0JlSkl2QTdBaVI0VzBVNTE5RkVHNDNCWktRcjYzN1kwT0xWUQ?oc=5",
     "title": "Post flu vaccine, the AI-aided field of RNA therapeutics is set to be supercharged - Stanford Medicine",
@@ -250,5 +244,11 @@
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3M5NVlhTFR3T1hHeGpDeGNXQjVCQnEtWG1DS2JmUmVrUlR4QUpPZGloN1pXam9RSTJvSy1rRUpRZEl1OTFaMXJ1MVZ4Skt0ejE2TEVra1ZjUUUtWnJjLUZ0ZGF5ajlvMWI3LVBXTVBTd0tPbDE2UDdwZEtWbHRWUlY2U25ZcFhxcEE?oc=5",
     "title": "DOJ’s New Super Intelligence Task Force Signals More Coordinated AI Enforcement - JD Supra",
     "ts": 1795576463
+  },
+  {
+    "hash": "7758c04a629331bf96383fb7f46e256dce8c50dc19007956b18ca6b429d0aeb8",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "title": "Searching for distant planets with Astra",
+    "ts": 1795650755
   }
 ]

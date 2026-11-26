@@ -1,11 +1,5 @@
 [
   {
-    "hash": "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266",
-    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "title": "Broadening access to AI for scientists",
-    "ts": 1795041975
-  },
-  {
     "hash": "f1c7499142f67fee05b8193d088e587ead2579a5dcd52bf58af460cdf4264ee3",
     "link": "https://www.producthunt.com/products/saas-toolkit-mcp",
     "title": "SaaS Toolkit MCP",
@@ -250,5 +244,11 @@
     "link": "https://www.producthunt.com/products/canva",
     "title": "Canva MCP",
     "ts": 1795672331
+  },
+  {
+    "hash": "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c",
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "ts": 1795715873
   }
 ]

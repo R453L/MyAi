@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f1c7499142f67fee05b8193d088e587ead2579a5dcd52bf58af460cdf4264ee3",
-    "link": "https://www.producthunt.com/products/saas-toolkit-mcp",
-    "title": "SaaS Toolkit MCP",
-    "ts": 1795064257
-  },
-  {
     "hash": "aff3ee3326fe842cf58365205cb159be56d800197d3d5dbec390bb59aa97cfab",
     "link": "https://www.producthunt.com/products/assemblyai",
     "title": "AssemblyAI-STT-3.7",
@@ -250,5 +244,11 @@
     "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
     "ts": 1795715873
+  },
+  {
+    "hash": "bb94a13627a186100b7a6ede7173b69cfb9c925b94f5e75454b1e0c5107b16ba",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblQzX1JlcEFMN0YtNkdEME5pVGk4MnF4T0tYSXI5TVZ0UkYtQjZscnU2VjdMTG8xaVhpV0s2eWdNaFlsMVVCTkY5V2d4VjNOWU1MVng4TkZDVW41SFZ1T1dOVEF4LWh0WG92YXlfNHdQN1NCaXFzQkFuSEUwV25oQ1VURHg4enFKLU9hRHZEc0pYUnFsbDVMRUpOdmJmNUhkZVlod1BmemZmd0RnWlhJT05R?oc=5",
+    "title": "Expert advises caution with personal data when using AI to shop on Black Friday - WBAY",
+    "ts": 1795746702
   }
 ]

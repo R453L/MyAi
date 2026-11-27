@@ -1,11 +1,5 @@
 [
   {
-    "hash": "aff3ee3326fe842cf58365205cb159be56d800197d3d5dbec390bb59aa97cfab",
-    "link": "https://www.producthunt.com/products/assemblyai",
-    "title": "AssemblyAI-STT-3.7",
-    "ts": 1795064257
-  },
-  {
     "hash": "f09d7876c1e95fcaa2b60c323af19ad289d82ef6491e6c110393ed00f6fe0f95",
     "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -250,5 +244,11 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblQzX1JlcEFMN0YtNkdEME5pVGk4MnF4T0tYSXI5TVZ0UkYtQjZscnU2VjdMTG8xaVhpV0s2eWdNaFlsMVVCTkY5V2d4VjNOWU1MVng4TkZDVW41SFZ1T1dOVEF4LWh0WG92YXlfNHdQN1NCaXFzQkFuSEUwV25oQ1VURHg4enFKLU9hRHZEc0pYUnFsbDVMRUpOdmJmNUhkZVlod1BmemZmd0RnWlhJT05R?oc=5",
     "title": "Expert advises caution with personal data when using AI to shop on Black Friday - WBAY",
     "ts": 1795746702
+  },
+  {
+    "hash": "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "ts": 1795823349
   }
 ]

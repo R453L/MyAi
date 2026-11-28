@@ -1,11 +1,5 @@
 [
   {
-    "hash": "f09d7876c1e95fcaa2b60c323af19ad289d82ef6491e6c110393ed00f6fe0f95",
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "ts": 1795107319
-  },
-  {
     "hash": "bd642f6c65936a428e65084e2a0a82de910c63fbc9669302985e696285b67370",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kYUpsSnlONG5aTXZ1eHZybVVRUTFXRDV6ei1oa3hSRkI4cEk2WmZxZE9xZlRWVmN6eE95SGJEWGpIRHNYY1Q0b0EtOU1vMFRTdlkwaWNWdVZmRnp6dzQ1MA?oc=5",
     "title": "What Is Pax Silica? - Britannica",
@@ -250,5 +244,11 @@
     "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "ts": 1795823349
+  },
+  {
+    "hash": "05ca3e77b86ce14128a9432c6987eafe3d43c620597ca5b1e6cf0ccf81f9a739",
+    "link": "https://www.producthunt.com/products/chickytutor",
+    "title": "ChickyTutor",
+    "ts": 1795843556
   }
 ]
